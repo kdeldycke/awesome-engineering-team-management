@@ -8,3 +8,7 @@
 ## Engineering to Management Transition
 
 * [Going from Developer to Manager. What should I know or learn?](https://news.ycombinator.com/item?id=18823616).
+
+## Product management
+
+* [A curated list of product management advice for technical people](https://github.com/tron1991/open-product-management)
