@@ -18,3 +18,7 @@
 
 * [Executives ratify decisions made on the spot.](https://twitter.com/kdeldycke/status/1088001688722644992)
 * [Devs I really enjoy pairing with](https://twitter.com/ScribblingOn/status/1002598672444448768)
+
+## Recruitment
+
+* [Secret manager trick of hiring data scientists](https://twitter.com/kdeldycke/status/1008383946831417344)
