@@ -15,4 +15,4 @@
 
 ## Team Dynamics
 
-* [Executives ratify decisions made on the spot."](https://twitter.com/kdeldycke/status/1088001688722644992)
+* [Executives ratify decisions made on the spot.](https://twitter.com/kdeldycke/status/1088001688722644992)
