@@ -9,6 +9,10 @@
 
 * [Going from Developer to Manager. What should I know or learn?](https://news.ycombinator.com/item?id=18823616).
 
-## Product management
+## Product Management
 
 * [A curated list of product management advice for technical people](https://github.com/tron1991/open-product-management)
+
+## Team Dynamics
+
+* [Executives ratify decisions made on the spot."](https://twitter.com/kdeldycke/status/1088001688722644992)
