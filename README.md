@@ -7,6 +7,7 @@
 
 ## Engineering to Management Transition
 
+* [Advice to new managers](https://twitter.com/farbodsaraf/status/967493247525322753)
 * [Going from Developer to Manager. What should I know or learn?](https://news.ycombinator.com/item?id=18823616).
 
 ## Product Management
