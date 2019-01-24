@@ -18,6 +18,7 @@
 
 * [Executives ratify decisions made on the spot.](https://twitter.com/kdeldycke/status/1088001688722644992)
 * [Devs I really enjoy pairing with](https://twitter.com/ScribblingOn/status/1002598672444448768)
+* [How to Celebrate the Small Wins](https://medium.dave-bailey.com/how-to-celebrate-the-small-wins-4a03004a1816)
 
 ## Recruitment
 
