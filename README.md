@@ -23,3 +23,7 @@
 ## Recruitment
 
 * [Secret manager trick of hiring data scientists](https://twitter.com/kdeldycke/status/1008383946831417344)
+
+## Project Management
+
+* [A list of GitHub labels for reuse across projects](https://twitter.com/abdonrd/status/991697736230633474)
