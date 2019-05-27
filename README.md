@@ -21,6 +21,7 @@
 * [Devs I really enjoy pairing with](https://twitter.com/ScribblingOn/status/1002598672444448768)
 * [How to Celebrate the Small Wins](https://medium.dave-bailey.com/how-to-celebrate-the-small-wins-4a03004a1816)
 * [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc)
+* [As a product manager...how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
 
 ## Remote Work
 
