@@ -12,6 +12,7 @@
 
 ## Product Management
 
+* [Awesome Product Management](https://github.com/dend/awesome-product-management)
 * [A curated list of product management advice for technical people](https://github.com/tron1991/open-product-management)
 * [Things Many People Find Too Obvious To Have Told You Already](https://twitter.com/patio11/status/936615043126370306)
 
