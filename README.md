@@ -39,3 +39,7 @@
 ## Project Management
 
 * [A list of GitHub labels for reuse across projects](https://twitter.com/abdonrd/status/991697736230633474)
+
+## Agile
+
+* `The fundamental problem that drives most agile failures isn't in the team's execution, it's in the business' expectations. One side is signed up for incremental delivery, and one side is set up for a fixed scope and deadline and the result is misery. I think this article makes a lot of good points.` [Source](https://news.ycombinator.com/item?id=20326074).
