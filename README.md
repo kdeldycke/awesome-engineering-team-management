@@ -30,6 +30,7 @@
 * [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc)
 * [As a product manager...how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
 * [Teams are like bread](https://blog.jessitron.com/2019/06/15/teams-are-like-bread/) - `If you have one team where the magic is flourishing, don’t kill it. Feed it, grow it, and let it be a source of further strong teams. No rushing.`
+* `"You know your game fails when you read in the news about the feature you are supposed to have".` ([source](https://news.ycombinator.com/item?id=20220484))
 
 
 ## Re-organizations
