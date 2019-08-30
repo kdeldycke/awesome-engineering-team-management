@@ -31,6 +31,10 @@
 * [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc)
 * [As a product manager...how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
 * [Teams are like bread](https://blog.jessitron.com/2019/06/15/teams-are-like-bread/) - `If you have one team where the magic is flourishing, don’t kill it. Feed it, grow it, and let it be a source of further strong teams. No rushing.`
+
+
+## Cross Team Dynamics
+
 * `"You know your game fails when you read in the news about the feature you are supposed to have".` ([source](https://news.ycombinator.com/item?id=20220484))
 
 
@@ -66,3 +70,8 @@
 * [OKRs from a development team’s perspective](https://zafulabs.com/2019/05/24/okrs-from-a-development-teams-perspective/) - On how OKRs articulates with a backlog.
 * [Why individual OKRs don’t work for us](https://hrblog.spotify.com/2016/08/15/our-beliefs/) - Spotify decision to stop using OKRs for individuals.
 * `One way in which I've seen OKRs used effectively is as a defense against the type of middle or upper manager who is constantly coming up with new ideas or tasks.` ([source](https://news.ycombinator.com/item?id=19550614))
+
+
+## Exits
+
+* `Most of the time people leave bosses, not the job or the company.` And why you're unkikely to get any substential insights from exit interviews. ([source](https://news.ycombinator.com/item?id=20787874))
