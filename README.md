@@ -72,6 +72,11 @@
 * `One way in which I've seen OKRs used effectively is as a defense against the type of middle or upper manager who is constantly coming up with new ideas or tasks.` ([source](https://news.ycombinator.com/item?id=19550614))
 
 
+## Stress
+
+* [If You’re So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week) - `Our tendency to overwork and burn out is framed by a complex combination of factors involving our profession, our organization, and ourselves. At the heart of it is insecurity.`
+
+
 ## Exits
 
 * [Colleague is leaving. How to investigate what went wrong?](https://news.ycombinator.com/item?id=20786755) - `Most of the time people leave bosses, not the job or the company.` And why you're unlikely to get any substential insights from exit interviews. ([source](https://news.ycombinator.com/item?id=20787874))
