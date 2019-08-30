@@ -38,13 +38,6 @@
 * `"You know your game fails when you read in the news about the feature you are supposed to have".` ([source](https://news.ycombinator.com/item?id=20220484))
 
 
-## Re-organizations
-
-* `If you have dealt with large, completely incompetent organisations and wondered how the hell they actually keep going - theres your answer. If built correctly it's genuinely difficult to mess things up.` ([source](https://news.ycombinator.com/item?id=20533922))
-* [An Alternative Approach to Re-Orgs At Your Company](https://caseyaccidental.com/alternative-approach-re-orgs/) - `Trying not to repeat re-org mistakes, we started working on a structure that would make the re-org act like a feedback-fueled progress driven by the teams instead of by people above them.`
-* `“People do get pissed off in clusters” is the best description of a team/company meltdown that I’ve ever seen.` ([source](https://news.ycombinator.com/item?id=19755001))
-
-
 ## Remote Work
 
 * [Managing Remote Teams - A Crash Course](http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course)
@@ -72,6 +65,12 @@
 * `One way in which I've seen OKRs used effectively is as a defense against the type of middle or upper manager who is constantly coming up with new ideas or tasks.` ([source](https://news.ycombinator.com/item?id=19550614))
 
 
+## Re-organizations
+
+* `If you have dealt with large, completely incompetent organisations and wondered how the hell they actually keep going - theres your answer. If built correctly it's genuinely difficult to mess things up.` ([source](https://news.ycombinator.com/item?id=20533922))
+* [An Alternative Approach to Re-Orgs At Your Company](https://caseyaccidental.com/alternative-approach-re-orgs/) - `Trying not to repeat re-org mistakes, we started working on a structure that would make the re-org act like a feedback-fueled progress driven by the teams instead of by people above them.`
+
+
 ## Stress
 
 * [If You’re So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week) - `Our tendency to overwork and burn out is framed by a complex combination of factors involving our profession, our organization, and ourselves. At the heart of it is insecurity.`
@@ -80,3 +79,4 @@
 ## Exits
 
 * [Colleague is leaving. How to investigate what went wrong?](https://news.ycombinator.com/item?id=20786755) - `Most of the time people leave bosses, not the job or the company.` And why you're unlikely to get any substential insights from exit interviews. ([source](https://news.ycombinator.com/item?id=20787874))
+* `“People do get pissed off in clusters” is the best description of a team/company meltdown that I’ve ever seen.` ([source](https://news.ycombinator.com/item?id=19755001))
