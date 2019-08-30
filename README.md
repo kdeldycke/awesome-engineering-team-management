@@ -74,4 +74,4 @@
 
 ## Exits
 
-* [Colleague is leaving. How to investigate what went wrong?](https://news.ycombinator.com/item?id=20786755) - `Most of the time people leave bosses, not the job or the company.` And why you're unkikely to get any substential insights from exit interviews. ([source](https://news.ycombinator.com/item?id=20787874))
+* [Colleague is leaving. How to investigate what went wrong?](https://news.ycombinator.com/item?id=20786755) - `Most of the time people leave bosses, not the job or the company.` And why you're unlikely to get any substential insights from exit interviews. ([source](https://news.ycombinator.com/item?id=20787874))
