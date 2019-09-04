@@ -37,6 +37,7 @@
 ## Cross Team Dynamics
 
 * `"You know your game fails when you read in the news about the feature you are supposed to have".` ([source](https://news.ycombinator.com/item?id=20220484))
+* `A consultant is someone 4 pages ahead in the manual` ([source](https://news.ycombinator.com/item?id=20786286)).
 
 
 ## Remote Work
