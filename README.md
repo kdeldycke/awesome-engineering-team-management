@@ -16,6 +16,17 @@ You always been a developer. Being offered a management position is not a promot
 * [Teams are like bread](https://blog.jessitron.com/2019/06/15/teams-are-like-bread/) - `If you have one team where the magic is flourishing, don’t kill it. Feed it, grow it, and let it be a source of further strong teams. No rushing.`
 
 
+## Roles
+
+On the attitude, behavior, and expectation between developers, managers and executives.
+
+* [Executives ratify decisions made on the spot](https://twitter.com/kdeldycke/status/1088001688722644992).
+* [As a product manager...how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
+* `Over the years we have developed the policy that it is important for the supervisor to thoroughly know and understand the work of his group.` ([source](https://news.ycombinator.com/item?id=20683609)). From [The HP Way: How Bill Hewlett and I Built Our Company](https://www.amazon.fr/dp/0060845791).
+* [Devs I really enjoy pairing with](https://twitter.com/ScribblingOn/status/1002598672444448768).
+* `A consultant is someone 4 pages ahead in the manual` ([source](https://news.ycombinator.com/item?id=20786286)).
+
+
 ## Recruitment
 
 * [Secret manager trick of hiring data scientists](https://twitter.com/kdeldycke/status/1008383946831417344)
@@ -28,17 +39,10 @@ You always been a developer. Being offered a management position is not a promot
 
 ## Team Dynamics
 
-* [Executives ratify decisions made on the spot.](https://twitter.com/kdeldycke/status/1088001688722644992)
-* [Devs I really enjoy pairing with](https://twitter.com/ScribblingOn/status/1002598672444448768)
+On the day-to-day dynamics of the team.
+
 * [How to Celebrate the Small Wins](https://medium.dave-bailey.com/how-to-celebrate-the-small-wins-4a03004a1816)
-* [As a product manager...how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
-* `Over the years we have developed the policy that it is important for the supervisor to thoroughly know and understand the work of his group.` ([source](https://news.ycombinator.com/item?id=20683609)). From [The HP Way: How Bill Hewlett and I Built Our Company](https://www.amazon.fr/dp/0060845791).
-
-
-## Cross Team Dynamics
-
 * `"You know your game fails when you read in the news about the feature you are supposed to have".` ([source](https://news.ycombinator.com/item?id=20220484))
-* `A consultant is someone 4 pages ahead in the manual` ([source](https://news.ycombinator.com/item?id=20786286)).
 
 
 ## Remote Work
