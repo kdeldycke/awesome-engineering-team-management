@@ -86,6 +86,7 @@ On the day-to-day dynamics of the team.
 
 * `If you have dealt with large, completely incompetent organisations and wondered how the hell they actually keep going - theres your answer. If built correctly it's genuinely difficult to mess things up.` ([source](https://news.ycombinator.com/item?id=20533922))
 * [An Alternative Approach to Re-Orgs At Your Company](https://caseyaccidental.com/alternative-approach-re-orgs/) - `Trying not to repeat re-org mistakes, we started working on a structure that would make the re-org act like a feedback-fueled progress driven by the teams instead of by people above them.`
+* `This is the managerialist dream. To replace employees' judgement and competence with a process and management methodology. (...) It never works.` ([source](https://news.ycombinator.com/item?id=20881308))
 
 
 ## Stress
