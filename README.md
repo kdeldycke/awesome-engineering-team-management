@@ -11,9 +11,9 @@
 
 ## Engineering to Management Transition
 
-* [Advice to new managers](https://twitter.com/farbodsaraf/status/967493247525322753)
-* [Going from Developer to Manager. What should I know or learn?](https://news.ycombinator.com/item?id=18823616).
-* [As an engineering manager, this sounds like almost every startup I interview at](https://news.ycombinator.com/item?id=19188246) - Great insight about 1:1s, CTOs skipping them and not believing in hierarchies.
+* [Advice to new managers](https://twitter.com/farbodsaraf/status/967493247525322753).
+* [Going from Developer to Manager. What should I know or learn?](https://news.ycombinator.com/item?id=18823616)
+* [As an engineering manager, this sounds like almost every startup I interview at](https://news.ycombinator.com/item?id=19188246) - Great insight about 1:1s, CTOs skipping them and the perils of not believing in hierarchies.
 
 
 ## Product Management
