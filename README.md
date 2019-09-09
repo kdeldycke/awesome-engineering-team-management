@@ -29,6 +29,7 @@ On the attitude, behavior, and expectation between developers, managers and exec
 
 ## Recruitment
 
+* [Reverse interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview.
 * [Secret manager trick of hiring data scientists](https://twitter.com/kdeldycke/status/1008383946831417344)
 
 
