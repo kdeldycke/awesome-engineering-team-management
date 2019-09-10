@@ -14,6 +14,7 @@ You always been a developer. Being offered a management position is not a promot
 
 * [Building and Motivating Engineering Teams](http://www.elidedbranches.com/2016/11/building-and-motivating-engineering.html) - What DO engineers want? Money, purpose and respect. 
 * [Teams are like bread](https://blog.jessitron.com/2019/06/15/teams-are-like-bread/) - `If you have one team where the magic is flourishing, don’t kill it. Feed it, grow it, and let it be a source of further strong teams. No rushing.`
+* [Developer Tropes: "Google does it"](https://tomaytotomato.com/developer-tropes/) - `The take home from this would be that managers and other leaders should be like ecologists; who measure, observe and nurture their ecosystems. Doing so will help build a unique workplace that will yield great results.`
 
 
 ## Roles
