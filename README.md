@@ -106,3 +106,4 @@ On the day-to-day dynamics of the team.
 
 * [Colleague is leaving. How to investigate what went wrong?](https://news.ycombinator.com/item?id=20786755) - `Most of the time people leave bosses, not the job or the company.` And why you're unlikely to get any substential insights from exit interviews. ([source](https://news.ycombinator.com/item?id=20787874))
 * `“People do get pissed off in clusters” is the best description of a team/company meltdown that I’ve ever seen.` ([source](https://news.ycombinator.com/item?id=19755001))
+* [The Elves Leave Middle Earth – Sodas Are No Longer Free](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-–-soda’s-are-no-longer-free/) - Company stopped providing free soda. The engineers were very upset, but it was just soda and they could afford it. But really it wasn't soda. Soda was the canary in the coal mine, triggering an exodus of its best engineers.
