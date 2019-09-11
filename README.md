@@ -39,6 +39,11 @@ On the attitude, behavior, and expectation between developers, managers and exec
 * [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc)
 
 
+## Culture
+
+* [Meaningful differences that makes Google offices more productive](https://news.ycombinator.com/item?id=20443133) - TL;DR: `The people are smarter, your manager (and their manager) cares a lot about you and it's easy to move.`
+
+
 ## Team Dynamics
 
 On the day-to-day dynamics of the team.
