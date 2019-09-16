@@ -25,6 +25,7 @@ On the attitude, behavior, and expectation between developers, managers and exec
 * [As a product manager...how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
 * `Over the years we have developed the policy that it is important for the supervisor to thoroughly know and understand the work of his group.` ([source](https://news.ycombinator.com/item?id=20683609)). From [The HP Way: How Bill Hewlett and I Built Our Company](https://www.amazon.fr/dp/0060845791).
 * [Devs I really enjoy pairing with](https://twitter.com/ScribblingOn/status/1002598672444448768).
+* [Things I Learnt from a Senior Software Engineer](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html) - `I sat next to a senior software engineer for a year. Here’s what I learnt.`
 * `A consultant is someone 4 pages ahead in the manual` ([source](https://news.ycombinator.com/item?id=20786286)).
 
 
