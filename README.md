@@ -22,6 +22,7 @@ You always been a developer. Being offered a management position is not a promot
 On the attitude, behavior, and expectation between developers, managers and executives.
 
 * [Executives ratify decisions made on the spot](https://twitter.com/kdeldycke/status/1088001688722644992).
+* [What are the signs that you have a great manager?](https://news.ycombinator.com/item?id=20230133) - `The irony is that you don't really notice a great manager.`
 * [As a product manager...how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
 * `Over the years we have developed the policy that it is important for the supervisor to thoroughly know and understand the work of his group.` ([source](https://news.ycombinator.com/item?id=20683609)). From [The HP Way: How Bill Hewlett and I Built Our Company](https://www.amazon.fr/dp/0060845791).
 * [Devs I really enjoy pairing with](https://twitter.com/ScribblingOn/status/1002598672444448768).
