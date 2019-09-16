@@ -81,6 +81,7 @@ On the day-to-day dynamics of the team.
 * [OKRs from a development team’s perspective](https://zafulabs.com/2019/05/24/okrs-from-a-development-teams-perspective/) - On how OKRs articulates with a backlog.
 * `One way in which I've seen OKRs used effectively is as a defense against the type of middle or upper manager who is constantly coming up with new ideas or tasks.` ([source](https://news.ycombinator.com/item?id=19550614))
 * [Why individual OKRs don’t work for us](https://hrblog.spotify.com/2016/08/15/our-beliefs/) - Spotify decision to stop using OKRs for individuals.
+* [Google's usage of OKRs](https://news.ycombinator.com/item?id=17492038) - OKR grades are public, but not use for promotion. It was never taken very seriously.
 
 
 ## Documentation
