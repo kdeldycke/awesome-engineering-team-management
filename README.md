@@ -30,11 +30,12 @@ On the attitude, behavior, and expectation between developers, managers and exec
 
 ### Managers
 
+* [Work at different management levels](https://larahogan.me/blog/manager-levels/) - A great breakup of what I feels like to work at different management level from the point of view of a developer.
 * [What are the signs that you have a great manager?](https://news.ycombinator.com/item?id=20230133) - `The irony is that you don't really notice a great manager.`
-* `Over the years we have developed the policy that it is important for the supervisor to thoroughly know and understand the work of his group.` ([source](https://news.ycombinator.com/item?id=20683609)). From [The HP Way: How Bill Hewlett and I Built Our Company](https://www.amazon.fr/dp/0060845791).
 * [As a product manager...how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
 * [Great PMs don’t spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/) - Not on solutions no. But on customer's problems.
 * [All the best engineering advice I stole from non-technical people](https://medium.com/@bellmar/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f) - `It’s intriguing that the stuff that really seems to make a difference in the quality of software never seems to be about software.`
+* `Over the years we have developed the policy that it is important for the supervisor to thoroughly know and understand the work of his group.` ([source](https://news.ycombinator.com/item?id=20683609)). From [The HP Way: How Bill Hewlett and I Built Our Company](https://www.amazon.fr/dp/0060845791).
 
 ### Engineers
 
