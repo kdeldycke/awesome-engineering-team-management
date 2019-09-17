@@ -24,6 +24,8 @@ On the attitude, behavior, and expectation between developers, managers and exec
 ### Executives
 
 * [Executives ratify decisions made on the spot](https://twitter.com/kdeldycke/status/1088001688722644992).
+* `People make bad choices if they’re mad or scared or stressed.` - [Disney’s Frozen](https://i.pinimg.com/originals/b5/17/97/b5179700050b96f91f63e086e053b5ee.jpg).
+
 
 ### Managers
 
