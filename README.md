@@ -49,6 +49,7 @@ On the attitude, behavior, and expectation between developers, managers and exec
 
 * [Reverse interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview.
 * [Secret manager trick of hiring data scientists](https://twitter.com/kdeldycke/status/1008383946831417344)
+* [Hire people who aren't proven](https://leonardofed.io/blog/startups-hiring.html) - If anyone else in the world can objectively say this is a great player, you and your startup won't be able to hire the player. Someone will steal him from you. You have to go after people that aren't proven. In short, you need to be extremely good at forecasting.
 
 
 ## Motivation
