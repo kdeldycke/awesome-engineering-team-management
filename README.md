@@ -89,6 +89,7 @@ On the day-to-day dynamics of the team.
 
 ## Project Management
 
+* [Best project management practices in 2018?](https://news.ycombinator.com/item?id=16377523) - TL;DR: there is no silver bullet.
 * [A list of GitHub labels for reuse across projects](https://twitter.com/abdonrd/status/991697736230633474)
 
 
