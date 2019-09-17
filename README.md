@@ -24,6 +24,7 @@ On the attitude, behavior, and expectation between developers, managers and exec
 ### Executives
 
 * [Executives ratify decisions made on the spot](https://twitter.com/kdeldycke/status/1088001688722644992).
+* `The actual power wielded by a high level executive is usually inversely proportional to the size of the organization they manage.` (source: [comment](https://news.ycombinator.com/item?id=20260498) on [Why large companies are so difficult to rescue](https://news.ycombinator.com/item?id=20260114)).
 * `People make bad choices if they’re mad or scared or stressed.` - [Disney’s Frozen](https://i.pinimg.com/originals/b5/17/97/b5179700050b96f91f63e086e053b5ee.jpg).
 
 
