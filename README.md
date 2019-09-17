@@ -33,6 +33,8 @@ On the attitude, behavior, and expectation between developers, managers and exec
 ### Product Managers
 
 * [As a product manager...how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
+* [Great PMs don’t spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/) - Not on solutions no. But on customer's problems.
+
 
 ### Engineers
 
