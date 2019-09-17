@@ -114,6 +114,7 @@ On the day-to-day dynamics of the team.
 
 * `If you have dealt with large, completely incompetent organisations and wondered how the hell they actually keep going - theres your answer. If built correctly it's genuinely difficult to mess things up.` ([source](https://news.ycombinator.com/item?id=20533922))
 * [An Alternative Approach to Re-Orgs At Your Company](https://caseyaccidental.com/alternative-approach-re-orgs/) - `Trying not to repeat re-org mistakes, we started working on a structure that would make the re-org act like a feedback-fueled progress driven by the teams instead of by people above them.`
+* [If I Close My Data Centers, What About the People/Jobs Lost?](https://news.ycombinator.com/item?id=17329028) - F50's data centers being migrated to commercial cloud provider. But what about the people currently doing legacy stuff?
 * `This is the managerialist dream. To replace employees' judgement and competence with a process and management methodology. (...) It never works.` ([source](https://news.ycombinator.com/item?id=20881308))
 * `If you cannot disrupt a perverted culture by introducing a new culture, the politics of the perverted culture will work against you until you break, align, or leave. It is not unwise to leave before you break and it is easier to leave before you align.` ([source](https://news.ycombinator.com/item?id=20914779))
 
