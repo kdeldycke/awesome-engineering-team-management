@@ -3,7 +3,7 @@
 
 ## Engineering to Management Transition
 
-You always been a developer. Being offered a management position is not a promotion. It is a change in career. Here is a couple of notes on that transition.
+You always been a developer. Being offered [a management position is not a promotion. It is a change in career.](https://fractio.nl/2014/09/19/not-a-promotion-a-career-change/) Here is a couple of notes on that transition.
 
 * [Advice to new managers](https://twitter.com/farbodsaraf/status/967493247525322753).
 * [Going from Developer to Manager. What should I know or learn?](https://news.ycombinator.com/item?id=18823616)
