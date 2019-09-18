@@ -115,6 +115,8 @@ On the day-to-day dynamics of the team.
 
 ## Documentation
 
+Documentation is the materialization of knowledge.
+
 * [How to Write a Technical Paper](https://pdfs.semanticscholar.org/441f/ac7c2020e1c8f0d32adffca697bbb8a198a1.pdf) - Serves as a guideline on how to write a good technical paper. Don't miss [this HN comment](https://news.ycombinator.com/item?id=18227212) too.
 * [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) - Outlines a practical and efficient three-pass method for reading research papers.
 * [You’re Not Managing a Team of Software Engineers, You’re Managing a Team of Writers](https://medium.com/coaching-notes/youre-not-managing-a-team-of-software-engineers-you-re-managing-a-team-of-writers-b263d3a10cc7).
