@@ -30,7 +30,7 @@ On the attitude, behavior, and expectation between developers, managers and exec
 
 ### Managers
 
-* [Work at different management levels](https://larahogan.me/blog/manager-levels/) - A great breakup of what I feels like to work at different management level from the point of view of a developer.
+* [Work at different management levels](https://larahogan.me/blog/manager-levels/) - A great proggressive breakup of what it feels like to work at different levels of management.
 * [What are the signs that you have a great manager?](https://news.ycombinator.com/item?id=20230133) - `The irony is that you don't really notice a great manager.`
 * [Identify what makes a great manager](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/) - Google Tried to Prove Managers Don't Matter. Instead, It Discovered [10 Traits of the Very Best Ones](https://www.inc.com/scott-mautz/google-tried-to-prove-managers-dont-matter-instead-they-discovered-10-traits-of-very-best-ones.html).
 * [As a product manager...how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
