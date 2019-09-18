@@ -19,7 +19,7 @@ You always been a developer. Being offered [a management position is not a promo
 
 ## Roles
 
-On the profile, attitude, behavior, and expectation between developers, managers and executives.
+On the profile, attitude, behavior, and expectations between developers, managers and executives.
 
 ### Executives
 
