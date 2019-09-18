@@ -5,7 +5,7 @@
 
 You always been a developer. Being offered [a management position is not a promotion. It is a change in career](https://fractio.nl/2014/09/19/not-a-promotion-a-career-change/).
 
-These notes are part advices, part windows into management from the point of view of an engineer. Articles of the latter category are sometimes harsh - and sorry for the military undertone - but there to [discourage the faint-hearted recruits for management positions](https://youtu.be/b07887ZzKiw?t=40).
+These notes are part advices, part windows into management from the point of view of an engineer. Articles of the latter category are sometimes harsh - and sorry for the military undertone - but there to [discourage the faint-hearted recruits](https://youtu.be/b07887ZzKiw?t=40).
 
 * [Advice to new managers](https://twitter.com/farbodsaraf/status/967493247525322753).
 * [Going from Developer to Manager. What should I know or learn?](https://news.ycombinator.com/item?id=18823616)
