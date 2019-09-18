@@ -3,14 +3,21 @@
 
 ## Engineering to Management Transition
 
-You always been a developer. Being offered [a management position is not a promotion. It is a change in career.](https://fractio.nl/2014/09/19/not-a-promotion-a-career-change/) Here is a couple of notes on that transition.
+You always been a developer. Being offered [a management position is not a promotion. It is a change in career](https://fractio.nl/2014/09/19/not-a-promotion-a-career-change/).
+
+These notes are part advices, part windows into management from the point of view of an engineer. Articles of the latter category are sometimes harsh - and sorry for the military undertone - but there to [discourage the faint-hearted recruits for management positions](https://youtu.be/b07887ZzKiw?t=40).
 
 * [Advice to new managers](https://twitter.com/farbodsaraf/status/967493247525322753).
 * [Going from Developer to Manager. What should I know or learn?](https://news.ycombinator.com/item?id=18823616)
+* [On being an Engineering Manager](https://ruiper.es/2018/01/15/on-being-an-engineering-manager/) - Some of these points needs nuance, but others are a good taste of things to come for first-time managers.
+* [Work at different management levels](https://larahogan.me/blog/manager-levels/) - A great proggressive breakup of what it feels like to work at different levels of management.
 * [As an engineering manager, this sounds like almost every startup I interview at](https://news.ycombinator.com/item?id=19188246) - Great insight about 1:1s, CTOs skipping them and the perils of not believing in hierarchies.
+* `It is a job where your goal is to try disappoint people most slowly.` ([source](https://news.ycombinator.com/item?id=18222488)).
 
 
 ## Building Teams
+
+Either you inherit an already existing team of have to start from scratch, you'll need to practive the art of building (and consolidating) them.
 
 * [Building and Motivating Engineering Teams](http://www.elidedbranches.com/2016/11/building-and-motivating-engineering.html) - What DO engineers want? Money, purpose and respect. 
 * [Teams are like bread](https://blog.jessitron.com/2019/06/15/teams-are-like-bread/) - `If you have one team where the magic is flourishing, don’t kill it. Feed it, grow it, and let it be a source of further strong teams. No rushing.`
@@ -19,7 +26,7 @@ You always been a developer. Being offered [a management position is not a promo
 
 ## Roles
 
-On the profile, attitude, behavior, and expectations between developers, managers and executives.
+On the profiles, attitude, behaviors, and expectations between developers, managers and executives.
 
 ### Executives
 
@@ -29,14 +36,12 @@ On the profile, attitude, behavior, and expectations between developers, manager
 
 ### Managers
 
-* [Work at different management levels](https://larahogan.me/blog/manager-levels/) - A great proggressive breakup of what it feels like to work at different levels of management.
 * [What are the signs that you have a great manager?](https://news.ycombinator.com/item?id=20230133) - `The irony is that you don't really notice a great manager.`
 * [Identify what makes a great manager](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/) - Google Tried to Prove Managers Don't Matter. Instead, It Discovered [10 Traits of the Very Best Ones](https://www.inc.com/scott-mautz/google-tried-to-prove-managers-dont-matter-instead-they-discovered-10-traits-of-very-best-ones.html).
 * [Let’s have no managers, instead of managers with no engineering experience](https://medium.com/hackernoon/lets-have-no-managers-instead-of-managers-with-no-engineering-experience-e8b7cd29d398) - Bold claim, especially in light of the study above. But title is misleading, article argument is: we don't need *project* managers if we already have *product* managers and scrum masters.
 * `Over the years we have developed the policy that it is important for the supervisor to thoroughly know and understand the work of his group.` ([source](https://news.ycombinator.com/item?id=20683609)) - An echo of the claim above, [from David Packard](https://www.amazon.fr/dp/0060845791) (HP co-founder), a decades before today's creative management trends.
 * [As a product manager...how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
 * [Great PMs don’t spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/) - Not on solutions no. But on customer's problems.
-* `It is a job where your goal is to try disappoint people most slowly.` ([source](https://news.ycombinator.com/item?id=18222488)).
 
 ### Engineers
 
