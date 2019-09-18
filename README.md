@@ -66,6 +66,7 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 ## Motivation
 
 * [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc)
+* [US Air Force's Strategic Leadership Studies](http://leadership.au.af.mil/sls-skil.htm) - A reference of leadership's competencies and skills.
 
 
 ## Culture
