@@ -85,6 +85,7 @@ On the day-to-day dynamics of the team.
 * [Awesome Product Management](https://github.com/dend/awesome-product-management)
 * [A curated list of product management advice for technical people](https://github.com/tron1991/open-product-management)
 * [Things Many People Find Too Obvious To Have Told You Already](https://twitter.com/patio11/status/936615043126370306)
+* [The product roadmap is dead: welcome to the age of problem roadmaps](https://medium.com/product-managers-at-work/the-product-roadmap-is-dead-welcome-to-the-age-of-problem-roadmaps-7c7745ac8ae0) - `Fall in love with your problems and not with your solutions.`
 
 
 ## Project Management
