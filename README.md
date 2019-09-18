@@ -36,6 +36,7 @@ On the profile, attitude, behavior, and expectations between developers, manager
 * `Over the years we have developed the policy that it is important for the supervisor to thoroughly know and understand the work of his group.` ([source](https://news.ycombinator.com/item?id=20683609)) - An echo of the claim above, [from David Packard](https://www.amazon.fr/dp/0060845791) (HP co-founder), a decades before today's creative management trends.
 * [As a product manager...how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
 * [Great PMs don’t spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/) - Not on solutions no. But on customer's problems.
+* `It is a job where your goal is to try disappoint people most slowly.` ([source](https://news.ycombinator.com/item?id=18222488)).
 
 ### Engineers
 
