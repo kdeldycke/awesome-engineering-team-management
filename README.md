@@ -33,9 +33,9 @@ On the profile, attitude, behavior, and expectations between developers, manager
 * [What are the signs that you have a great manager?](https://news.ycombinator.com/item?id=20230133) - `The irony is that you don't really notice a great manager.`
 * [Identify what makes a great manager](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/) - Google Tried to Prove Managers Don't Matter. Instead, It Discovered [10 Traits of the Very Best Ones](https://www.inc.com/scott-mautz/google-tried-to-prove-managers-dont-matter-instead-they-discovered-10-traits-of-very-best-ones.html).
 * [Let’s have no managers, instead of managers with no engineering experience](https://medium.com/hackernoon/lets-have-no-managers-instead-of-managers-with-no-engineering-experience-e8b7cd29d398) - Bold claim, especially in light of the study above. But title is misleading, article argument is: we don't need *project* managers if we already have *product* managers and scrum masters.
+* `Over the years we have developed the policy that it is important for the supervisor to thoroughly know and understand the work of his group.` ([source](https://news.ycombinator.com/item?id=20683609)) - An echo of the claim above, [from David Packard](https://www.amazon.fr/dp/0060845791) (HP co-founder), a decades before today's creative management trends.
 * [As a product manager...how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
 * [Great PMs don’t spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/) - Not on solutions no. But on customer's problems.
-* `Over the years we have developed the policy that it is important for the supervisor to thoroughly know and understand the work of his group.` ([source](https://news.ycombinator.com/item?id=20683609)). From [The HP Way: How Bill Hewlett and I Built Our Company](https://www.amazon.fr/dp/0060845791).
 
 ### Engineers
 
