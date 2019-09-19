@@ -72,7 +72,7 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 ## Culture
 
 * [Meaningful differences that makes Google offices more productive](https://news.ycombinator.com/item?id=20443133) - TL;DR: `The people are smarter, your manager (and their manager) cares a lot about you and it's easy to move.`
-
+* [Adaptation vs adaptability](https://people.clas.ufl.edu/ulan/files/Conrad.pdf) - There is a spectrum between perfect efficiency and being completely flexible. This article explores ecosystems and the flows of material and energy between different organisms within the ecosystem. ([hinted by HN comment](https://news.ycombinator.com/item?id=20963513))
 
 ## Team Dynamics
 
