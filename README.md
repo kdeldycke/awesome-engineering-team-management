@@ -133,6 +133,7 @@ Documentation is the materialization of knowledge.
 * [If I Close My Data Centers, What About the People/Jobs Lost?](https://news.ycombinator.com/item?id=17329028) - F50's data centers being migrated to commercial cloud provider. But what about the people currently doing legacy stuff?
 * `This is the managerialist dream. To replace employees' judgement and competence with a process and management methodology. (...) It never works.` ([source](https://news.ycombinator.com/item?id=20881308))
 * `If you cannot disrupt a perverted culture by introducing a new culture, the politics of the perverted culture will work against you until you break, align, or leave. It is not unwise to leave before you break and it is easier to leave before you align.` ([source](https://news.ycombinator.com/item?id=20914779))
+* [I’ve Built Multiple Growth Teams. Here’s Why I Won’t Do It Again.](https://conversionxl.com/blog/dont-build-growth-teams/) - `Few folks understand probability, and most executives don’t care about the data—regardless of what it says.`
 
 
 ## Stress
