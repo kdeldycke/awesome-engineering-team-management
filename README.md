@@ -105,6 +105,7 @@ On the day-to-day dynamics of the team.
 ## Agile
 
 * `The fundamental problem that drives most agile failures isn't in the team's execution, it's in the business' expectations. One side is signed up for incremental delivery, and one side is set up for a fixed scope and deadline and the result is misery.` ([source](https://news.ycombinator.com/item?id=20326074))
+* [Detecting Agile Bullshit](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF) - US Departement of Defense guide to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing (“agile-scrum-fall”).
 
 
 ## Objectives and Key Results (OKR)
