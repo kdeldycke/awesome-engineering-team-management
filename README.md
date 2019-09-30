@@ -74,6 +74,7 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 * [Meaningful differences that makes Google offices more productive](https://news.ycombinator.com/item?id=20443133) - TL;DR: `The people are smarter, your manager (and their manager) cares a lot about you and it's easy to move.`
 * [Adaptation vs adaptability](https://people.clas.ufl.edu/ulan/files/Conrad.pdf) - There is a spectrum between perfect efficiency and being completely flexible. This article explores ecosystems and the flows of material and energy between different organisms within the ecosystem. ([hinted by HN comment](https://news.ycombinator.com/item?id=20963513))
 
+
 ## Team Dynamics
 
 On the day-to-day dynamics of the team.
@@ -81,6 +82,12 @@ On the day-to-day dynamics of the team.
 * [How to Celebrate the Small Wins](https://medium.dave-bailey.com/how-to-celebrate-the-small-wins-4a03004a1816)
 * [Coaching questions for one-to-ones](https://mobile.twitter.com/ctford/status/1163129999882444800).
 * `"You know your game fails when you read in the news about the feature you are supposed to have".` ([source](https://news.ycombinator.com/item?id=20220484))
+
+
+## Cognitive Tools
+
+* [Strong Opinions, Weakly Held — a framework for thinking](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364) - `“Allow your intuition to guide you to a conclusion, no matter how imperfect — this is the ‘strong opinion’ part. Then –and this is the ‘weakly held’ part– prove yourself wrong.`
+* [Hanlon's_razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): `Never attribute to malice that which is adequately explained by stupidity.` - My favorite flavor of [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor), critical in defusing paranoia in a highly political setting.
 
 
 ## Remote Work
