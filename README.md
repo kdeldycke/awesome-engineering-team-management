@@ -77,11 +77,12 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 
 ## Team Dynamics
 
-On the day-to-day dynamics of the team.
+On the day-to-day dynamics of the team, and its interaction with other teams.
 
 * [How to Celebrate the Small Wins](https://medium.dave-bailey.com/how-to-celebrate-the-small-wins-4a03004a1816)
 * [Coaching questions for one-to-ones](https://mobile.twitter.com/ctford/status/1163129999882444800).
 * `"You know your game fails when you read in the news about the feature you are supposed to have".` ([source](https://news.ycombinator.com/item?id=20220484))
+* [A conversation with Elon Musk about Starship](https://youtu.be/cIQ36Kt7UVg?t=203) - In a team with very talented contributors, everyone's is a chief engineer: you are expected to challenge the status-quo and questions other departement's constraints. This allow smart engineers to avoid the trap of optimizing for something that should not exist in the first place.
 
 
 ## Cognitive Tools
