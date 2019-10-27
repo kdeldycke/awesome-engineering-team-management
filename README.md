@@ -1,5 +1,9 @@
 # Awesome Engineering Team Management
 
+This is a compilation of advices, anecdotes, knowledge tibits, discussions, return of experience, annotations, industry smalltalks and rants. A bibliography of sort, that I gathered around in the last few years, while transitionning my career from a software engineer to an engineer's manager, and later from a manager to a manager's managers (you all love recursion right? ;) ).
+
+In a way, it provides an environment from which I crafted the contour of my management style, as anchoring the later with the usual labels is way too limiting and short-sighted. Limiting as management is both of an art and a science. And short-sighted as it is sensible to our fellow humans talents and the business context of the company.
+
 
 ## Engineering to Management Transition
 
