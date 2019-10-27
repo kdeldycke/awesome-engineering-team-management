@@ -81,7 +81,7 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 
 * [How to Celebrate the Small Wins](https://medium.dave-bailey.com/how-to-celebrate-the-small-wins-4a03004a1816)
 * [Coaching questions for one-to-ones](https://mobile.twitter.com/ctford/status/1163129999882444800).
-* `"You know your game fails when you read in the news about the feature you are supposed to have".` ([source](https://news.ycombinator.com/item?id=20220484))
+* `"You know your game fails when you read in the news about the feature you are supposed to have".` ([source](https://news.ycombinator.com/item?id=20220484)). A team learning about its roadmap at the same time of the general public is a sure sign something is wrong.
 * [A conversation with Elon Musk about Starship](https://youtu.be/cIQ36Kt7UVg?t=203) - In a team with very talented contributors, everyone's is a chief engineer: you are expected to challenge the status-quo and questions other departement's constraints. This allow smart engineers to avoid the trap of optimizing for something that should not exist in the first place.
 
 
@@ -139,17 +139,18 @@ Documentation is the materialization of knowledge.
 
 ## Re-organizations
 
-* `If you have dealt with large, completely incompetent organisations and wondered how the hell they actually keep going - theres your answer. If built correctly it's genuinely difficult to mess things up.` ([source](https://news.ycombinator.com/item?id=20533922))
-* [An Alternative Approach to Re-Orgs At Your Company](https://caseyaccidental.com/alternative-approach-re-orgs/) - `Trying not to repeat re-org mistakes, we started working on a structure that would make the re-org act like a feedback-fueled progress driven by the teams instead of by people above them.`
-* [If I Close My Data Centers, What About the People/Jobs Lost?](https://news.ycombinator.com/item?id=17329028) - F50's data centers being migrated to commercial cloud provider. But what about the people currently doing legacy stuff?
-* `This is the managerialist dream. To replace employees' judgement and competence with a process and management methodology. (...) It never works.` ([source](https://news.ycombinator.com/item?id=20881308))
+* `If you have dealt with large, completely incompetent organisations and wondered how the hell they actually keep going - theres your answer. If built correctly it's genuinely difficult to mess things up.` ([source](https://news.ycombinator.com/item?id=20533922)). I.e. the structure of the organization is quintessential to its longevity.
+* [If I Close My Data Centers, What About the People/Jobs Lost?](https://news.ycombinator.com/item?id=17329028) - F50's data centers being migrated to commercial cloud provider. But what about the people currently doing legacy stuff? The answer: retrain.
+* `This is the managerialist dream. To replace employees' judgement and competence with a process and management methodology. (...) It never works.` ([source](https://news.ycombinator.com/item?id=20881308)). And why the retraining answer above is the best one.
+* [An Alternative Approach to Re-Orgs At Your Company](https://caseyaccidental.com/alternative-approach-re-orgs/) - `Trying not to repeat re-org mistakes, we started working on a structure that would make the re-org act like a feedback-fueled progress driven by the teams instead of by people above them.`. This is an attempt to extract from the ground up signals pointing to inadequate structure. My cautionary tale: this might only work up to a point depending on the company's culture.
+* [Speaking Truth to Power: Reflections on My Career at Microsoft](https://onezero.medium.com/speaking-truth-to-power-reflections-on-a-career-at-microsoft-90f80a449e36) - After 3 decades in a deeply flawed company, the author comes to a humble conclusion: leaders should embodies the value of their employees. Not the other way around. `Changes at the top — not speeches, training or hashtags — make the most cultural impact. If you want real and lasting cultural change, sweep away the made-men who succeeded under the previous culture and promote the people who look, act, and think more like their employees than their managers.`
 * `If you cannot disrupt a perverted culture by introducing a new culture, the politics of the perverted culture will work against you until you break, align, or leave. It is not unwise to leave before you break and it is easier to leave before you align.` ([source](https://news.ycombinator.com/item?id=20914779))
 * [I’ve Built Multiple Growth Teams. Here’s Why I Won’t Do It Again.](https://conversionxl.com/blog/dont-build-growth-teams/) - `Few folks understand probability, and most executives don’t care about the data—regardless of what it says.`
 
 
 ## Stress
 
-* [How Slack Harms Projects](https://www.silasreinagel.com/blog/2019/08/12/how-slack-harms-projects/) - TL;DR: `promote a false sense of urgency, destroy focus, allow for bypassing project prioritization, strip away essential business context, encourage poorly thought-out communication`. Also this this practical guide on [How to Use Slack and Not Go Crazy](https://pspdfkit.com/blog/2018/how-to-use-slack-and-not-go-crazy/).
+* [How Slack Harms Projects](https://www.silasreinagel.com/blog/2019/08/12/how-slack-harms-projects/) - TL;DR: `promote a false sense of urgency, destroy focus, allow for bypassing project prioritization, strip away essential business context, encourage poorly thought-out communication`. To remediate this, see [How to Use Slack and Not Go Crazy](https://pspdfkit.com/blog/2018/how-to-use-slack-and-not-go-crazy/) article.
 * [If You’re So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week) - `Our tendency to overwork and burn out is framed by a complex combination of factors involving our profession, our organization, and ourselves. At the heart of it is insecurity.`
 * [Should we take a few long holidays, or lots of short ones?](http://timharford.com/2019/09/should-we-take-a-few-long-holidays-or-lots-of-short-ones/) - TL;DR: short ones. `Reason one: holiday memories tend to depend not on how long the holiday was, but on the intensity of the experiences. Reason two: a change of activity can be a spur to creativity. Reason three for taking a short break: if we need rest to prevent exhaustion, a single, long vacation won’t do the trick.`
 
