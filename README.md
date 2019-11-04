@@ -79,6 +79,13 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 * [Adaptation vs adaptability](https://people.clas.ufl.edu/ulan/files/Conrad.pdf) - There is a spectrum between perfect efficiency and being completely flexible. This article explores ecosystems and the flows of material and energy between different organisms within the ecosystem. ([hinted by HN comment](https://news.ycombinator.com/item?id=20963513))
 
 
+## Cognitive Tools
+
+* [Strong Opinions, Weakly Held — a framework for thinking](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364) - `“Allow your intuition to guide you to a conclusion, no matter how imperfect — this is the ‘strong opinion’ part. Then –and this is the ‘weakly held’ part– prove yourself wrong.`
+* [Hanlon's_razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): `Never attribute to malice that which is adequately explained by stupidity.` - My favorite flavor of [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor), critical in defusing paranoia in a highly political setting.
+* `People make bad choices if they’re mad or scared or stressed.` - [Disney’s Frozen](https://i.pinimg.com/originals/b5/17/97/b5179700050b96f91f63e086e053b5ee.jpg).
+
+
 ## Team Dynamics
 
 On the day-to-day dynamics of the team, and its interaction with other teams.
@@ -87,13 +94,6 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 * [Coaching questions for one-to-ones](https://mobile.twitter.com/ctford/status/1163129999882444800).
 * `"You know your game fails when you read in the news about the feature you are supposed to have".` ([source](https://news.ycombinator.com/item?id=20220484)). A team learning about its roadmap at the same time of the general public is a sure sign something is wrong.
 * [A conversation with Elon Musk about Starship](https://youtu.be/cIQ36Kt7UVg?t=203) - In a team with very talented contributors, everyone's is a chief engineer: you are expected to challenge the status-quo and questions other departement's constraints. This allow smart engineers to avoid the trap of optimizing for something that should not exist in the first place.
-
-
-## Cognitive Tools
-
-* [Strong Opinions, Weakly Held — a framework for thinking](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364) - `“Allow your intuition to guide you to a conclusion, no matter how imperfect — this is the ‘strong opinion’ part. Then –and this is the ‘weakly held’ part– prove yourself wrong.`
-* [Hanlon's_razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): `Never attribute to malice that which is adequately explained by stupidity.` - My favorite flavor of [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor), critical in defusing paranoia in a highly political setting.
-* `People make bad choices if they’re mad or scared or stressed.` - [Disney’s Frozen](https://i.pinimg.com/originals/b5/17/97/b5179700050b96f91f63e086e053b5ee.jpg).
 
 
 ## Remote Work
