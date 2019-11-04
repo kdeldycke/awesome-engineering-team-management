@@ -101,6 +101,11 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 * [Managing Remote Teams - A Crash Course](http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course)
 
 
+## Meetings
+
+* [How to have great meetings, according to 200 scientific studies](https://qz.com/work/1713662/how-to-have-great-meetings-according-to-200-scientific-studies/) - A roadmap for getting meetings right.
+
+
 ## Product Management
 
 * [Awesome Product Management](https://github.com/dend/awesome-product-management)
