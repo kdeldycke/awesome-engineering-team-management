@@ -71,6 +71,7 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 * [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc)
 * [US Air Force's Strategic Leadership Studies](http://leadership.au.af.mil/sls-skil.htm) - A reference of leadership's competencies and skills.
 * [Strategies for long Projects](http://benbrostoff.github.io/2019/09/28/long-projects.html) - TL;DR: Relentless, irrational optimism; Daily progress documentation; Compounding investments; Time budgeting.
+* [US spy manual has great tips for coping with your toxic boss](https://qz.com/work/1717297/how-to-cope-with-a-toxic-boss-according-to-a-us-spy-manual-from-wwii/) - Derived from WWII-era [Simple Sabotage Field Manual](https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/CleanedUOSSSimpleSabotage_sm.pdf), a classic read to spot harassing and demoralizing behaviors.
 
 
 ## Culture
