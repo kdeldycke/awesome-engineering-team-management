@@ -61,6 +61,7 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 ## Recruitment
 
 * [Reverse interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview.
+* [My questions for prospective employers (Director/VP roles)](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/) - Great list for senior management roles.
 * [Secret manager trick of hiring data scientists](https://twitter.com/kdeldycke/status/1008383946831417344)
 * [Hire people who aren't proven](https://leonardofed.io/blog/startups-hiring.html) - If anyone else in the world can objectively say this is a great player, you and your startup won't be able to hire the player. Someone will steal him from you. You have to go after people that aren't proven. In short, you need to be extremely good at forecasting talent.
 * [levels.fyi](https://www.levels.fyi) - Compares salary range and compensation charts accross big tech companies.
