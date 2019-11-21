@@ -14,6 +14,7 @@ This provides the substrate from which I crafted the contour of my management st
 * [How to be a Manager – A step-by-step guide to leading a team](https://getweeklyupdate.com/manager-guide) - A full, detailed guide on modern management practices.
 * [On being an Engineering Manager](https://ruiper.es/2018/01/15/on-being-an-engineering-manager/) - Some of these points needs nuance, but others are a good taste of things to come for first-time managers.
 * [Work at different management levels](https://larahogan.me/blog/manager-levels/) - A great proggressive breakup of what it feels like to work at different levels of management.
+* [How do managers get stuck?](http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html) - Identify scenario preventing managers to be promoted at the next level.
 * [As an engineering manager, this sounds like almost every startup I interview at](https://news.ycombinator.com/item?id=19188246) - Great insight about 1:1s, CTOs skipping them and the perils of not believing in hierarchies.
 * `It is a job where your goal is to try disappoint people most slowly.` ([source](https://news.ycombinator.com/item?id=18222488)).
 
