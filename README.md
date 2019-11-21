@@ -127,8 +127,9 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 ## Project Management
 
 * [Best project management practices in 2018?](https://news.ycombinator.com/item?id=16377523) - TL;DR: there is no silver bullet.
+* [Dear Startup: You have no idea how much that costs.](http://kyleprifogle.com/dear-startup/) - `We are completely clueless about how long things should take.`
 * [Escalation of commitment](https://en.wikipedia.org/wiki/Escalation_of_commitment) - A.k.a. sunk-cost fallacy, or the rational explanation of why the hell do we still irrationally keep investing in a bad project.
-* [A list of GitHub labels for reuse across projects](https://twitter.com/abdonrd/status/991697736230633474)
+* [A list of GitHub labels for reuse across projects](https://twitter.com/abdonrd/status/991697736230633474).
 
 
 ## Agile
