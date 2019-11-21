@@ -91,6 +91,7 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 * `People make bad choices if they’re mad or scared or stressed.` - [Disney’s Frozen](https://i.pinimg.com/originals/b5/17/97/b5179700050b96f91f63e086e053b5ee.jpg).
 * `People who excel at software design become convinced that they have a unique ability to understand any kind of system at all, from first principles, without prior training, thanks to their superior powers of analysis. Success in the artificially constructed world of software design promotes a dangerous confidence.` - A reminder of the needs of humility and recognition of limits in our industry, [from a panel on the Moral Economy of Tech](https://idlewords.com/talks/sase_panel.htm).
 * [The Efficiency-Destroying Magic of Tidying Up](https://florentcrivello.com/index.php/2019/09/04/the-efficiency-destroying-magic-of-tidying-up/) - `Efficiency tends to look messy, and good looks tend to be inefficient.`. A reminder that sometimes we should just accept [the messiness of the world](https://github.com/kdeldycke/awesome-falsehood).
+* [Regression toward the mean](https://en.wikipedia.org/wiki/Regression_toward_the_mean) - Or why after a period of intense euphoria and ambition, things slowly get back to their usual mediocrity.
 
 
 ## Team Dynamics
