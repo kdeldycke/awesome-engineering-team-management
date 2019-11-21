@@ -150,9 +150,10 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 
 ## Training
 
-On mentoring, education and learning skills.
+On mentoring, education and learning.
 
 * [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/) - Discusses mentorship practices that work well engineer-to-engineer.
+* [Developer Roadmaps](https://roadmap.sh/roadmaps) - Very high-level guides and paths to learn different practice and tools.
 
 
 ## Documentation
