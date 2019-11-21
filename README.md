@@ -36,6 +36,7 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 
 * [Executives ratify decisions made on the spot](https://twitter.com/kdeldycke/status/1088001688722644992).
 * `The actual power wielded by a high level executive is usually inversely proportional to the size of the organization they manage.` (source: [comment](https://news.ycombinator.com/item?id=20260498) on [Why large companies are so difficult to rescue](https://news.ycombinator.com/item?id=20260114)).
+* [US Air Force's Strategic Leadership Studies](http://leadership.au.af.mil/sls-skil.htm) - A reference of leadership's competencies and skills.
 
 ### Managers
 
@@ -70,9 +71,7 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 ## Motivation
 
 * [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc)
-* [US Air Force's Strategic Leadership Studies](http://leadership.au.af.mil/sls-skil.htm) - A reference of leadership's competencies and skills.
-* [Strategies for long Projects](http://benbrostoff.github.io/2019/09/28/long-projects.html) - TL;DR: Relentless, irrational optimism; Daily progress documentation; Compounding investments; Time budgeting.
-* [US spy manual has great tips for coping with your toxic boss](https://qz.com/work/1717297/how-to-cope-with-a-toxic-boss-according-to-a-us-spy-manual-from-wwii/) - Derived from WWII-era [Simple Sabotage Field Manual](https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/CleanedUOSSSimpleSabotage_sm.pdf), a classic read to spot harassing and demoralizing behaviors.
+* [US spy manual has tips for coping with toxic bosses](https://qz.com/work/1717297/how-to-cope-with-a-toxic-boss-according-to-a-us-spy-manual-from-wwii/) - Derived from WWII-era [Simple Sabotage Field Manual](https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/CleanedUOSSSimpleSabotage_sm.pdf), a classic read to spot harassing and demoralizing behaviors.
 
 
 ## Culture
@@ -130,9 +129,10 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 ## Project Management
 
 * [Best project management practices in 2018?](https://news.ycombinator.com/item?id=16377523) - TL;DR: there is no silver bullet.
+* [Strategies for long Projects](http://benbrostoff.github.io/2019/09/28/long-projects.html) - TL;DR: Relentless, irrational optimism; Daily progress documentation; Compounding investments; Time budgeting.
 * [Dear Startup: You have no idea how much that costs.](http://kyleprifogle.com/dear-startup/) - `We are completely clueless about how long things should take.`. Here is a [trick to handle expectation of unreasonable estimates](https://news.ycombinator.com/item?id=21069178).
 * [Escalation of commitment](https://en.wikipedia.org/wiki/Escalation_of_commitment) - A.k.a. sunk-cost fallacy, or the rational explanation of why the hell do we still irrationally keep investing in a bad project.
-* [A list of GitHub labels for reuse across projects](https://twitter.com/abdonrd/status/991697736230633474).
+* [A list of GitHub labels for reuse across projects](https://twitter.com/abdonrd/status/991697736230633474) - Simple and practical.
 
 
 ## Agile
