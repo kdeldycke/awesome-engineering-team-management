@@ -37,6 +37,7 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 * [Executives ratify decisions made on the spot](https://twitter.com/kdeldycke/status/1088001688722644992).
 * `The actual power wielded by a high level executive is usually inversely proportional to the size of the organization they manage.` (source: [comment](https://news.ycombinator.com/item?id=20260498) on [Why large companies are so difficult to rescue](https://news.ycombinator.com/item?id=20260114)).
 * [US Air Force's Strategic Leadership Studies](http://leadership.au.af.mil/sls-skil.htm) - A reference of leadership's competencies and skills.
+* [Narcissistic CEOs Weaken Collaboration and Integrity](https://www.gsb.stanford.edu/insights/narcissistic-ceos-weaken-collaboration-integrity) - `The prototypic visionary leader profile is so similar to that of a narcissist, if boards aren’t careful, they’re going to end up choosing people who are narcissistic as CEOs`.
 
 ### Managers
 
@@ -79,7 +80,6 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 * [Meaningful differences that makes Google offices more productive](https://news.ycombinator.com/item?id=20443133) - TL;DR: `The people are smarter, your manager (and their manager) cares a lot about you and it's easy to move.`
 * [Adaptation vs adaptability](https://people.clas.ufl.edu/ulan/files/Conrad.pdf) - There is a spectrum between perfect efficiency and being completely flexible. This article explores ecosystems and the flows of material and energy between different organisms within the ecosystem. ([hinted by HN comment](https://news.ycombinator.com/item?id=20963513))
 * [hacker-laws](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful.
-* [Narcissistic CEOs Weaken Collaboration and Integrity](https://www.gsb.stanford.edu/insights/narcissistic-ceos-weaken-collaboration-integrity) - `The prototypic visionary leader profile is so similar to that of a narcissist, if boards aren’t careful, they’re going to end up choosing people who are narcissistic as CEOs,`
 * [It’s Not Enough to Be Right—You Also Have to Be Kind](https://forge.medium.com/its-not-enough-to-be-right-you-also-have-to-be-kind-b8814111fe1) - `It’s harder to be kind than clever.`, or put another way by Abraham Joshua Heschel: `When I was young, I used to admire intelligent people; as I grow older, I admire kind people.`.
 * [HiPPO FAQ](http://bitly.com/HIPPOExplained) - HiPPO stands for `HIghest Paid Person's Opinion`, a trait of dysfonctional culture, in which power politics trumps data.
 
