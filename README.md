@@ -122,6 +122,7 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 * [A curated list of product management advice for technical people](https://github.com/tron1991/open-product-management)
 * [Things Many People Find Too Obvious To Have Told You Already](https://twitter.com/patio11/status/936615043126370306)
 * [The product roadmap is dead: welcome to the age of problem roadmaps](https://medium.com/product-managers-at-work/the-product-roadmap-is-dead-welcome-to-the-age-of-problem-roadmaps-7c7745ac8ae0) - `Fall in love with your problems and not with your solutions.`
+*  Windows Vista as a prime exemple of a [sacrificial lamb product](https://twitter.com/SwiftOnSecurity/status/851861076429991937), a massive unpopular re-architecture required to pave the way for future innovative release. Or why you should be ready for intense criticism and adversity, tackling monumental changes in a business software.
 
 
 ## Project Management
