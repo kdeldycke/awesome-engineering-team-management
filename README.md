@@ -42,11 +42,10 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 ### Managers
 
 * [What are the signs that you have a great manager?](https://news.ycombinator.com/item?id=20230133) - `The irony is that you don't really notice a great manager.`
-* [Identify what makes a great manager](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/) - Google Tried to Prove Managers Don't Matter. Instead, It Discovered [10 Traits of the Very Best Ones](https://www.inc.com/scott-mautz/google-tried-to-prove-managers-dont-matter-instead-they-discovered-10-traits-of-very-best-ones.html).
-* [Let’s have no managers, instead of managers with no engineering experience](https://medium.com/hackernoon/lets-have-no-managers-instead-of-managers-with-no-engineering-experience-e8b7cd29d398) - Bold claim, particularly in light of the study above. But title is misleading, article's argument is: we don't need *project* managers if we already have *product* managers and scrum masters.
-* `Over the years we have developed the policy that it is important for the supervisor to thoroughly know and understand the work of his group.` ([source](https://news.ycombinator.com/item?id=20683609)) - An echo of the claim above, [from David Packard](https://www.amazon.fr/dp/0060845791) (HP co-founder), decades before current [management fad](https://en.wikipedia.org/wiki/Management_fad).
+* [Identify what makes a great manager](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/) - Google tried to prove managers don't matter. Instead, it discovered [10 Traits of the Very Best Ones](https://www.inc.com/scott-mautz/google-tried-to-prove-managers-dont-matter-instead-they-discovered-10-traits-of-very-best-ones.html).
+* `Over the years we have developed the policy that it is important for the supervisor to thoroughly know and understand the work of his group.` ([source](https://news.ycombinator.com/item?id=20683609)) - Echoes articles above, that quote is [from David Packard](https://www.amazon.fr/dp/0060845791) (HP co-founder), decades before current [management fad](https://en.wikipedia.org/wiki/Management_fad).
 * [As a product manager...how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
-* [Great PMs don’t spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/) - Not on solutions no. But on customer's problems.
+* [Great PMs don’t spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/) - Not on solutions, no. But on customer's problems.
 
 ### Engineers
 
@@ -103,7 +102,6 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 * `"You know your game fails when you read in the news about the feature you are supposed to have".` ([source](https://news.ycombinator.com/item?id=20220484)). A team learning about its roadmap at the same time of the general public is a sure sign something is wrong.
 * [A conversation with Elon Musk about Starship](https://youtu.be/cIQ36Kt7UVg?t=203) - In a team with very talented contributors, everyone's is a chief engineer: you are expected to challenge the status-quo and questions other departement's constraints. This allow smart engineers to avoid the trap of optimizing for something that should not exist in the first place.
 * [It's Not Sabotage, They're Drowning](https://shermanonsoftware.com/2019/11/15/its-not-sabotage-theyre-drowning/) - Some kind of push backs shouldn't be interpreted as intentional sabotage, but as drowning people sinking the lifeboat in an attempt to save themselves.
-* [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/) - Discusses mentorship practices that work well engineer-to-engineer.
 
 
 ## Remote Work
@@ -128,11 +126,12 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 
 ## Project Management
 
+* [Let’s have no managers, instead of managers with no engineering experience](https://medium.com/hackernoon/lets-have-no-managers-instead-of-managers-with-no-engineering-experience-e8b7cd29d398) - The title is misleading, article's argument is: we don't need *project* managers if we already have *product* managers and scrum masters.
 * [Best project management practices in 2018?](https://news.ycombinator.com/item?id=16377523) - TL;DR: there is no silver bullet.
 * [Strategies for long Projects](http://benbrostoff.github.io/2019/09/28/long-projects.html) - TL;DR: Relentless, irrational optimism; Daily progress documentation; Compounding investments; Time budgeting.
 * [Dear Startup: You have no idea how much that costs.](http://kyleprifogle.com/dear-startup/) - `We are completely clueless about how long things should take.`. Here is a [trick to handle expectation of unreasonable estimates](https://news.ycombinator.com/item?id=21069178).
 * [Escalation of commitment](https://en.wikipedia.org/wiki/Escalation_of_commitment) - A.k.a. sunk-cost fallacy, or the rational explanation of why the hell do we still irrationally keep investing in a bad project.
-* [A list of GitHub labels for reuse across projects](https://twitter.com/abdonrd/status/991697736230633474) - Simple and practical.
+* [GitHub labels for reuse across projects](https://twitter.com/abdonrd/status/991697736230633474) - Simple and practical.
 
 
 ## Agile
@@ -147,6 +146,13 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 * `One way in which I've seen OKRs used effectively is as a defense against the type of middle or upper manager who is constantly coming up with new ideas or tasks.` ([source](https://news.ycombinator.com/item?id=19550614))
 * [Why individual OKRs don’t work for us](https://hrblog.spotify.com/2016/08/15/our-beliefs/) - Spotify decision to stop using OKRs for individuals.
 * [Google's usage of OKRs](https://news.ycombinator.com/item?id=17492038) - OKR grades are public, but not use for promotion. It was never taken very seriously.
+
+
+## Training
+
+On mentoring, education and learning skills.
+
+* [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/) - Discusses mentorship practices that work well engineer-to-engineer.
 
 
 ## Documentation
