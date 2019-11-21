@@ -1,6 +1,6 @@
 # Awesome Engineering Team Management
 
-A compilation of advices, anecdotes, knowledge tibits, discussions, industry smalltalks and rants. A bibliography of sort, gathered the last few years while transitionning my career from a software engineer to an engineer's manager. And later from a manager to a manager's managers (you all love recursion right? ʘ‿ʘ).
+A compilation of advices, anecdotes, knowledge tidbits, discussions, industry small-talks and rants. A bibliography of sort, gathered the last few years while transitioning my career from a software engineer to an engineer's manager. And later from a manager to a manager's managers (you all love recursion right? ʘ‿ʘ).
 
 It is on this substrate that I crafted my management style, as I found anchoring the later with [the usual labels](https://en.wikipedia.org/wiki/Management_style#Types_of_management_styles) is way too limiting and short-sighted. Limiting as management is both of an art and a science. And short-sighted as a style shouldn't be taken at face-value and always be sensible to our fellow humans talents and the business context of the company.
 
@@ -13,7 +13,7 @@ It is on this substrate that I crafted my management style, as I found anchoring
 * [Going from Developer to Manager. What should I know or learn?](https://news.ycombinator.com/item?id=18823616)
 * [How to be a Manager – A step-by-step guide to leading a team](https://getweeklyupdate.com/manager-guide) - A full, detailed guide on modern management practices.
 * [On being an Engineering Manager](https://ruiper.es/2018/01/15/on-being-an-engineering-manager/) - Some of these points needs nuance, but others are a good taste of things to come for first-time managers.
-* [Work at different management levels](https://larahogan.me/blog/manager-levels/) - A great proggressive breakup of what it feels like to work at different levels of management.
+* [Work at different management levels](https://larahogan.me/blog/manager-levels/) - A great progressive breakup of what it feels like to work at different levels of management.
 * [How do managers get stuck?](http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html) - Identify scenario preventing managers to be promoted at the next level.
 * [As an engineering manager, this sounds like almost every startup I interview at](https://news.ycombinator.com/item?id=19188246) - Great insight about 1:1s, CTOs skipping them and the perils of not believing in hierarchies.
 * `It is a job where your goal is to try disappoint people most slowly.` ([source](https://news.ycombinator.com/item?id=18222488)).
@@ -21,7 +21,7 @@ It is on this substrate that I crafted my management style, as I found anchoring
 
 ## Building Teams
 
-Either you inherit an already existing team of have to start from scratch, you'll need to practive the art of building (and consolidating) them.
+Either you inherit an already existing team of have to start from scratch, you'll need to practice the art of building (and consolidating) them.
 
 * [Building and Motivating Engineering Teams](http://www.elidedbranches.com/2016/11/building-and-motivating-engineering.html) - What DO engineers want? Money, purpose and respect. 
 * [Teams are like bread](https://blog.jessitron.com/2019/06/15/teams-are-like-bread/) - `If you have one team where the magic is flourishing, don’t kill it. Feed it, grow it, and let it be a source of further strong teams. No rushing.`
@@ -64,7 +64,7 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 * [My questions for prospective employers (Director/VP roles)](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/) - Great list for senior management roles.
 * [Secret manager trick of hiring data scientists](https://twitter.com/kdeldycke/status/1008383946831417344)
 * [Hire people who aren't proven](https://leonardofed.io/blog/startups-hiring.html) - If anyone else in the world can objectively say this is a great player, you and your startup won't be able to hire the player. Someone will steal him from you. You have to go after people that aren't proven. In short, you need to be extremely good at forecasting talent.
-* [levels.fyi](https://www.levels.fyi) - Compares salary range and compensation charts accross big tech companies.
+* [levels.fyi](https://www.levels.fyi) - Compares salary range and compensation charts across big tech companies.
 * [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html) - `When it comes to writing code, the number one most important skill is how to keep a tangle of features from collapsing under the weight of its own complexity.`
 
 
@@ -80,7 +80,7 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 * [Adaptation vs adaptability](https://people.clas.ufl.edu/ulan/files/Conrad.pdf) - There is a spectrum between perfect efficiency and being completely flexible. This article explores ecosystems and the flows of material and energy between different organisms within the ecosystem. ([hinted by HN comment](https://news.ycombinator.com/item?id=20963513))
 * [hacker-laws](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful.
 * [It’s Not Enough to Be Right—You Also Have to Be Kind](https://forge.medium.com/its-not-enough-to-be-right-you-also-have-to-be-kind-b8814111fe1) - `It’s harder to be kind than clever.`, or put another way by Abraham Joshua Heschel: `When I was young, I used to admire intelligent people; as I grow older, I admire kind people.`.
-* [HiPPO FAQ](http://bitly.com/HIPPOExplained) - HiPPO stands for `HIghest Paid Person's Opinion`, a trait of dysfonctional culture, in which power politics trumps data.
+* [HiPPO FAQ](http://bitly.com/HIPPOExplained) - HiPPO stands for `Highest Paid Person's Opinion`, a trait of dysfunctional culture, in which power politics trumps data.
 
 
 ## Cognitive Tools
@@ -100,7 +100,7 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 * [How to Celebrate the Small Wins](https://medium.dave-bailey.com/how-to-celebrate-the-small-wins-4a03004a1816)
 * [Coaching questions for one-to-ones](https://mobile.twitter.com/ctford/status/1163129999882444800).
 * `"You know your game fails when you read in the news about the feature you are supposed to have".` ([source](https://news.ycombinator.com/item?id=20220484)). A team learning about its roadmap at the same time of the general public is a sure sign something is wrong.
-* [A conversation with Elon Musk about Starship](https://youtu.be/cIQ36Kt7UVg?t=203) - In a team with very talented contributors, everyone's is a chief engineer: you are expected to challenge the status-quo and questions other departement's constraints. This allow smart engineers to avoid the trap of optimizing for something that should not exist in the first place.
+* [A conversation with Elon Musk about Starship](https://youtu.be/cIQ36Kt7UVg?t=203) - In a team with very talented contributors, everyone's is a chief engineer: you are expected to challenge the status-quo and questions other department's constraints. This allow smart engineers to avoid the trap of optimizing for something that should not exist in the first place.
 * [It's Not Sabotage, They're Drowning](https://shermanonsoftware.com/2019/11/15/its-not-sabotage-theyre-drowning/) - Some kind of push backs shouldn't be interpreted as intentional sabotage, but as drowning people sinking the lifeboat in an attempt to save themselves.
 
 
@@ -121,7 +121,7 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 * [Things Many People Find Too Obvious To Have Told You Already](https://twitter.com/patio11/status/936615043126370306)
 * [The product roadmap is dead: welcome to the age of problem roadmaps](https://medium.com/product-managers-at-work/the-product-roadmap-is-dead-welcome-to-the-age-of-problem-roadmaps-7c7745ac8ae0) - `Fall in love with your problems and not with your solutions.`
 * [Kasparov’s Law](https://curatedintelligence.com/2017/10/20/kasparovs-law/) - Weak human + Machine > Machine > Strong Human.
-*  Windows Vista as a prime exemple of a [sacrificial lamb product](https://twitter.com/SwiftOnSecurity/status/851861076429991937), a massive unpopular re-architecture required to pave the way for future innovative release. Or why you should be ready for intense criticism and adversity, tackling monumental changes in a business software.
+*  Windows Vista as a prime example of a [sacrificial lamb product](https://twitter.com/SwiftOnSecurity/status/851861076429991937), a massive unpopular re-architecture required to pave the way for future innovative release. Or why you should be ready for intense criticism and adversity, tackling monumental changes in a business software.
 
 
 ## Project Management
@@ -170,7 +170,7 @@ Documentation is the materialization of knowledge.
 
 ## Re-organizations
 
-* `If you have dealt with large, completely incompetent organisations and wondered how the hell they actually keep going - theres your answer. If built correctly it's genuinely difficult to mess things up.` ([source](https://news.ycombinator.com/item?id=20533922)). I.e. the structure of the organization is quintessential to its longevity.
+* `If you have dealt with large, completely incompetent organizations and wondered how the hell they actually keep going - theres your answer. If built correctly it's genuinely difficult to mess things up.` ([source](https://news.ycombinator.com/item?id=20533922)). I.e. the structure of the organization is quintessential to its longevity.
 * [If I Close My Data Centers, What About the People/Jobs Lost?](https://news.ycombinator.com/item?id=17329028) - F50's data centers being migrated to commercial cloud provider. But what about the people currently doing legacy stuff? The answer: retrain.
 * `This is the managerialist dream. To replace employees' judgement and competence with a process and management methodology. (...) It never works.` ([source](https://news.ycombinator.com/item?id=20881308)). And why the retraining answer above is the best one.
 * [An Alternative Approach to Re-Orgs At Your Company](https://caseyaccidental.com/alternative-approach-re-orgs/) - `Trying not to repeat re-org mistakes, we started working on a structure that would make the re-org act like a feedback-fueled progress driven by the teams instead of by people above them.`. This is an attempt to extract from the ground up signals pointing to inadequate structure. My cautionary tale: this might only work up to a point depending on the company's culture.
@@ -189,6 +189,6 @@ Documentation is the materialization of knowledge.
 ## Exits
 
 * [Why I Rejected My Manager](https://medium.com/personal-growth/why-i-rejected-my-manager-b2273e354462) - ` I understand now why the saying is: people leave managers, not companies.`
-* [Colleague is leaving. How to investigate what went wrong?](https://news.ycombinator.com/item?id=20786755) - `Most of the time people leave bosses, not the job or the company.` And why you're unlikely to get any substential insights from exit interviews. ([source](https://news.ycombinator.com/item?id=20787874))
+* [Colleague is leaving. How to investigate what went wrong?](https://news.ycombinator.com/item?id=20786755) - `Most of the time people leave bosses, not the job or the company.` And why you're unlikely to get any substantial insights from exit interviews. ([source](https://news.ycombinator.com/item?id=20787874))
 * `“People do get pissed off in clusters” is the best description of a team/company meltdown that I’ve ever seen.` ([source](https://news.ycombinator.com/item?id=19755001))
 * [The Elves Leave Middle Earth – Sodas Are No Longer Free](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-–-soda’s-are-no-longer-free/) - Company stopped providing free soda. The engineers were very upset, but it was just soda and they could afford it. But really it wasn't soda. Soda was the canary in the coal mine, triggering an exodus of its best engineers.
