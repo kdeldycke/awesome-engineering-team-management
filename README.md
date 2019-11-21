@@ -7,10 +7,8 @@ This provides the substrate from which I crafted the contour of my management st
 
 ## Engineering to Management Transition
 
-You always been a developer. Being offered [a management position is not a promotion. It is a change in career](https://fractio.nl/2014/09/19/not-a-promotion-a-career-change/).
-
-These notes are part advices, part windows into management from the point of view of an engineer. Articles of the latter category are sometimes harsh - and sorry for the military undertone - but there to [discourage the faint-hearted recruits](https://youtu.be/b07887ZzKiw?t=40).
-
+* You always been a developer. Being offered [a management position is not a promotion. It is a change in career](https://fractio.nl/2014/09/19/not-a-promotion-a-career-change/).
+* [17 Reasons not to be a Manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/) - An article to [discourage the faint-hearted recruits](https://youtu.be/b07887ZzKiw?t=40).
 * [Advice to new managers](https://twitter.com/farbodsaraf/status/967493247525322753).
 * [Going from Developer to Manager. What should I know or learn?](https://news.ycombinator.com/item?id=18823616)
 * [How to be a Manager – A step-by-step guide to leading a team](https://getweeklyupdate.com/manager-guide) - A full, detailed guide on modern management practices.
