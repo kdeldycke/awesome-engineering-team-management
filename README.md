@@ -36,6 +36,7 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 
 * [Executives ratify decisions made on the spot](https://twitter.com/kdeldycke/status/1088001688722644992).
 * `The actual power wielded by a high level executive is usually inversely proportional to the size of the organization they manage.` (source: [comment](https://news.ycombinator.com/item?id=20260498) on [Why large companies are so difficult to rescue](https://news.ycombinator.com/item?id=20260114)).
+* [Army Leadership and the Profession](https://fas.org/irp/doddir/army/adp6_22.pdf) - Establishes and describes what leaders should be and do.
 * [US Air Force's Strategic Leadership Studies](http://leadership.au.af.mil/sls-skil.htm) - A reference of leadership's competencies and skills.
 * [Narcissistic CEOs Weaken Collaboration and Integrity](https://www.gsb.stanford.edu/insights/narcissistic-ceos-weaken-collaboration-integrity) - `The prototypic visionary leader profile is so similar to that of a narcissist, if boards aren’t careful, they’re going to end up choosing people who are narcissistic as CEOs`.
 
