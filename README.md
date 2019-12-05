@@ -57,6 +57,7 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 ### Consultants
 
 * `A consultant is someone 4 pages ahead in the manual` ([source](https://news.ycombinator.com/item?id=20786286)).
+* `The value that most orgs get from a consultant (...) is the political cover to make changes they knew they should make all along, but didn't have the social capital or the focus to make those changes` ([source](https://news.ycombinator.com/item?id=21714791)). And that's the reason bureaucracies and highly political organizations are fertile grounds for consultants.
 
 
 ## Recruitment
