@@ -192,6 +192,7 @@ Documentation is the materialization of knowledge.
 
 ## Setbacks and Failures
 
+* `What does not kill me makes me stronger` - Friedrich Nietzsche.
 * [Early-career setback and future career impact](https://www.nature.com/articles/s41467-019-12189-3) - `Despite an early setback, individuals with near misses systematically outperform those with narrow wins in the longer run.` 
 
 
