@@ -190,6 +190,11 @@ Documentation is the materialization of knowledge.
 * [Should we take a few long holidays, or lots of short ones?](http://timharford.com/2019/09/should-we-take-a-few-long-holidays-or-lots-of-short-ones/) - TL;DR: short ones. `Reason one: holiday memories tend to depend not on how long the holiday was, but on the intensity of the experiences. Reason two: a change of activity can be a spur to creativity. Reason three for taking a short break: if we need rest to prevent exhaustion, a single, long vacation won’t do the trick.`
 
 
+## Setbacks and Failures
+
+* [Early-career setback and future career impact](https://www.nature.com/articles/s41467-019-12189-3) - `Despite an early setback, individuals with near misses systematically outperform those with narrow wins in the longer run.` 
+
+
 ## Exits
 
 * [Why I Rejected My Manager](https://medium.com/personal-growth/why-i-rejected-my-manager-b2273e354462) - ` I understand now why the saying is: people leave managers, not companies.`
