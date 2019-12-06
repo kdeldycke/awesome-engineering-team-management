@@ -39,6 +39,8 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 * [Army Leadership and the Profession](https://fas.org/irp/doddir/army/adp6_22.pdf) - Establishes and describes what leaders should be and do.
 * [US Air Force's Strategic Leadership Studies](http://leadership.au.af.mil/sls-skil.htm) - A reference of leadership's competencies and skills.
 * [Narcissistic CEOs Weaken Collaboration and Integrity](https://www.gsb.stanford.edu/insights/narcissistic-ceos-weaken-collaboration-integrity) - `The prototypic visionary leader profile is so similar to that of a narcissist, if boards aren’t careful, they’re going to end up choosing people who are narcissistic as CEOs`.
+* [*The Prince*](https://en.wikipedia.org/wiki/The_Prince) - Machiavelli's ideas on how to accrue honour and power as a leader.
+
 
 ### Managers
 
