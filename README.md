@@ -108,6 +108,7 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 ## Remote Work
 
 * [Managing Remote Teams - A Crash Course](http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course)
+* [Asynchronous Communication: The Real Reason Remote Workers Are More Productive](https://doist.com/blog/asynchronous-communication/) - `Remote workers are more productive than their office-bound counterparts.`
 
 
 ## Meetings
