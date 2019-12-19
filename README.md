@@ -74,6 +74,7 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 
 * [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc)
 * [US spy manual has tips for coping with toxic bosses](https://qz.com/work/1717297/how-to-cope-with-a-toxic-boss-according-to-a-us-spy-manual-from-wwii/) - Derived from WWII-era [Simple Sabotage Field Manual](https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/CleanedUOSSSimpleSabotage_sm.pdf), a classic read to spot harassing and demoralizing behaviors.
+* [Some reasons why enterprise software is good and maybe even fun](https://news.ycombinator.com/item?id=21231455) - The majority of us will not build the next unicorn: we statiscally have a netter chance to build enterprise software. The twist? It might even be more interesting than you expect.
 
 
 ## Culture
