@@ -175,7 +175,7 @@ Documentation is the materialization of knowledge.
 
 ## Career
 
-Now that you've proven your worth as a front-line manager, what's the next step? These articles explore the follow-up roles, from managing manager to director and everything in between.
+Now that you've proven your worth as a front-line manager, what's the next step? These articles explore the follow-up roles, from managing managers to director, and everything in between.
 
 * [Work at different management levels](https://larahogan.me/blog/manager-levels/) - A great progressive breakup of what it feels like to work at different levels of management.
 * [How do managers get stuck?](http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html) - Identify scenario preventing managers to be promoted at the next level.
