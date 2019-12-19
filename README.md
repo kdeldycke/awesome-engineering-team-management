@@ -192,6 +192,7 @@ Here we are, at the intersection of power and influence lies the political game.
 * `If you cannot disrupt a perverted culture by introducing a new culture, the politics of the perverted culture will work against you until you break, align, or leave. It is not unwise to leave before you break and it is easier to leave before you align.` ([source](https://news.ycombinator.com/item?id=20914779))
 * [*The Prince*](https://en.wikipedia.org/wiki/The_Prince) - Machiavelli's ideas on how to accrue honour and power as a leader. Resorting to that level of politics in a company is a sure way to render the culture highly toxic, as well as corrupting and demoralizing the organization at all levels.
 * [The Gervais Principle](https://www.ribbonfarm.com/the-gervais-principle/) - A cynical, bleak, but still fascinating take on the management ladder, based on *The Office*.
+* [The 48 Laws of Power](https://amzn.com/0140280197/?tag=kevideld-20) by Robert Greene - Can teach you how to cover your ass and be effective in a highly political org.
 
 
 ## Re-organizations
