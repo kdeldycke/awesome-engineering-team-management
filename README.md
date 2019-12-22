@@ -148,7 +148,16 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 * [Detecting Agile Bullshit](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF) - US Departement of Defense guide to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing (“agile-scrum-fall”).
 
 
+## Key Performance Indicator (KPI)
+
+KPIs are a set of quantitative measurements at the team or organizational level, to measure the sucess of the business.
+
+* `Numerical goals set for other people, without a road map to reach the goal, have effects opposite to the effects sought.` - [W. Edwards Deming](https://quotes.deming.org/authors/W._Edwards_Deming/quote/2068-2)
+
+
 ## Objectives and Key Results (OKR)
+
+OKRs are a framework. Extending KPIs, they applies individually to each members of an organization, down to the IC level. Everyone is supposed to have its own set of OKRs.
 
 * [OKRs from a development team’s perspective](https://zafulabs.com/2019/05/24/okrs-from-a-development-teams-perspective/) - On how OKRs articulates with a backlog.
 * `One way in which I've seen OKRs used effectively is as a defense against the type of middle or upper manager who is constantly coming up with new ideas or tasks.` ([source](https://news.ycombinator.com/item?id=19550614))
