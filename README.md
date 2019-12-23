@@ -172,6 +172,7 @@ OKRs are a framework. Extending KPIs, they applies individually to each members 
 On mentoring, education and learning.
 
 * [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/) - Discusses mentorship practices that work well engineer-to-engineer.
+* [What Medieval People Got Right About Learning](https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/) - `Why apprenticeships beat classrooms`.
 * [Developer Roadmaps](https://roadmap.sh/roadmaps) - Very high-level guides and paths to learn different practice and tools.
 
 
