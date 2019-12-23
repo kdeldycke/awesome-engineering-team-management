@@ -65,10 +65,10 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 ## Recruitment
 
 * [Reverse interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview.
-* [Secret manager trick of hiring data scientists](https://twitter.com/kdeldycke/status/1008383946831417344)
 * [Hire people who aren't proven](https://leonardofed.io/blog/startups-hiring.html) - If anyone else in the world can objectively say this is a great player, you and your startup won't be able to hire the player. Someone will steal him from you. You have to go after people that aren't proven. In short, you need to be extremely good at forecasting talent.
-* [levels.fyi](https://www.levels.fyi) - Compares salary range and compensation charts across big tech companies.
 * [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html) - `When it comes to writing code, the number one most important skill is how to keep a tangle of features from collapsing under the weight of its own complexity.`
+* [Secret manager trick of hiring data scientists](https://twitter.com/kdeldycke/status/1008383946831417344)
+* [levels.fyi](https://www.levels.fyi) - Compares salary range and compensation charts across big tech companies.
 
 
 ## Motivation
