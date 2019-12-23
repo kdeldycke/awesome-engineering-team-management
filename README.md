@@ -128,6 +128,7 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 * [Awesome Product Management](https://github.com/dend/awesome-product-management)
 * [A curated list of product management advice for technical people](https://github.com/tron1991/open-product-management)
 * [Things Many People Find Too Obvious To Have Told You Already](https://twitter.com/patio11/status/936615043126370306)
+* [David Rusenko - How To Find Product Market Fit](https://www.youtube.com/watch?v=0LNQxT9LvM0) - `Details the story of how Weebly developed one of the most popular website creation and hosting sites on the web today.`
 * [The product roadmap is dead: welcome to the age of problem roadmaps](https://medium.com/product-managers-at-work/the-product-roadmap-is-dead-welcome-to-the-age-of-problem-roadmaps-7c7745ac8ae0) - `Fall in love with your problems and not with your solutions.`
 * [Kasparov’s Law](https://curatedintelligence.com/2017/10/20/kasparovs-law/) - Weak human + Machine > Machine > Strong Human.
 *  Windows Vista as a prime example of a [sacrificial lamb product](https://twitter.com/SwiftOnSecurity/status/851861076429991937): a massive unpopular re-architecture required to pave the way for future innovative release. That's the cautionary tale of why you should be ready for intense criticism and adversity, if by chance or fate your wander down the path of monumental changes in a business software.
