@@ -198,6 +198,7 @@ Now that you've proven your worth as a front-line manager, what's the next step?
 * [The Evolution of Management: Transitioning up the ladder](https://queue.acm.org/detail.cfm?id=3350548) - Describe the path and expectations at each management level.
 * [My questions for prospective employers (Director/VP roles)](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/) - Great list for senior management roles.
 * `Cutting costs gets you a raise. Delivering a big project is a path to promotion.` ([source](https://news.ycombinator.com/item?id=21230771))
+* [L8-L10 salaries at AWS](https://news.ycombinator.com/item?id=21823987).
 
 
 ## Politics
