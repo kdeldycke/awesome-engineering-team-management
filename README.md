@@ -39,6 +39,8 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 * [US Air Force's Strategic Leadership Studies](http://leadership.au.af.mil/sls-skil.htm) - A reference of leadership's competencies and skills.
 * [Operations and Internal Communication Strategies For Effective CEOs](https://www.sametab.com/blog/operations-and-internal-communication-strategies-for-effective-ceos) - After insisting on the importance of context and narratives, the author provide an interesting template (good for inspiration) of ritual and recurring internal communication devices.
 * [Narcissistic CEOs Weaken Collaboration and Integrity](https://www.gsb.stanford.edu/insights/narcissistic-ceos-weaken-collaboration-integrity) - `The prototypic visionary leader profile is so similar to that of a narcissist, if boards aren’t careful, they’re going to end up choosing people who are narcissistic as CEOs`.
+* `Hiring isn’t the challenge. The challenge is finding people who can be effective while working for executives whose only qualifications and training are narcissistic levels of self confidence.` ([source](https://twitter.com/kellan/status/1205113384632500224)).
+
 
 ### Managers
 
