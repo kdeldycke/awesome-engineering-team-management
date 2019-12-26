@@ -81,7 +81,6 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 * [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc)
 * [US spy manual has tips for coping with toxic bosses](https://qz.com/work/1717297/how-to-cope-with-a-toxic-boss-according-to-a-us-spy-manual-from-wwii/) - Derived from WWII-era [Simple Sabotage Field Manual](https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/CleanedUOSSSimpleSabotage_sm.pdf), a classic read to spot harassing and demoralizing behaviors.
 * [Some reasons why enterprise software is good and maybe even fun](https://news.ycombinator.com/item?id=21231455) - The majority of us will not build the next unicorn: we statiscally have a netter chance to build enterprise software. The twist? It might even be more interesting than you expect.
-* [Manager Energy Drain](https://larahogan.me/blog/manager-energy-drain/) - `How do I handle how tired I am as a manager? 1. Defrag your calendar; 2. Delegate messy and unscoped projects; 3. Say no.`
 
 
 ## Culture
@@ -237,6 +236,7 @@ Here we are, at the intersection of power and influence lies the political game.
 
 ## Stress
 
+* [Manager Energy Drain](https://larahogan.me/blog/manager-energy-drain/) - `How do I handle how tired I am as a manager? 1. Defrag your calendar; 2. Delegate messy and unscoped projects; 3. Say no.`
 * [How Slack Harms Projects](https://www.silasreinagel.com/blog/2019/08/12/how-slack-harms-projects/) - TL;DR: `promote a false sense of urgency, destroy focus, allow for bypassing project prioritization, strip away essential business context, encourage poorly thought-out communication`. To remediate this, see [How to Use Slack and Not Go Crazy](https://pspdfkit.com/blog/2018/how-to-use-slack-and-not-go-crazy/) article.
 * [If You’re So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week) - `Our tendency to overwork and burn out is framed by a complex combination of factors involving our profession, our organization, and ourselves. At the heart of it is insecurity.`
 * [Should we take a few long holidays, or lots of short ones?](http://timharford.com/2019/09/should-we-take-a-few-long-holidays-or-lots-of-short-ones/) - TL;DR: short ones. `Reason one: holiday memories tend to depend not on how long the holiday was, but on the intensity of the experiences. Reason two: a change of activity can be a spur to creativity. Reason three for taking a short break: if we need rest to prevent exhaustion, a single, long vacation won’t do the trick.`
