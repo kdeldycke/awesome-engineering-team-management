@@ -51,10 +51,11 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 
 ### Engineers
 
-* [Devs I really enjoy pairing with](https://twitter.com/ScribblingOn/status/1002598672444448768).
+* [7 absolute truths I unlearned as junior developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/) - TL;DR: `1. I’m a senior developer; 2. Everyone writes tests; 3. We’re so far behind everyone else (a.k.a. tech FOMO); 4. Code quality matters most; 5. Everything must be documented; 6. Technical debt is bad; 7. Seniority means being the best at programming`.
 * [Things I Learnt from a Senior Software Engineer](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html) - `I sat next to a senior software engineer for a year. Here’s what I learnt.`
 * [All the best engineering advice I stole from non-technical people](https://medium.com/@bellmar/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f) - `It’s intriguing that the stuff that really seems to make a difference in the quality of software never seems to be about software.`
 * [5 Things I’ve Learned in 20 Years of Programming](https://daedtech.com/5-things-ive-learned-in-20-years-of-programming/) - `A programmer with 5 years of experienced has more industry tenure than half of the entire industry.`. Also see this follow-up comment of [10 things I've learned after 35 years](https://news.ycombinator.com/item?id=21612990).
+* [Devs I really enjoy pairing with](https://twitter.com/ScribblingOn/status/1002598672444448768).
 * [Choose Boring Technology](http://boringtechnology.club) - `Boring in the sense that it’s well understood.`
 
 ### Consultants
