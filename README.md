@@ -34,6 +34,8 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 
 ### Executives
 
+Executives encompass the senior/highest management layers of a company. They reports to a board of directors in bigger companies, or directly to the shareholders in smaller ones. Leadership is expected at this level. As a manager these are the people you report to.
+
 * [What do executives do, anyway?](https://apenwarr.ca/log/20190926) - Paraphrasing [Andy Grove's book, High Output Management](https://www.amazon.com/dp/0679762884), `the job of an executive is: to define and enforce culture and values for their whole organization, and to ratify good decisions. That's all. Not to decide. Not to break ties. Not to set strategy. Not to be the expert on every, or any topic.`.
 * [Executives ratify decisions made on the spot](https://twitter.com/kdeldycke/status/1088001688722644992).
 * [Army Leadership and the Profession](https://fas.org/irp/doddir/army/adp6_22.pdf) - Establishes and describes what leaders should be and do.
