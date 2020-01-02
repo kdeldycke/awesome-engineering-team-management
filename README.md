@@ -196,14 +196,14 @@ On mentoring, education and learning.
 
 ## Documentation
 
-Documentation is the materialization of knowledge.
+A team, especially a software team, will generate a huge amount of knowledge. All this knowledge is fragile and about to be lost for good. Unless you materialization it in the form of writing.
 
+* [What nobody tells you about documentation](https://www.divio.com/blog/documentation/) - There is four kinds of documentation: tutorials, how-to guides, explanation and reference. Each with their own structure and mode of writing.
 * [How to Write a Technical Paper](https://pdfs.semanticscholar.org/441f/ac7c2020e1c8f0d32adffca697bbb8a198a1.pdf) - Serves as a guideline on how to write a good technical paper. Don't miss [this HN comment](https://news.ycombinator.com/item?id=18227212) too.
 * [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) - Outlines a practical and efficient three-pass method for reading research papers.
 * [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/) - `BLUF is a military communications acronym—it stands for “bottom line up front”—that’s designed to enforce speed and clarity in reports and emails.`
 * [You’re Not Managing a Team of Software Engineers, You’re Managing a Team of Writers](https://medium.com/coaching-notes/youre-not-managing-a-team-of-software-engineers-you-re-managing-a-team-of-writers-b263d3a10cc7).
 * [What senior engineers do: fix knowledge holes](http://www.mooreds.com/wordpress/archives/3232).
-* [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) - There’s this idea that, if you do great work at your job, people will (or should!) automatically recognize that work and reward you for it with promotions / increased pay. In practice, it’s often more complicated than that.
 
 
 ## Career
@@ -215,6 +215,7 @@ Now that you've proven your worth as a front-line manager, what's the next step?
 * [The Evolution of Management: Transitioning up the ladder](https://queue.acm.org/detail.cfm?id=3350548) - Describe the path and expectations at each management level.
 * [My questions for prospective employers (Director/VP roles)](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/) - Great list for senior management roles.
 * `Cutting costs gets you a raise. Delivering a big project is a path to promotion.` ([source](https://news.ycombinator.com/item?id=21230771))
+* [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) - There’s this idea that, if you do great work at your job, people will (or should!) automatically recognize that work and reward you for it with promotions / increased pay. In practice, it’s often more complicated than that.
 * [L8-L10 salaries at AWS](https://news.ycombinator.com/item?id=21823987).
 
 
