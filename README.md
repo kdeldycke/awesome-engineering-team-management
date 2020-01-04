@@ -195,7 +195,7 @@ On mentoring, education and learning.
 * [Developer Roadmaps](https://roadmap.sh/roadmaps) - Very high-level guides and paths to learn different practice and tools.
 
 
-## Documentation
+## Knowledge, Writing and Documentation
 
 A team, especially a software team, will generate a huge amount of knowledge. All this knowledge is fragile and about to be lost for good. Unless you materialization it in the form of writing.
 
