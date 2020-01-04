@@ -199,13 +199,18 @@ On mentoring, education and learning.
 
 A team, especially a software team, will generate a huge amount of knowledge. All this knowledge is fragile and about to be lost for good. Unless you materialization it in the form of writing.
 
-* [What nobody tells you about documentation](https://www.divio.com/blog/documentation/) - There is four kinds of documentation: tutorials, how-to guides, explanation and reference. Each with their own structure and mode of writing.
-* [How to Write a Technical Paper](https://pdfs.semanticscholar.org/441f/ac7c2020e1c8f0d32adffca697bbb8a198a1.pdf) - Serves as a guideline on how to write a good technical paper. Don't miss [this HN comment](https://news.ycombinator.com/item?id=18227212) too.
-* [Write an Excellent Programming Blog](https://speakerdeck.com/pycon2016/a-jesse-jiryu-davis-write-an-excellent-programming-blog) - Tips on structure and style to produce great blog posts.
-* [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) - Outlines a practical and efficient three-pass method for reading research papers.
-* [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/) - `BLUF is a military communications acronym—it stands for “bottom line up front”—that’s designed to enforce speed and clarity in reports and emails.`
 * [You’re Not Managing a Team of Software Engineers, You’re Managing a Team of Writers](https://medium.com/coaching-notes/youre-not-managing-a-team-of-software-engineers-you-re-managing-a-team-of-writers-b263d3a10cc7).
 * [What senior engineers do: fix knowledge holes](http://www.mooreds.com/wordpress/archives/3232).
+* [What nobody tells you about documentation](https://www.divio.com/blog/documentation/) - There is four kinds of documentation: tutorials, how-to guides, explanation and reference. Each with their own structure and mode of writing.
+* [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) - Outlines a practical and efficient three-pass method for reading research papers.
+* [How to Write a Technical Paper](https://pdfs.semanticscholar.org/441f/ac7c2020e1c8f0d32adffca697bbb8a198a1.pdf) - Serves as a guideline on how to write a good technical paper, in the form of a typical journal publication.
+* [Algorithm for writing a scientific manuscript](https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.20329) - A process to guide the preparation and refinement of manuscripts.
+* [The Baldwin Formula for scientific writing: writing papers and reviews](https://www.ice.mpg.de/ext/fileadmin/extranet/dept_itb/The_Baldwin_Formula_for_writing_a_scientific_paper_and_reviewing_papers.pdf) - `The most efficient way to write scientific papers is to write while you are still conducting experiments`.
+* [Ten simple rules for structuring papers](https://www.biorxiv.org/content/10.1101/088278v5.full) - `Focusing on how readers consume information, we present a set of 10 simple rules to help you get across the main idea of your paper.`
+* [How to write abstracts that efficiently convey the idea of a paper](https://news.ycombinator.com/item?id=18227212).
+* [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html) - Another set of tips, specifically using the example of a technical paper describing a improvment of an algorithm.
+* [Write an Excellent Programming Blog](https://speakerdeck.com/pycon2016/a-jesse-jiryu-davis-write-an-excellent-programming-blog) - Tips on structure and style to produce great blog posts.
+* [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/) - `BLUF is a military communications acronym—it stands for “bottom line up front”—that’s designed to enforce speed and clarity in reports and emails.`
 
 
 ## Career
