@@ -228,6 +228,7 @@ Now that you've proven your worth as a front-line manager, what's the next step?
 * `Cutting costs gets you a raise. Delivering a big project is a path to promotion.` ([source](https://news.ycombinator.com/item?id=21230771))
 * [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) - There’s this idea that, if you do great work at your job, people will (or should!) automatically recognize that work and reward you for it with promotions / increased pay. In practice, it’s often more complicated than that.
 * [L8-L10 salaries at AWS](https://news.ycombinator.com/item?id=21823987).
+* `Never accept a lower salary in exchange for equity.` ([source](https://news.ycombinator.com/item?id=21868845))
 
 
 ## Politics
