@@ -53,7 +53,7 @@ Executives are the senior/highest management layers of a company. They reports t
 * `Over the years we have developed the policy that it is important for the supervisor to thoroughly know and understand the work of his group.` ([source](https://news.ycombinator.com/item?id=20683609)) - Echoes articles above, that quote is [from David Packard](https://www.amazon.fr/dp/0060845791) (HP co-founder), decades before current [management fad](https://en.wikipedia.org/wiki/Management_fad).
 * [As a product manager...how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
 * [Great PMs don’t spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/) - Not on solutions, no. But on customer's problems.
-* `Since managers are not tied to a sector (in the way nurses or musicians are), the good ones tend to go where they are payed good money and the bad ones end up wreaking havoc where they are payed at least some money. That, also, is `[Baumol](https://en.wikipedia.org/wiki/Baumol%27s_cost_disease)` in action.` ([source](https://news.ycombinator.com/item?id=20448929)).
+* [Things I have learnt as the software engineering lead of a multinational](https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/) - Some interesting points here, some others needs to be challenged.
 
 ### Engineers
 
@@ -229,6 +229,7 @@ Now that you've proven your worth as a front-line manager, what's the next step?
 * [My questions for prospective employers (Director/VP roles)](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/) - Great list for senior management roles.
 * [`That's usually about the time I nope right out of the interview`](https://news.ycombinator.com/item?id=19188246) - Bad signs of a CTO trying to recruit an engineering manager, or the perils of not believing in hierarchies.
 * [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) - There’s this idea that, if you do great work at your job, people will (or should!) automatically recognize that work and reward you for it with promotions / increased pay. In practice, it’s often more complicated than that.
+* `Since managers are not tied to a sector (in the way nurses or musicians are), the good ones tend to go where they are payed good money and the bad ones end up wreaking havoc where they are payed at least some money. That, also, is `[Baumol](https://en.wikipedia.org/wiki/Baumol%27s_cost_disease)` in action.` ([source](https://news.ycombinator.com/item?id=20448929)).
 * [L8-L10 salaries at AWS](https://news.ycombinator.com/item?id=21823987).
 * `Never accept a lower salary in exchange for equity.` ([source](https://news.ycombinator.com/item?id=21868845))
 
