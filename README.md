@@ -264,8 +264,9 @@ Here we are, at the intersection of power and influence lies the political game.
 
 * `What does not kill me makes me stronger` - Friedrich Nietzsche.
 * [Early-career setback and future career impact](https://www.nature.com/articles/s41467-019-12189-3) - `Despite an early setback, individuals with near misses systematically outperform those with narrow wins in the longer run.` 
-* [Steve Jobs explains - Why companies fail?](https://www.youtube.com/watch?v=fuZ6ypueK8M) - On how sales and marketing takes over product focused companies
+* [Steve Jobs explains - Why companies fail?](https://www.youtube.com/watch?v=fuZ6ypueK8M) - On how sales and marketing takes over product focused companies.
 * [The failure of Scaling Etsy](https://twitter.com/mcfunley/status/1194713711337852928) - When a company lacks technical leadership: developers waste time in costly refactors, over-engineered systems, and ends up detached from the business and product.
+* [How Complex Systems Fail](https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) - `Short treatise on the nature of failure; how failure is evaluated; how failure is attributed to proximate cause; and the resulting new understanding of patient safety`.
 
 
 ## Exits
