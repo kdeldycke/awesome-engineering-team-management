@@ -210,6 +210,7 @@ A team, especially a software team, will generate a huge amount of knowledge. Al
 * [How to write abstracts that efficiently convey the idea of a paper](https://news.ycombinator.com/item?id=18227212).
 * [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html) - Another set of tips, specifically using the example of a technical paper describing a improvment of an algorithm.
 * [Write an Excellent Programming Blog](https://speakerdeck.com/pycon2016/a-jesse-jiryu-davis-write-an-excellent-programming-blog) - Tips on structure and style to produce great blog posts.
+* [Notes on Technical Writing](https://mkaz.blog/misc/notes-on-technical-writing/).
 * [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/) - `BLUF is a military communications acronym—it stands for “bottom line up front”—that’s designed to enforce speed and clarity in reports and emails.`
 
 
