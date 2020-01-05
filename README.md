@@ -15,7 +15,6 @@ The first step. The hardest: how to requalify oneself from an Individual Contrib
 * [Going from Developer to Manager. What should I know or learn?](https://news.ycombinator.com/item?id=18823616)
 * [How to be a Manager – A step-by-step guide to leading a team](https://getweeklyupdate.com/manager-guide) - A full, detailed guide on modern management practices.
 * [On being an Engineering Manager](https://ruiper.es/2018/01/15/on-being-an-engineering-manager/) - Some of these points needs nuance, but others are a good taste of things to come for first-time managers.
-* [As an engineering manager, this sounds like almost every startup I interview at](https://news.ycombinator.com/item?id=19188246) - Great insight about 1:1s, CTOs skipping them and the perils of not believing in hierarchies.
 * `It is a job where your goal is to try disappoint people most slowly.` ([source](https://news.ycombinator.com/item?id=18222488)).
 
 
@@ -225,7 +224,7 @@ Now that you've proven your worth as a front-line manager, what's the next step?
 * [The Evolution of Management: Transitioning up the ladder](https://queue.acm.org/detail.cfm?id=3350548) - Describe the path and expectations at each management level.
 * [Founder to CEO](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/) - How to start as a technical founder of a startup, build a great team then grow with the company to learn and become a full-fledge CEO.
 * [My questions for prospective employers (Director/VP roles)](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/) - Great list for senior management roles.
-* `Cutting costs gets you a raise. Delivering a big project is a path to promotion.` ([source](https://news.ycombinator.com/item?id=21230771))
+* [`That's usually about the time I nope right out of the interview`](https://news.ycombinator.com/item?id=19188246) - Bad signs of a CTO trying to recruit an engineering manager, or the perils of not believing in hierarchies.
 * [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) - There’s this idea that, if you do great work at your job, people will (or should!) automatically recognize that work and reward you for it with promotions / increased pay. In practice, it’s often more complicated than that.
 * [L8-L10 salaries at AWS](https://news.ycombinator.com/item?id=21823987).
 * `Never accept a lower salary in exchange for equity.` ([source](https://news.ycombinator.com/item?id=21868845))
@@ -236,6 +235,7 @@ Now that you've proven your worth as a front-line manager, what's the next step?
 Here we are, at the intersection of power and influence lies the political game. If its nature and intensity is sourced from the company's core culture and history, you're unfortunately unlikely to avoid it past a certain hierarchical level. So be prepared.
 
 * `The actual power wielded by a high level executive is usually inversely proportional to the size of the organization they manage.` (source: [comment](https://news.ycombinator.com/item?id=20260498) on [Why large companies are so difficult to rescue](https://news.ycombinator.com/item?id=20260114)).
+* `Cutting costs gets you a raise. Delivering a big project is a path to promotion.` ([source](https://news.ycombinator.com/item?id=21230771))
 * [HiPPO FAQ](http://bitly.com/HIPPOExplained) - HiPPO stands for `Highest Paid Person's Opinion`, a trait of dysfunctional culture, in which power politics trumps data.
 * [*The Prince*](https://en.wikipedia.org/wiki/The_Prince) - Machiavelli's ideas on how to accrue honour and power as a leader. Resorting to that level of politics in a company is a sure way to render the culture highly toxic, as well as corrupting and demoralizing the organization at all levels.
 * [The Gervais Principle](https://www.ribbonfarm.com/the-gervais-principle/) - A cynical, bleak, but still fascinating take on the management ladder, based on *The Office*.
