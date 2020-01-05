@@ -144,6 +144,7 @@ In a team, the Product Manager is supposed to be the "voice of the market".
 
 * [Awesome Product Management](https://github.com/dend/awesome-product-management)
 * [What Everybody Ought To Know About The Product Manager Case Interview](http://www.venturegrit.com/what-everybody-ought-to-know-about-the-product-manager-case-interview/)
+* [What are frequently asked questions in product manager interviews?](https://www.quora.com/What-are-frequently-asked-questions-in-product-manager-interviews)
 * [A curated list of product management advice for technical people](https://github.com/tron1991/open-product-management)
 * [Things Many People Find Too Obvious To Have Told You Already](https://twitter.com/patio11/status/936615043126370306)
 * [I wasted $40k on a fantastic startup idea](https://tjcx.me/posts/i-wasted-40k-on-a-fantastic-startup-idea/) - A tale of building a product no user want to pay for. `You can’t just create value for the user: that’s a charity. You also can’t just create value for your company: that’s a scam. Your goal is to set up some kind of positive-sum exchange, where everyone benefits, including you. A business plan, according to this textbook, starts with this simple question: how will you create value for yourself and the company?`
