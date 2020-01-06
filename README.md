@@ -240,13 +240,14 @@ Now that you've proven your worth as a front-line manager, what's the next step?
 
 Here we are, at the intersection of power and influence lies the political game. If its nature and intensity is sourced from the company's core culture and history, you're unfortunately unlikely to avoid it past a certain hierarchical level. So be prepared.
 
-* `The actual power wielded by a high level executive is usually inversely proportional to the size of the organization they manage.` (source: [comment](https://news.ycombinator.com/item?id=20260498) on [Why large companies are so difficult to rescue](https://news.ycombinator.com/item?id=20260114)).
-* `Cutting costs gets you a raise. Delivering a big project is a path to promotion.` ([source](https://news.ycombinator.com/item?id=21230771))
-* `"You know your game fails when you read in the news about the feature you are supposed to have".` ([source](https://news.ycombinator.com/item?id=20220484)). A team learning about its roadmap at the same time of the general public is a sure sign something is wrong.
 * [HiPPO FAQ](http://bitly.com/HIPPOExplained) - HiPPO stands for `Highest Paid Person's Opinion`, a trait of dysfunctional culture, in which power politics trumps data.
 * [*The Prince*](https://en.wikipedia.org/wiki/The_Prince) - Machiavelli's ideas on how to accrue honour and power as a leader. Resorting to that level of politics in a company is a sure way to render the culture highly toxic, as well as corrupting and demoralizing the organization at all levels.
 * [The Gervais Principle](https://www.ribbonfarm.com/the-gervais-principle/) - A cynical, bleak, but still fascinating take on the management ladder, based on *The Office*.
 * [The 48 Laws of Power](https://amzn.com/0140280197/?tag=kevideld-20) by Robert Greene - Can teach you how to cover your ass and be effective in a highly political org.
+* [Selectorate theory](https://en.wikipedia.org/wiki/Selectorate_theory) - `In selectorate theory, three groups of people affect leaders. These groups are the nominal selectorate, the real selectorate, and the winning coalition. (...) To remain in power, leaders must maintain their winning coalition.`
+* `The actual power wielded by a high level executive is usually inversely proportional to the size of the organization they manage.` (source: [comment](https://news.ycombinator.com/item?id=20260498) on [Why large companies are so difficult to rescue](https://news.ycombinator.com/item?id=20260114)).
+* `Cutting costs gets you a raise. Delivering a big project is a path to promotion.` ([source](https://news.ycombinator.com/item?id=21230771))
+* `"You know your game fails when you read in the news about the feature you are supposed to have".` ([source](https://news.ycombinator.com/item?id=20220484)). A team learning about its roadmap at the same time of the general public is a sure sign something is wrong.
 
 
 ## Re-organizations
