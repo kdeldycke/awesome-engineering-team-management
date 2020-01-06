@@ -180,6 +180,7 @@ In a team, the Product Manager is supposed to be the "voice of the market".
 KPIs are a set of quantitative measurements at the team or organizational level, to measure the sucess of the business.
 
 * `Numerical goals set for other people, without a road map to reach the goal, have effects opposite to the effects sought.` - [W. Edwards Deming](https://quotes.deming.org/authors/W._Edwards_Deming/quote/2068-2)
+* [SRE fundamentals: SLIs, SLAs and SLOs](https://cloudplatform.googleblog.com/2018/07/sre-fundamentals-slis-slas-and-slos.html) - If you are in the business of cloud services, these metrics are certainly great KPIs.
 * `My team tracks life impact as a metric (pages outside business hours) and works to drive that down to zero.` ([source](https://twitter.com/dwc/status/962179099606200320))
 * [The 4 Worst Software Metrics Agitating Developers in 2019](https://www.gitclear.com/blog/the_4_worst_software_metrics_agitating_developers_in_2019) - The worst KPIs to track a software team output: Lines of Code, Commit Count, Issues Resolved (aka “Shipping Velocity”) and Code Churn (aka "Efficiency").
 
