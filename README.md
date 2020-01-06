@@ -144,6 +144,7 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 
 In a team, the Product Manager is supposed to be the "voice of the market".
 
+* `You're the broker for a lot of unstructured information and have to fend off all kinds of disruptive influences to land even close to where you're trying to go.` ([source](https://news.ycombinator.com/item?id=19050555))
 * [Awesome Product Management](https://github.com/dend/awesome-product-management)
 * [What Everybody Ought To Know About The Product Manager Case Interview](http://www.venturegrit.com/what-everybody-ought-to-know-about-the-product-manager-case-interview/)
 * [What are frequently asked questions in product manager interviews?](https://www.quora.com/What-are-frequently-asked-questions-in-product-manager-interviews)
