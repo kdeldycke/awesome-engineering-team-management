@@ -64,6 +64,10 @@ Executives are the senior/highest management layers of a company. They reports t
 * [Devs I really enjoy pairing with](https://twitter.com/ScribblingOn/status/1002598672444448768).
 * [All the best engineering advice I stole from non-technical people](https://medium.com/@bellmar/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f) - `It’s intriguing that the stuff that really seems to make a difference in the quality of software never seems to be about software.`
 * [What Makes A Great Software Engineer?](https://faculty.washington.edu/ajko/papers/Li2015GreatEngineers.pdf) - This papaer doesn't present any clear answe, but a model based on 53 attributes (!). Still a good source referencing other papers on the topic.
+* [Google Engineering Practices Documentation](https://google.github.io/eng-practices/) - Best take away: 
+
+
+
 * [Choose Boring Technology](http://boringtechnology.club) - `Boring in the sense that it’s well understood.`
 
 ### Consultants
@@ -126,6 +130,7 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 * [Symptoms of Groupthink](https://courses.washington.edu/psii101/Powerpoints/Symptoms%20of%20Groupthink.htm) - Overconfidence, tunnel vision and conformity pressure can led a group astray.
 * [It's Not Sabotage, They're Drowning](https://shermanonsoftware.com/2019/11/15/its-not-sabotage-theyre-drowning/) - Some kind of push backs shouldn't be interpreted as intentional sabotage, but as drowning people sinking the lifeboat in an attempt to save themselves.
 * `Community already exists, you just create a communication platform for it` ([source](https://news.ycombinator.com/item?id=21828666)) - Or why trying to create a community from the ground up might not be the right way of looking at things: a better and more subtle strategy would be to enhance the already existing channels.
+* `Why Should Code Reviews Be Fast? (..) [To] optimize for the speed at which a team of developers can produce a product together, as opposed to optimizing for the speed at which an individual developer can write code.` ([source](https://github.com/google/eng-practices/blob/master/review/reviewer/speed.md#why-should-code-reviews-be-fast-why)), from [Google Engineering Practices](https://google.github.io/eng-practices/).
 
 
 ## Remote Work
