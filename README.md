@@ -1,4 +1,4 @@
-# Awesome Engineering Team Management
+# 👔 Awesome Engineering Team Management
 
 A compilation of advices, anecdotes, knowledge tidbits, discussions, industry small-talks and rants. A bibliography of sort, gathered the last few years while transitioning my career from a software engineer to an engineer's manager. And later from a manager to a manager's managers (you all love recursion right? ʘ‿ʘ).
 
