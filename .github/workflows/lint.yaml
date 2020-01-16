@@ -1,0 +1,19 @@
+name: Lint Awesome List
+on:
+  push:
+  pull_request:
+  schedule:
+    # Run linter every week to catch regressions from external dependencies.
+    - cron: 17 9 * * 1
+
+jobs:
+
+  lint:
+    name: Lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+        with:
+          # Fetch all history to please linter's age checks.
+          fetch-depth: 0
+      - uses: max/awesome-lint@master
