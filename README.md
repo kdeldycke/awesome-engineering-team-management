@@ -15,7 +15,7 @@ The first step. The hardest: how to requalify oneself from an Individual Contrib
 * [Going from Developer to Manager. What should I know or learn?](https://news.ycombinator.com/item?id=18823616)
 * [How to be a Manager – A step-by-step guide to leading a team](https://getweeklyupdate.com/manager-guide) - A full, detailed guide on modern management practices.
 * [On being an Engineering Manager](https://ruiper.es/2018/01/15/on-being-an-engineering-manager/) - Some of these points needs nuance, but others are a good taste of things to come for first-time managers.
-* [Responsibility vs. accountability](https://news.ycombinator.com/item?id=21892816) - The biggest difference between manager (accountable) and engineers (responsible): `“Bad things” happen for the person accountable, whereas the person responsible can move on to the next project.`
+* [Responsibility vs. accountability](https://news.ycombinator.com/item?id=21892816) - The biggest difference between manager (accountable) and engineers (responsible): `“Bad things” happen for the person accountable, whereas the person responsible can move on to the next project.`.
 * `It is a job where your goal is to try disappoint people most slowly.` ([source](https://news.ycombinator.com/item?id=18222488)).
 
 
@@ -23,9 +23,9 @@ The first step. The hardest: how to requalify oneself from an Individual Contrib
 
 Either you inherit an already existing team of have to start from scratch, you'll need to practice the art of building (and consolidating) them.
 
-* [Building and Motivating Engineering Teams](http://www.elidedbranches.com/2016/11/building-and-motivating-engineering.html) - What DO engineers want? Money, purpose and respect. 
-* [Teams are like bread](https://blog.jessitron.com/2019/06/15/teams-are-like-bread/) - `If you have one team where the magic is flourishing, don’t kill it. Feed it, grow it, and let it be a source of further strong teams. No rushing.`
-* [Developer Tropes: "Google does it"](https://tomaytotomato.com/developer-tropes/) - It's [cargo-cultish](https://en.wikipedia.org/wiki/Cargo_cult) to imitate the big names in our industry as a path to success. Instead, the take home from this article `would be that managers and other leaders should be like ecologists; who measure, observe and nurture their ecosystems. Doing so will help build a unique workplace that will yield great results.`
+* [Building and Motivating Engineering Teams](http://www.elidedbranches.com/2016/11/building-and-motivating-engineering.html) - What DO engineers want? Money, purpose and respect.
+* [Teams are like bread](https://blog.jessitron.com/2019/06/15/teams-are-like-bread/) - `If you have one team where the magic is flourishing, don't kill it. Feed it, grow it, and let it be a source of further strong teams. No rushing.`.
+* [Developer Tropes: "Google does it"](https://tomaytotomato.com/developer-tropes/) - It's [cargo-cultish](https://en.wikipedia.org/wiki/Cargo_cult) to imitate the big names in our industry as a path to success. Instead, the take home from this article `would be that managers and other leaders should be like ecologists; who measure, observe and nurture their ecosystems. Doing so will help build a unique workplace that will yield great results.`.
 
 
 ## Roles
@@ -43,7 +43,7 @@ Executives are the senior/highest management layers of a company. They reports t
 * [What Only the CEO Can Do](https://hbr.org/2009/05/what-only-the-ceo-can-do) - TL;DR: `1. Defining and interpreting the meaningful "outside" of the company; 2. Answering the two-part question: What business are we in and what business are we not in? 3. Balancing sufficient yield in the present with necessary investment in the future; 4. Shaping the values and standards of the organization.`.
 * [How CEOs Manage Time](https://hbr.org/2018/07/the-leaders-calendar) - A study on what CEO of large companies spent their time on, and how. Opens a new window into what leadership is all about and into its many components and dimensions.
 * [Operations and Internal Communication Strategies For Effective CEOs](https://www.sametab.com/blog/operations-and-internal-communication-strategies-for-effective-ceos) - After insisting on the importance of context and narratives, the author provide an interesting template (good for inspiration) of ritual and recurring internal communication devices.
-* [Narcissistic CEOs Weaken Collaboration and Integrity](https://www.gsb.stanford.edu/insights/narcissistic-ceos-weaken-collaboration-integrity) - `The prototypic visionary leader profile is so similar to that of a narcissist, if boards aren’t careful, they’re going to end up choosing people who are narcissistic as CEOs`.
+* [Narcissistic CEOs Weaken Collaboration and Integrity](https://www.gsb.stanford.edu/insights/narcissistic-ceos-weaken-collaboration-integrity) - `The prototypic visionary leader profile is so similar to that of a narcissist, if boards aren't careful, they’re going to end up choosing people who are narcissistic as CEOs`.
 * `Hiring isn’t the challenge. The challenge is finding people who can be effective while working for executives whose only qualifications and training are narcissistic levels of self confidence.` ([source](https://twitter.com/kellan/status/1205113384632500224)).
 
 ### Managers
@@ -51,7 +51,7 @@ Executives are the senior/highest management layers of a company. They reports t
 * [What are the signs that you have a great manager?](https://news.ycombinator.com/item?id=20230133) - `The irony is that you don't really notice a great manager.`
 * [Identify what makes a great manager](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/) - Google tried to prove managers don't matter. Instead, it discovered [10 Traits of the Very Best Ones](https://www.inc.com/scott-mautz/google-tried-to-prove-managers-dont-matter-instead-they-discovered-10-traits-of-very-best-ones.html).
 * `Over the years we have developed the policy that it is important for the supervisor to thoroughly know and understand the work of his group.` ([source](https://news.ycombinator.com/item?id=20683609)) - Echoes articles above, that quote is [from David Packard](https://www.amazon.fr/dp/0060845791) (HP co-founder), decades before current [management fad](https://en.wikipedia.org/wiki/Management_fad).
-* [As a product manager...how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
+* [As a product manager, how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
 * [Great PMs don’t spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/) - Not on solutions, no. But on customer's problems.
 * [Things I have learnt as the software engineering lead of a multinational](https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/) - Some interesting points here, some others needs to be challenged.
 
@@ -64,7 +64,7 @@ Executives are the senior/highest management layers of a company. They reports t
 * [Devs I really enjoy pairing with](https://twitter.com/ScribblingOn/status/1002598672444448768).
 * [All the best engineering advice I stole from non-technical people](https://medium.com/@bellmar/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f) - `It’s intriguing that the stuff that really seems to make a difference in the quality of software never seems to be about software.`
 * [What Makes A Great Software Engineer?](https://faculty.washington.edu/ajko/papers/Li2015GreatEngineers.pdf) - This papaer doesn't present any clear answe, but a model based on 53 attributes (!). Still a good source referencing other papers on the topic.
-* [Google Engineering Practices Documentation](https://google.github.io/eng-practices/) - Best take away: 
+* [Google Engineering Practices Documentation](https://google.github.io/eng-practices/) - Best take away:
 
 
 
@@ -73,7 +73,7 @@ Executives are the senior/highest management layers of a company. They reports t
 ### Consultants
 
 * `A consultant is someone 4 pages ahead in the manual` ([source](https://news.ycombinator.com/item?id=20786286)).
-* `The value that most orgs get from a consultant (...) is the political cover to make changes they knew they should make all along, but didn't have the social capital or the focus to make those changes` ([source](https://news.ycombinator.com/item?id=21714791)). And that's the reason bureaucracies and highly political organizations are fertile grounds for consultants.
+* `The value that most orgs get from a consultant (…) is the political cover to make changes they knew they should make all along, but didn't have the social capital or the focus to make those changes` ([source](https://news.ycombinator.com/item?id=21714791)). And that's the reason bureaucracies and highly political organizations are fertile grounds for consultants.
 
 
 ## Recruitment
@@ -114,9 +114,9 @@ Executives are the senior/highest management layers of a company. They reports t
 * [I coached CEOs, founders, VCs and other executive: These are the biggest takeaways](https://leowid.com/2019-2) - Exerpt: `We’re all just big, complicated bags of emotion walking around; Power comes with the ability to receive a No; Learning to manage your focus, not your time.`
 * [The Efficiency-Destroying Magic of Tidying Up](https://florentcrivello.com/index.php/2019/09/04/the-efficiency-destroying-magic-of-tidying-up/) - `Efficiency tends to look messy, and good looks tend to be inefficient.`. A reminder that sometimes we should just accept [the messiness of the world](https://github.com/kdeldycke/awesome-falsehood).
 * [Strong Opinions, Weakly Held — a framework for thinking](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364) - `“Allow your intuition to guide you to a conclusion, no matter how imperfect — this is the ‘strong opinion’ part. Then –and this is the ‘weakly held’ part– prove yourself wrong.`
-* [Yes, and...](https://en.wikipedia.org/wiki/Yes,_and...) - `A rule-of-thumb in improvisational comedy (...). It is also used in business and other organizations as a principle that improves the effectiveness of the brainstorming process, fosters effective communication, and encourages the free sharing of ideas.`
+* [Yes, and…](https://en.wikipedia.org/wiki/Yes,_and...) - `A rule-of-thumb in improvisational comedy (…). It is also used in business and other organizations as a principle that improves the effectiveness of the brainstorming process, fosters effective communication, and encourages the free sharing of ideas.`
 * `People who excel at software design become convinced that they have a unique ability to understand any kind of system at all, from first principles, without prior training, thanks to their superior powers of analysis. Success in the artificially constructed world of software design promotes a dangerous confidence.` - A reminder of the needs of humility and recognition of limits in our industry, [from a panel on the Moral Economy of Tech](https://idlewords.com/talks/sase_panel.htm).
-* [I thought that using loops was cheating...](https://www.facebook.com/spliceofficial/photos/a.555206991212765/679408552125941/?type=1&theater) - How much is too much? Libraries, wether software or audio loops, are tools. A typical case of [NIH syndrome](https://en.wikipedia.org/wiki/Not_invented_here) transposed to music production.
+* [I thought that using loops was cheating…](https://www.facebook.com/spliceofficial/photos/a.555206991212765/679408552125941/?type=1&theater) - How much is too much? Libraries, wether software or audio loops, are tools. A typical case of [NIH syndrome](https://en.wikipedia.org/wiki/Not_invented_here) transposed to music production.
 * [Avoiding Intellectual Phase Lock](https://books.google.com/books?id=__CnDwAAQBAJ&lpg=PT21&dq=intellectual%20phase%20lock%20Frank%20Dunnington&pg=PT21#v=onepage&q=intellectual%20phase%20lock%20Frank%20Dunnington&f=false) - Anticipating an important result so much, humans by nature are suceptible to introduce subtle confirmation bias. To combat IPL, you might introduce random unknowns to supress any attempt to game the system toward the object of your desire. I.e. avoid to cheat yourself to success.
 
 
@@ -254,7 +254,7 @@ Here we are, at the intersection of power and influence lies the political game.
 * [*The Prince*](https://en.wikipedia.org/wiki/The_Prince) - Machiavelli's ideas on how to accrue honour and power as a leader. Resorting to that level of politics in a company is a sure way to render the culture highly toxic, as well as corrupting and demoralizing the organization at all levels.
 * [The Gervais Principle](https://www.ribbonfarm.com/the-gervais-principle/) - A cynical, bleak, but still fascinating take on the management ladder, based on *The Office*.
 * [The 48 Laws of Power](https://amzn.com/0140280197/?tag=kevideld-20) by Robert Greene - Can teach you how to cover your ass and be effective in a highly political org.
-* [Selectorate theory](https://en.wikipedia.org/wiki/Selectorate_theory) - `In selectorate theory, three groups of people affect leaders. These groups are the nominal selectorate, the real selectorate, and the winning coalition. (...) To remain in power, leaders must maintain their winning coalition.`
+* [Selectorate theory](https://en.wikipedia.org/wiki/Selectorate_theory) - `In selectorate theory, three groups of people affect leaders. These groups are the nominal selectorate, the real selectorate, and the winning coalition. (…) To remain in power, leaders must maintain their winning coalition.`
 * `Playing the game well is now front and center` ([source](https://news.ycombinator.com/item?id=21925738)), or why the [Key practices for achieving large professional goals](https://nodramadevops.com/2019/12/key-practices-for-achieving-large-professional-goals/) is missing the parts about office politics.
 * `The actual power wielded by a high level executive is usually inversely proportional to the size of the organization they manage.` (source: [comment](https://news.ycombinator.com/item?id=20260498) on [Why large companies are so difficult to rescue](https://news.ycombinator.com/item?id=20260114)).
 * `Cutting costs gets you a raise. Delivering a big project is a path to promotion.` ([source](https://news.ycombinator.com/item?id=21230771))
@@ -265,9 +265,9 @@ Here we are, at the intersection of power and influence lies the political game.
 
 * `If you have dealt with large, completely incompetent organizations and wondered how the hell they actually keep going - theres your answer. If built correctly it's genuinely difficult to mess things up.` ([source](https://news.ycombinator.com/item?id=20533922)). I.e. the structure of the organization is quintessential to its longevity.
 * [If I Close My Data Centers, What About the People/Jobs Lost?](https://news.ycombinator.com/item?id=17329028) - F50's data centers being migrated to commercial cloud provider. But what about the people currently doing legacy stuff? The answer: retrain.
-* `This is the managerialist dream. To replace employees' judgement and competence with a process and management methodology. (...) It never works.` ([source](https://news.ycombinator.com/item?id=20881308)). And why the retraining answer above is the best one.
+* `This is the managerialist dream. To replace employees' judgement and competence with a process and management methodology. (…) It never works.` ([source](https://news.ycombinator.com/item?id=20881308)). And why the retraining answer above is the best one.
 * [An Alternative Approach to Re-Orgs At Your Company](https://caseyaccidental.com/alternative-approach-re-orgs/) - `Trying not to repeat re-org mistakes, we started working on a structure that would make the re-org act like a feedback-fueled progress driven by the teams instead of by people above them.`. This is an attempt to extract from the ground up signals pointing to inadequate structure. My cautionary tale: this might only work up to a point depending on the company's culture.
-* `When everything is great success, people behind that success shadow the people who could make success in the future. (...) Netflix is great example of how to do big transition right. Netflix was in renting DVDs by mail business. When the decision to move to streaming was made, Netflix CEO did not allow managers who responsible for DVD renting business into meetings where the future was planned.` ([source](https://news.ycombinator.com/item?id=21395557)).
+* `When everything is great success, people behind that success shadow the people who could make success in the future. (…) Netflix is great example of how to do big transition right. Netflix was in renting DVDs by mail business. When the decision to move to streaming was made, Netflix CEO did not allow managers who responsible for DVD renting business into meetings where the future was planned.` ([source](https://news.ycombinator.com/item?id=21395557)).
 * [I’ve Built Multiple Growth Teams. Here’s Why I Won’t Do It Again.](https://conversionxl.com/blog/dont-build-growth-teams/) - `Few folks understand probability, and most executives don’t care about the data—regardless of what it says.`
 * [Speaking Truth to Power: Reflections on My Career at Microsoft](https://onezero.medium.com/speaking-truth-to-power-reflections-on-a-career-at-microsoft-90f80a449e36) - After 3 decades in a deeply flawed company, the author comes to a humble conclusion: leaders should embodies the value of their employees. Not the other way around. `Changes at the top — not speeches, training or hashtags — make the most cultural impact. If you want real and lasting cultural change, sweep away the made-men who succeeded under the previous culture and promote the people who look, act, and think more like their employees than their managers.`
 * [How the Digg team was acquihired](https://lethain.com/digg-acquihire/) - Acqui-hire of a whole team can be seen as a type  of reorg. In which managers will have to negotiate the new employment contracts in bulk in one or two days: `Because acquihires are “star” oriented, if you’re a senior leaders who doesn’t explicitly refuse to move forward, pressure will converge on you from all sides`.
@@ -282,13 +282,13 @@ Here we are, at the intersection of power and influence lies the political game.
 * [Examples of harassments](https://news.ycombinator.com/item?id=21856352) - How a jealous boss, who felt either betrayed or ridiculed, bullied a capable employee to force him out. Don't be that kind of asshole boss.
 * [If You’re So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week) - `Our tendency to overwork and burn out is framed by a complex combination of factors involving our profession, our organization, and ourselves. At the heart of it is insecurity.`
 * [What Happens When Your Career Becomes Your Whole Identity](https://hbr.org/2019/12/what-happens-when-your-career-becomes-your-whole-identity) - `A particular confluence of high achievement, intense competitiveness, and culture of overwork has caught many in a perfect storm of career enmeshment and burnout.`
-* `In my experience extreme workaholism can often be a way to avoid or defer major life decisions that someone doesn't want to make or even consciously recognize. (...) Eventually the debt comes due but sometimes not until many decades later.` ([source](https://news.ycombinator.com/item?id=21900054))
+* `In my experience extreme workaholism can often be a way to avoid or defer major life decisions that someone doesn't want to make or even consciously recognize. (…) Eventually the debt comes due but sometimes not until many decades later.` ([source](https://news.ycombinator.com/item?id=21900054))
 
 
 ## Setbacks and Failures
 
 * `What does not kill me makes me stronger` - Friedrich Nietzsche.
-* [Early-career setback and future career impact](https://www.nature.com/articles/s41467-019-12189-3) - `Despite an early setback, individuals with near misses systematically outperform those with narrow wins in the longer run.` 
+* [Early-career setback and future career impact](https://www.nature.com/articles/s41467-019-12189-3) - `Despite an early setback, individuals with near misses systematically outperform those with narrow wins in the longer run.`
 * [Steve Jobs explains - Why companies fail?](https://www.youtube.com/watch?v=fuZ6ypueK8M) - On how sales and marketing takes over product focused companies.
 * [The failure of Scaling Etsy](https://twitter.com/mcfunley/status/1194713711337852928) - When a company lacks technical leadership: developers waste time in costly refactors, over-engineered systems, and ends up detached from the business and product.
 * [How Complex Systems Fail](https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) - `Short treatise on the nature of failure; how failure is evaluated; how failure is attributed to proximate cause; and the resulting new understanding of patient safety`.
