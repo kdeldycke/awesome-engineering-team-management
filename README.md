@@ -5,6 +5,37 @@ A compilation of advices, anecdotes, knowledge tidbits, discussions, industry sm
 It is on this substrate that I crafted my management style, as I found anchoring the later with [the usual labels](https://en.wikipedia.org/wiki/Management_style#Types_of_management_styles) is way too limiting and short-sighted. Limiting as management is both of an art and a science. And short-sighted as a style shouldn't be taken at face-value and always be sensible to our fellow humans talents and the business context of the company.
 
 
+## Contents
+
+- [Engineering to Management Transition](#engineering-to-management-transition)
+- [Building Teams](#building-teams)
+- [Roles](#roles)
+  - [Executives](#executives)
+  - [Managers](#managers)
+  - [Engineers](#engineers)
+  - [Consultants](#consultants)
+- [Recruitment](#recruitment)
+- [Motivation](#motivation)
+- [Culture](#culture)
+- [Cognitive Tools](#cognitive-tools)
+- [Team Dynamics](#team-dynamics)
+- [Remote Work](#remote-work)
+- [Meetings](#meetings)
+- [Product Management](#product-management)
+- [Project Management](#project-management)
+- [Agile](#agile)
+- [Key Performance Indicator (KPI)](#key-performance-indicator-kpi)
+- [Objectives and Key Results (OKR)](#objectives-and-key-results-okr)
+- [Training](#training)
+- [Knowledge, Writing and Documentation](#knowledge-writing-and-documentation)
+- [Career](#career)
+- [Politics](#politics)
+- [Re-organizations](#re-organizations)
+- [Stress & Burnout](#stress-burnout)
+- [Setbacks and Failures](#setbacks-and-failures)
+- [Exits](#exits)
+
+
 ## Engineering to Management Transition
 
 The first step. The hardest: how to requalify oneself from an Individual Contributior (IC) to a front-line manager.
