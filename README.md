@@ -31,7 +31,7 @@ It is on this substrate that I crafted my management style, as I found anchoring
 - [Career](#career)
 - [Politics](#politics)
 - [Re-organizations](#re-organizations)
-- [Stress & Burnout](#stress-burnout)
+- [Stress & Burnout](#stress--burnout)
 - [Setbacks and Failures](#setbacks-and-failures)
 - [Exits](#exits)
 
