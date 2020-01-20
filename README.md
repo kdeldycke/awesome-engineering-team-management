@@ -29,6 +29,7 @@ It is on this substrate that I crafted my management style, as I found anchoring
 - [Training](#training)
 - [Knowledge, Writing and Documentation](#knowledge-writing-and-documentation)
 - [Career](#career)
+- [Compensation](#compensation)
 - [Politics](#politics)
 - [Re-organizations](#re-organizations)
 - [Stress & Burnout](#stress--burnout)
@@ -114,7 +115,6 @@ Executives are the senior/highest management layers of a company. They reports t
 * [Hire people who aren't proven](https://leonardofed.io/blog/startups-hiring.html) - If anyone else in the world can objectively say this is a great player, you and your startup won't be able to hire the player. Someone will steal him from you. You have to go after people that aren't proven. In short, you need to be extremely good at forecasting talent.
 * [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html) - `When it comes to writing code, the number one most important skill is how to keep a tangle of features from collapsing under the weight of its own complexity.`
 * [Secret manager trick of hiring data scientists](https://twitter.com/kdeldycke/status/1008383946831417344)
-* [levels.fyi](https://www.levels.fyi) - Compares salary range and compensation charts across big tech companies.
 * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
 
 
@@ -273,6 +273,11 @@ Now that you've proven your worth as a front-line manager, what's the next step?
 * [`That's usually about the time I nope right out of the interview`](https://news.ycombinator.com/item?id=19188246) - Bad signs of a CTO trying to recruit an engineering manager, or the perils of not believing in hierarchies.
 * [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) - There’s this idea that, if you do great work at your job, people will (or should!) automatically recognize that work and reward you for it with promotions / increased pay. In practice, it’s often more complicated than that.
 * `Since managers are not tied to a sector (in the way nurses or musicians are), the good ones tend to go where they are payed good money and the bad ones end up wreaking havoc where they are payed at least some money. That, also, is `[Baumol](https://en.wikipedia.org/wiki/Baumol%27s_cost_disease)` in action.` ([source](https://news.ycombinator.com/item?id=20448929)).
+
+
+## Compensation
+
+* [levels.fyi](https://www.levels.fyi) - Compares salary range and compensation charts across big tech companies.
 * [L8-L10 salaries at AWS](https://news.ycombinator.com/item?id=21823987).
 * `Never accept a lower salary in exchange for equity.` ([source](https://news.ycombinator.com/item?id=21868845))
 
