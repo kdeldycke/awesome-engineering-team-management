@@ -101,7 +101,7 @@ Executives are the senior/highest management layers of a company. They reports t
 
 
 * [Choose Boring Technology](http://boringtechnology.club) - `Boring in the sense that it’s well understood.`
-* [Technical Debt Is like a Tetris Game](https://www.fluentcpp.com/2020/01/17/technical-debt-is-like-a-tetris-game/) - Another way to explain technical debt: `each new fix or development is like a new block coming in, which you need to integrate with the existing code. If you hack it in a quick and dirty way, it’s like leaving holes in the Tetris structure: you’re making life more difficult down the line.`.
+* [Technical Debt Is Like Tetris](https://medium.com/s/story/technical-debt-is-like-tetris-168f64d8b700) - Another way to explain technical debt: `Scenarios like these create technical debt within the product code. A buried gap in Tetris represents technical debt. (…) Paying down technical debt keeps you competitive. It keeps you in the game.`.
 
 ### Consultants
 
