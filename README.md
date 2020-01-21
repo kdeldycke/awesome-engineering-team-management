@@ -53,9 +53,10 @@ The first step. The hardest: how to requalify oneself from an Individual Contrib
 
 ## Building Teams
 
-Either you inherit an already existing team of have to start from scratch, you'll need to practice the art of building (and consolidating) them.
+Whether you inherit an already existing team or have to start from scratch, you'll need to practice the art of building (and consolidating) them.
 
 * [Building and Motivating Engineering Teams](http://www.elidedbranches.com/2016/11/building-and-motivating-engineering.html) - What DO engineers want? Money, purpose and respect.
+* [Paper we love: Software Engineering Organizations](https://github.com/papers-we-love/papers-we-love/tree/master/software_engineering_orgs) - `The practice of software engineering, and its history is, itself, a complex study in humanity, coordination, and communication.`.
 * [Teams are like bread](https://blog.jessitron.com/2019/06/15/teams-are-like-bread/) - `If you have one team where the magic is flourishing, don't kill it. Feed it, grow it, and let it be a source of further strong teams. No rushing.`.
 * [Developer Tropes: "Google does it"](https://tomaytotomato.com/developer-tropes/) - It's [cargo-cultish](https://en.wikipedia.org/wiki/Cargo_cult) to imitate the big names in our industry as a path to success. Instead, the take home from this article `would be that managers and other leaders should be like ecologists; who measure, observe and nurture their ecosystems. Doing so will help build a unique workplace that will yield great results.`.
 
