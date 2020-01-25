@@ -1,3 +1,6 @@
+# Contributing
+
+Your contributions are always welcome! Here are some guidelines.
 
 - Try to provide an actionable TL;DR as a description, quoting the original text if you need so.
 
