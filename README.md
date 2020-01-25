@@ -28,6 +28,10 @@ It is on this substrate that I crafted my management style, as I found anchoring
 - [Objectives and Key Results (OKR)](#objectives-and-key-results-okr)
 - [Training](#training)
 - [Knowledge, Writing and Documentation](#knowledge-writing-and-documentation)
+  - [Knowledge](#knowledge)
+  - [Reading](#reading)
+  - [Documentation](#documentation)
+  - [Writing](#writing)
 - [Career](#career)
 - [Compensation](#compensation)
 - [Politics](#politics)
@@ -250,10 +254,30 @@ On mentoring, education and learning.
 
 A team, especially a software team, will generate a huge amount of knowledge. All this knowledge is fragile and about to be lost for good. Unless you materialization it in the form of writing.
 
+### Knowledge
+
+On knowledge surrounding a team.
+
 * [You’re Not Managing a Team of Software Engineers, You’re Managing a Team of Writers](https://medium.com/coaching-notes/youre-not-managing-a-team-of-software-engineers-you-re-managing-a-team-of-writers-b263d3a10cc7).
 * [What senior engineers do: fix knowledge holes](http://www.mooreds.com/wordpress/archives/3232).
-* [What nobody tells you about documentation](https://www.divio.com/blog/documentation/) - There is four kinds of documentation: tutorials, how-to guides, explanation and reference. Each with their own structure and mode of writing.
+
+### Reading
+
+Before you know how to write, you need to know how to read. 
+
 * [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) - Outlines a practical and efficient three-pass method for reading research papers.
+
+### Documentation
+
+The various forms of technical writing, their structure and their target audience.
+
+* [What nobody tells you about documentation](https://www.divio.com/blog/documentation/) - There is four kinds of documentation: tutorials, how-to guides, explanation and reference. Each with their own structure and mode of writing.
+* [Flying Circus Platform - Disaster recovery](https://flyingcircus.io/doc/reference/security/disaster-recovery.html#disaster-recovery) - Critical infrastructure which aims to be available 24/7 needs a [Disaster Recovery Plan](https://en.wikipedia.org/wiki/Disaster_recovery). It generally takes the form of a document providing an overview of the expected severe failures and a set of procedures on how the system and the team operating it is prepared to deal with. The one linked here is a great example of such document, and is strong evidence the team is prepared for the worse.
+
+### Writing
+
+General advices on how to convey meaning and clarity by nastering the style. If badly written, your documentation is likely to have poor usage and utility.
+
 * [How to Write a Technical Paper](https://pdfs.semanticscholar.org/441f/ac7c2020e1c8f0d32adffca697bbb8a198a1.pdf) - Serves as a guideline on how to write a good technical paper, in the form of a typical journal publication.
 * [Algorithm for writing a scientific manuscript](https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.20329) - A process to guide the preparation and refinement of manuscripts.
 * [The Baldwin Formula for scientific writing: writing papers and reviews](https://www.ice.mpg.de/ext/fileadmin/extranet/dept_itb/The_Baldwin_Formula_for_writing_a_scientific_paper_and_reviewing_papers.pdf) - `The most efficient way to write scientific papers is to write while you are still conducting experiments`.
@@ -262,7 +286,6 @@ A team, especially a software team, will generate a huge amount of knowledge. Al
 * [Write an Excellent Programming Blog](https://speakerdeck.com/pycon2016/a-jesse-jiryu-davis-write-an-excellent-programming-blog) - Tips on structure and style to produce great blog posts.
 * [Notes on Technical Writing](https://mkaz.blog/misc/notes-on-technical-writing/).
 * [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/) - `BLUF is a military communications acronym—it stands for “bottom line up front”—that’s designed to enforce speed and clarity in reports and emails.`
-* [Flying Circus Platform - Disaster recovery](https://flyingcircus.io/doc/reference/security/disaster-recovery.html#disaster-recovery) - Critical infrastructure which aims to be available 24/7 needs a [Disaster Recovery Plan](https://en.wikipedia.org/wiki/Disaster_recovery). It generally takes the form of a document providing an overview of the expected severe failures and a set of procedures on how the system and the team operating it is prepared to deal with. The one linked here is a great example of such document, and is strong evidence the team is prepared for the worse.
 
 
 ## Career
