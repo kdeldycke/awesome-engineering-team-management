@@ -262,6 +262,7 @@ A team, especially a software team, will generate a huge amount of knowledge. Al
 * [Write an Excellent Programming Blog](https://speakerdeck.com/pycon2016/a-jesse-jiryu-davis-write-an-excellent-programming-blog) - Tips on structure and style to produce great blog posts.
 * [Notes on Technical Writing](https://mkaz.blog/misc/notes-on-technical-writing/).
 * [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/) - `BLUF is a military communications acronym—it stands for “bottom line up front”—that’s designed to enforce speed and clarity in reports and emails.`
+* [Flying Circus Platform - Disaster recovery](https://flyingcircus.io/doc/reference/security/disaster-recovery.html#disaster-recovery) - Critical infrastructure which aims to be available 24/7 needs a [Disaster Recovery Plan](https://en.wikipedia.org/wiki/Disaster_recovery). It generally takes the form of a document providing an overview of the expected severe failures and a set of procedures on how the system and the team operating it is prepared to deal with. The one linked here is a great example of such document, and is strong evidence the team is prepared for the worse.
 
 
 ## Career
