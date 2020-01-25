@@ -145,6 +145,7 @@ Executives are the senior/highest management layers of a company. They reports t
 
 ## Cognitive Tools
 
+* [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.qb3gkdmtk) - Huge compiled list of mental models. Became the basis of book.
 * [Hanlon's_razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): `Never attribute to malice that which is adequately explained by stupidity.` - My favorite flavor of [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor), critical in defusing paranoia in a highly political setting.
 * [Regression toward the mean](https://en.wikipedia.org/wiki/Regression_toward_the_mean) - Or why after a period of intense euphoria and ambition, things slowly get back to their usual mediocrity.
 * [Locus of control](https://en.wikipedia.org/wiki/Locus_of_control) - A framework on `the degree to which people believe that they have control over the outcome of events in their lives, as opposed to external forces beyond their control.`
