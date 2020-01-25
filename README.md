@@ -27,7 +27,7 @@ It is on this substrate that I crafted my management style, as I found anchoring
 - [Key Performance Indicator (KPI)](#key-performance-indicator-kpi)
 - [Objectives and Key Results (OKR)](#objectives-and-key-results-okr)
 - [Training](#training)
-- [Knowledge, Writing and Documentation](#knowledge-writing-and-documentation)
+- [Literacy](#literacy)
   - [Knowledge](#knowledge)
   - [Reading](#reading)
   - [Documentation](#documentation)
@@ -250,9 +250,11 @@ On mentoring, education and learning.
 * [Developer Roadmaps](https://roadmap.sh/roadmaps) - Very high-level guides and paths to learn different practice and tools.
 
 
-## Knowledge, Writing and Documentation
+## Literacy
 
-A team, especially a software team, will generate a huge amount of knowledge. All this knowledge is fragile and about to be lost for good. Unless you materialization it in the form of writing.
+It is not only about reading and writing. It encompass all the social practice, context sharing and communication surrounding the activity and production of a team.  
+
+Especially a software team, wich will generate a huge amount of knowledge. All this knowledge is fragile and about to be lost for good. Unless you materialization it in the form of writing.
 
 ### Knowledge
 
@@ -269,7 +271,7 @@ Before you know how to write, you need to know how to read.
 
 ### Documentation
 
-The various forms of technical writing, their structure and their target audience.
+The various forms of technical writing, their structure and target audience.
 
 * [What nobody tells you about documentation](https://www.divio.com/blog/documentation/) - There is four kinds of documentation: tutorials, how-to guides, explanation and reference. Each with their own structure and mode of writing.
 * [Flying Circus Platform - Disaster recovery](https://flyingcircus.io/doc/reference/security/disaster-recovery.html#disaster-recovery) - Critical infrastructure which aims to be available 24/7 needs a [Disaster Recovery Plan](https://en.wikipedia.org/wiki/Disaster_recovery). It generally takes the form of a document providing an overview of the expected severe failures and a set of procedures on how the system and the team operating it is prepared to deal with. The one linked here is a great example of such document, and is strong evidence the team is prepared for the worse.
