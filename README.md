@@ -357,11 +357,12 @@ Here we are, at the intersection of power and influence lies the political game.
 
 ## Setbacks and Failures
 
-* `What does not kill me makes me stronger` - Friedrich Nietzsche.
+* `What does not kill me makes me stronger`, Friedrich Nietzsche - Brutal, but with a grain of truth.
 * [Early-career setback and future career impact](https://www.nature.com/articles/s41467-019-12189-3) - `Despite an early setback, individuals with near misses systematically outperform those with narrow wins in the longer run.`
+* [How Complex Systems Fail](https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) - `Short treatise on the nature of failure; how failure is evaluated; how failure is attributed to proximate cause; and the resulting new understanding of patient safety`.
+* [Normalization of deviance](https://danluu.com/wat/) - Explore how the factors accounting for disasters accumulates unnoticed until it's too late. This has been studied on other fields, but not in software engineering.
 * [Steve Jobs explains - Why companies fail?](https://www.youtube.com/watch?v=fuZ6ypueK8M) - On how sales and marketing takes over product focused companies.
 * [The failure of Scaling Etsy](https://twitter.com/mcfunley/status/1194713711337852928) - When a company lacks technical leadership: developers waste time in costly refactors, over-engineered systems, and ends up detached from the business and product.
-* [How Complex Systems Fail](https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) - `Short treatise on the nature of failure; how failure is evaluated; how failure is attributed to proximate cause; and the resulting new understanding of patient safety`.
 
 
 ## Exits
@@ -369,6 +370,7 @@ Here we are, at the intersection of power and influence lies the political game.
 * [Why I Rejected My Manager](https://medium.com/personal-growth/why-i-rejected-my-manager-b2273e354462) - ` I understand now why the saying is: people leave managers, not companies.`
 * [Colleague is leaving. How to investigate what went wrong?](https://news.ycombinator.com/item?id=20786755) - `Most of the time people leave bosses, not the job or the company.` And why you're unlikely to get any substantial insights from exit interviews. ([source](https://news.ycombinator.com/item?id=20787874))
 * `“People do get pissed off in clusters” is the best description of a team/company meltdown that I’ve ever seen.` ([source](https://news.ycombinator.com/item?id=19755001))
+* `Something I've seen multiple times is that, when a VP leaves, a company will become a substantially worse place to work, and it will slowly dawn on people that the VP was doing an amazing job at supporting not only their direct reports, but making sure that everyone under them was having a good time.` ([source](https://danluu.com/wat/#fn:P))
 * `Next time your favorite manager and tech lead quit the company, ask them why.` ([source](https://news.ycombinator.com/item?id=21767843)).
 * [The Elves Leave Middle Earth – Sodas Are No Longer Free](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-–-soda’s-are-no-longer-free/) - Company stopped providing free soda. The engineers were very upset, but it was just soda and they could afford it. But really it wasn't soda. Soda was the canary in the coal mine, triggering an exodus of its best engineers.
 * [How to discipline overeager engineer](https://workplace.stackexchange.com/questions/145709/how-to-discipline-overeager-engineer) - Over-achieving talent is looking for a management promotion. Management does not recognize effort. Engineer become disgruntled and management is looking to discipline him. A case-study of a bad situation in which both side shows clumsyness.
