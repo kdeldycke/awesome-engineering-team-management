@@ -321,6 +321,7 @@ It's not only about the salary, but the whole package: equity, bonus, perks, and
 * `Never accept a lower salary in exchange for equity.` ([source](https://news.ycombinator.com/item?id=21868845))
 * [Incentive Pay Considered Harmful](https://www.joelonsoftware.com/2000/04/03/incentive-pay-considered-harmful/) - `Incentives (or bribes) simply can’t work in the workplace`. `Most software managers have no choice but to go along with performance review systems that are already in place. If you’re in this position, the only way to prevent teamicide is to simply give everyone on your team a gushing review`.
 * `If anything in your performance review is a surprise, then I have failed as a manager.` ([source](https://news.ycombinator.com/item?id=17249767)).
+* `The system a software developer works in shapes their performance so much more than individual differences.` ([source](https://news.ycombinator.com/item?id=21972033)).
 * [Performance review generator](https://mschmitt.org/performance/) - Tired of writing reviews? Automate it!
 
 
