@@ -314,6 +314,8 @@ Now that you've proven your worth as a front-line manager, what's the next step?
 
 ## Compensation
 
+It's not only about the salary, but the whole package: equity, bonus, perks, and the tractations around all of these. As a manager, writing reviews and performance evaluations are the tool of the trade for your team members to get a raise.
+
 * [levels.fyi](https://www.levels.fyi) - Compares salary range and compensation charts across big tech companies.
 * [L8-L10 salaries at AWS](https://news.ycombinator.com/item?id=21823987).
 * `Never accept a lower salary in exchange for equity.` ([source](https://news.ycombinator.com/item?id=21868845))
