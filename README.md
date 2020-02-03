@@ -241,12 +241,12 @@ KPIs are a set of quantitative measurements at the team or organizational level,
 
 ## Objectives and Key Results (OKR)
 
-OKRs are a framework. Extending KPIs, they applies individually to each members of an organization, down to the IC level. Everyone is supposed to have its own set of OKRs.
+OKRs are a framework. Extending KPIs, they applies individually to each members of an organization, down to the IC level. In theory, everyone is supposed to have its own set of OKRs.
 
 * [OKRs from a development team’s perspective](https://zafulabs.com/2019/05/24/okrs-from-a-development-teams-perspective/) - On how OKRs articulates with a backlog.
-* `One way in which I've seen OKRs used effectively is as a defense against the type of middle or upper manager who is constantly coming up with new ideas or tasks.` ([source](https://news.ycombinator.com/item?id=19550614))
+* `One way in which I've seen OKRs used effectively is as a defense against the type of middle or upper manager who is constantly coming up with new ideas or tasks.` ([source](https://news.ycombinator.com/item?id=19550614)) - Or how OKRs can be weaponized to prevent top managers to mess with the (already established) schedule.
 * [Why individual OKRs don’t work for us](https://hrblog.spotify.com/2016/08/15/our-beliefs/) - Spotify decision to stop using OKRs for individuals.
-* [Google's usage of OKRs](https://news.ycombinator.com/item?id=17492038) - OKR grades are public, but not use for promotion. It was never taken very seriously.
+* [Google's usage of OKRs](https://news.ycombinator.com/item?id=17492038) - OKR grades are public, but not used for promotion. It was never taken very seriously there.
 
 
 ## Training
