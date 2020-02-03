@@ -317,6 +317,7 @@ Now that you've proven your worth as a front-line manager, what's the next step?
 * [levels.fyi](https://www.levels.fyi) - Compares salary range and compensation charts across big tech companies.
 * [L8-L10 salaries at AWS](https://news.ycombinator.com/item?id=21823987).
 * `Never accept a lower salary in exchange for equity.` ([source](https://news.ycombinator.com/item?id=21868845))
+* [Incentive Pay Considered Harmful](https://www.joelonsoftware.com/2000/04/03/incentive-pay-considered-harmful/) - `Incentives (or bribes) simply can’t work in the workplace`. `Most software managers have no choice but to go along with performance review systems that are already in place. If you’re in this position, the only way to prevent teamicide is to simply give everyone on your team a gushing review`.
 
 
 ## Politics
