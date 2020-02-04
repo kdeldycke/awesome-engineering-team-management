@@ -165,7 +165,6 @@ Executives are the senior/highest management layers of a company. They reports t
 On the day-to-day dynamics of the team, and its interaction with other teams.
 
 * [How to Celebrate the Small Wins](https://medium.dave-bailey.com/how-to-celebrate-the-small-wins-4a03004a1816)
-* [Coaching questions for one-to-ones](https://mobile.twitter.com/ctford/status/1163129999882444800).
 * [Team Leader Venn Diagram](https://larahogan.me/blog/team-leader-venn-diagram/) - `A tool for gaining a shared understanding of responsibilities`.
 * [A conversation with Elon Musk about Starship](https://youtu.be/cIQ36Kt7UVg?t=203) - In a team with very talented contributors, everyone's is a chief engineer: you are expected to challenge the status-quo and questions other department's constraints. This allow smart engineers to avoid the trap of optimizing for something that should not exist in the first place.
 * [Symptoms of Groupthink](https://courses.washington.edu/psii101/Powerpoints/Symptoms%20of%20Groupthink.htm) - Overconfidence, tunnel vision and conformity pressure can led a group astray.
@@ -183,6 +182,9 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 
 ## Meetings
 
+The most important meetings you'll have are frequent 1:1s with your direct reports.
+
+* [Coaching questions for one-to-ones](https://mobile.twitter.com/ctford/status/1163129999882444800).
 * [How to have great meetings, according to 200 scientific studies](https://qz.com/work/1713662/how-to-have-great-meetings-according-to-200-scientific-studies/) - A roadmap for getting meetings right.
 
 
