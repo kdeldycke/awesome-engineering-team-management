@@ -266,7 +266,7 @@ Especially a software team, which will generate a huge amount of knowledge. All 
 
 On knowledge surrounding a team.
 
-* [You’re Not Managing a Team of Software Engineers, You’re Managing a Team of Writers](https://medium.com/coaching-notes/youre-not-managing-a-team-of-software-engineers-you-re-managing-a-team-of-writers-b263d3a10cc7).
+* [You’re Not Managing a Team of Software Engineers, You’re Managing a Team of Writers](https://medium.com/coaching-notes/youre-not-managing-a-team-of-software-engineers-you-re-managing-a-team-of-writers-b263d3a10cc7) - Because writing software is `a creative process which is by its nature unpredictable and personal, in an environment which craves certainty, predictability and consistency.`.
 * [What senior engineers do: fix knowledge holes](http://www.mooreds.com/wordpress/archives/3232).
 
 ### Reading
