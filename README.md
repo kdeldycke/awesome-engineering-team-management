@@ -102,7 +102,7 @@ Executives are the senior/highest management layers of a company. They reports t
 * [5 Things I’ve Learned in 20 Years of Programming](https://daedtech.com/5-things-ive-learned-in-20-years-of-programming/) - `A programmer with 5 years of experienced has more industry tenure than half of the entire industry.`. Also see this follow-up comment of [10 things I've learned after 35 years](https://news.ycombinator.com/item?id=21612990).
 * [Devs I really enjoy pairing with](https://twitter.com/ScribblingOn/status/1002598672444448768).
 * [All the best engineering advice I stole from non-technical people](https://medium.com/@bellmar/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f) - `It’s intriguing that the stuff that really seems to make a difference in the quality of software never seems to be about software.`
-* [What Makes A Great Software Engineer?](https://faculty.washington.edu/ajko/papers/Li2015GreatEngineers.pdf) - This papaer doesn't present any clear answe, but a model based on 53 attributes (!). Still a good source referencing other papers on the topic.
+* [What Makes A Great Software Engineer?](https://faculty.washington.edu/ajko/papers/Li2015GreatEngineers.pdf) - Doesn't conclude on a definitive answer to the question, but details a model based on 53 attributes (!). Still a good source referencing other papers on the topic.
 * [Google Engineering Practices Documentation](https://google.github.io/eng-practices/) - Best take away:
 
 
