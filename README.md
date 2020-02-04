@@ -267,6 +267,7 @@ Especially a software team, which will generate a huge amount of knowledge. All 
 On knowledge surrounding a team.
 
 * [What senior engineers do: fix knowledge holes](http://www.mooreds.com/wordpress/archives/3232) - `This is the textbook definition of a senior engineer. You see a problem, you solve it (thoroughly), you document it and you level up your team.`.
+* [Chesterton's fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence) - `If you're considering nominating something for deletion, or changing a policy, because it doesn't appear to have any use or purpose, research its history first.`. It's not we'd like to play conservative here, but because we need to fix the knowledge hole as described above.
 * [You’re Not Managing a Team of Software Engineers, You’re Managing a Team of Writers](https://medium.com/coaching-notes/youre-not-managing-a-team-of-software-engineers-you-re-managing-a-team-of-writers-b263d3a10cc7) - Because writing software is `a creative process which is by its nature unpredictable and personal, in an environment which craves certainty, predictability and consistency.`.
 
 ### Reading
