@@ -103,10 +103,6 @@ Executives are the senior/highest management layers of a company. They reports t
 * [Devs I really enjoy pairing with](https://twitter.com/ScribblingOn/status/1002598672444448768).
 * [All the best engineering advice I stole from non-technical people](https://medium.com/@bellmar/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f) - `It’s intriguing that the stuff that really seems to make a difference in the quality of software never seems to be about software.`
 * [What Makes A Great Software Engineer?](https://faculty.washington.edu/ajko/papers/Li2015GreatEngineers.pdf) - Doesn't conclude on a definitive answer to the question, but details a model based on 53 attributes (!). Still a good source referencing other papers on the topic.
-* [Google Engineering Practices Documentation](https://google.github.io/eng-practices/) - Best take away:
-
-
-
 * [Choose Boring Technology](http://boringtechnology.club) - `Boring in the sense that it’s well understood.`
 * [Technical Debt Is Like Tetris](https://medium.com/s/story/technical-debt-is-like-tetris-168f64d8b700) - Another way to explain technical debt: `Scenarios like these create technical debt within the product code. A buried gap in Tetris represents technical debt. (…) Paying down technical debt keeps you competitive. It keeps you in the game.`.
 
