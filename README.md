@@ -173,6 +173,7 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 * [It's Not Sabotage, They're Drowning](https://shermanonsoftware.com/2019/11/15/its-not-sabotage-theyre-drowning/) - Some kind of push backs shouldn't be interpreted as intentional sabotage, but as drowning people sinking the lifeboat in an attempt to save themselves.
 * `Community already exists, you just create a communication platform for it` ([source](https://news.ycombinator.com/item?id=21828666)) - Or why trying to create a community from the ground up might not be the right way of looking at things: a better and more subtle strategy would be to enhance the already existing channels.
 * `Why Should Code Reviews Be Fast? (..) [To] optimize for the speed at which a team of developers can produce a product together, as opposed to optimizing for the speed at which an individual developer can write code.` ([source](https://github.com/google/eng-practices/blob/master/review/reviewer/speed.md#why-should-code-reviews-be-fast-why)), from [Google Engineering Practices](https://google.github.io/eng-practices/).
+* [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/) - `My boss invited me for a one-on-one chat where they politely asked me to revert my change. I was aghast. The old code was a mess, and mine was clean! (...) I see now that my “refactoring” was a disaster in two ways: I didn’t talk to the person who wrote it; My code traded the ability to change requirements for reduced duplication`.
 
 
 ## Remote Work
