@@ -196,7 +196,7 @@ The most important meetings you'll have are frequent 1:1s with your direct repor
 In a team, the Product Manager is supposed to be the "voice of the market".
 
 * `You're the broker for a lot of unstructured information and have to fend off all kinds of disruptive influences to land even close to where you're trying to go.` ([source](https://news.ycombinator.com/item?id=19050555))
-* [Awesome Product Management](https://github.com/dend/awesome-product-management)
+* [Awesome Product Management](https://github.com/dend/awesome-product-management) - A reference. All the missing pieces are found below.
 * [What Everybody Ought To Know About The Product Manager Case Interview](http://www.venturegrit.com/what-everybody-ought-to-know-about-the-product-manager-case-interview/)
 * [What are frequently asked questions in product manager interviews?](https://www.quora.com/What-are-frequently-asked-questions-in-product-manager-interviews)
 * [A curated list of product management advice for technical people](https://github.com/tron1991/open-product-management)
@@ -208,6 +208,7 @@ In a team, the Product Manager is supposed to be the "voice of the market".
 * [`Why does the tire company rate restaurants`](https://mobile.twitter.com/trevmckendrick/status/1218748974321954816) - A great example on why you should investigate complementary businesses.
 *  Windows Vista as a prime example of a [sacrificial lamb product](https://twitter.com/SwiftOnSecurity/status/851861076429991937): a massive unpopular re-architecture required to pave the way for future innovative release. That's the cautionary tale of why you should be ready for intense criticism and adversity, if by chance or fate your wander down the path of monumental changes in a business software.
 * Talking about Vista, Microsoft found out following its unsuccessful launch that [the #1 bug predictor is not technical, it's organizational complexity](https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/).
+* [Osborne effect](https://en.wikipedia.org/wiki/Osborne_effect) - `A social phenomenon of customers canceling or deferring orders for the current soon-to-be-obsolete product as an unexpected drawback of a company's announcing a future product prematurely.` This is the price to pay for hasty marketing actions.  
 * [How to exit vim, the Product Manager way](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
 
 
