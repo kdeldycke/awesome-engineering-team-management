@@ -292,6 +292,7 @@ The various forms of technical writing, their structure and target audience.
 General advices on how to convey meaning and clarity by mastering the style. If badly written, your documentation is likely to have poor usage and utility.
 
 * [How to Write a Technical Paper](https://pdfs.semanticscholar.org/441f/ac7c2020e1c8f0d32adffca697bbb8a198a1.pdf) - Serves as a guideline on how to write a good technical paper, in the form of a typical journal publication.
+* [Learning Technical Writing Using the Engineering Method](https://www.cs.tufts.edu/~nr/pubs/learn.pdf) - An alternative approach, involving a weekly meeting of a writing group. An interesting dynamic to gather feedback and experience.
 * [Algorithm for writing a scientific manuscript](https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.20329) - A process to guide the preparation and refinement of manuscripts.
 * [The Baldwin Formula for scientific writing: writing papers and reviews](https://www.ice.mpg.de/ext/fileadmin/extranet/dept_itb/The_Baldwin_Formula_for_writing_a_scientific_paper_and_reviewing_papers.pdf) - `The most efficient way to write scientific papers is to write while you are still conducting experiments`.
 * [Ten simple rules for structuring papers](https://www.biorxiv.org/content/10.1101/088278v5.full) - `Focusing on how readers consume information, we present a set of 10 simple rules to help you get across the main idea of your paper.`
