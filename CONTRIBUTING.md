@@ -12,6 +12,6 @@ list provides a progression to help with the transition to management.
   1. At first we'll find content appealing to software developers or new managers. We're reaching for accessibility and targets the wider audience and provide a gentle introduction.
   1. Then we can have a couple of real use-cases or anecdotes, which makes the topic more practical.
   1. Third we might add a couple of reference material to generalize concepts, or provide generic solution or broader thinking frameworks.
-  1. At the end we'll add the most cynical or bleak content, because hey, we can't help it, at what point things might get ugly in toxic environments. And these content might still have utility as cautionary tales or counter-examples.
+  1. At the end we'll add the most cynical or bleak content, because hey, we can't help it: [on a long enough time line, the survival rate for everyone drops to zero](https://www.goodreads.com/quotes/26639-on-a-long-enough-time-line-the-survival-rate-for). And these content might still have some utility as cautionary tales or signals that things might start to go south.
 
 - This repository is still in its accumulation phase. Meaning we will not over-think adding stuff to it. The curation phase and fine-tuning can happens in a second time.
