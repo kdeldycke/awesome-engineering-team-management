@@ -21,6 +21,7 @@ It is on this substrate that I crafted my management style, as I found anchoring
 - [Team Dynamics](#team-dynamics)
 - [Remote Work](#remote-work)
 - [Meetings](#meetings)
+- [Facilities](#facilities)
 - [Product Management](#product-management)
 - [Project Management](#project-management)
 - [Agile](#agile)
@@ -189,6 +190,14 @@ The most important meetings you'll have are frequent 1:1s with your direct repor
 
 * [Coaching questions for one-to-ones](https://mobile.twitter.com/ctford/status/1163129999882444800).
 * [How to have great meetings, according to 200 scientific studies](https://qz.com/work/1713662/how-to-have-great-meetings-according-to-200-scientific-studies/) - A roadmap for getting meetings right.
+
+
+## Facilities
+
+The environment we work in shapes us. Perks too.
+
+* [The impact of the ‘open’ workspace on human collaboration](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2017.0239) - TL;DR: open-plan offices decrease face-to-face collaboration.
+* [The Elves Leave Middle Earth – Sodas Are No Longer Free](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-–-soda’s-are-no-longer-free/) - Company stopped providing free soda. The engineers were very upset, but it was just soda and they could afford it. But really it wasn't soda. Soda was the canary in the coal mine, triggering an exodus of its best engineers.
 
 
 ## Product Management
@@ -392,5 +401,4 @@ Here we are, at the intersection of power and influence lies the political game.
 * `“People do get pissed off in clusters” is the best description of a team/company meltdown that I’ve ever seen.` ([source](https://news.ycombinator.com/item?id=19755001))
 * `Something I've seen multiple times is that, when a VP leaves, a company will become a substantially worse place to work, and it will slowly dawn on people that the VP was doing an amazing job at supporting not only their direct reports, but making sure that everyone under them was having a good time.` ([source](https://danluu.com/wat/#fn:P))
 * `Next time your favorite manager and tech lead quit the company, ask them why.` ([source](https://news.ycombinator.com/item?id=21767843)).
-* [The Elves Leave Middle Earth – Sodas Are No Longer Free](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-–-soda’s-are-no-longer-free/) - Company stopped providing free soda. The engineers were very upset, but it was just soda and they could afford it. But really it wasn't soda. Soda was the canary in the coal mine, triggering an exodus of its best engineers.
 * [How to discipline overeager engineer](https://workplace.stackexchange.com/questions/145709/how-to-discipline-overeager-engineer) - Over-achieving talent is looking for a management promotion. Management does not recognize effort. Engineer become disgruntled and management is looking to discipline him. A case-study of a bad situation in which both side shows clumsiness.
