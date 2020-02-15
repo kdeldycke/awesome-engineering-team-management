@@ -309,6 +309,7 @@ General advices on how to convey meaning and clarity by mastering the style. If 
 - [Ten simple rules for structuring papers](https://www.biorxiv.org/content/10.1101/088278v5.full) - `Focusing on how readers consume information, we present a set of 10 simple rules to help you get across the main idea of your paper.`.
 - [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html) - Another set of tips, specifically using the example of a technical paper describing a improvment of an algorithm.
 - [Write an Excellent Programming Blog](https://speakerdeck.com/pycon2016/a-jesse-jiryu-davis-write-an-excellent-programming-blog) - Tips on structure and style to produce great blog posts.
+- [Ten simple rules for getting started on Twitter as a scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007513) - Twitter `can be used in a much more active, collaborative way: to ask for advice, to form new bonds and scientific collaborations, to announce jobs and find employees, to find new mentors and jobs.`.
 - [Notes on Technical Writing](https://mkaz.blog/misc/notes-on-technical-writing/).
 - [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/) - `BLUF is a military communications acronym—it stands for “bottom line up front”—that's designed to enforce speed and clarity in reports and emails.`.
 - [BlaBlaMeter - Bullshit detection tool](http://www.blablameter.com/) - Produce a normalized metric of the bullshit content of a text.
