@@ -1,6 +1,6 @@
 # 👔 Awesome Engineering Team Management
 
-A compilation of advices, anecdotes, knowledge tidbits, discussions, industry small-talks and rants. A bibliography of sort, gathered the last few years while transitioning my career from a software engineer to an engineer's manager. And later from a manager to a manager's managers (you all love recursion right? ʘ‿ʘ).
+A compilation of advices, anecdotes, knowledge tidbits, discussions, industry small-talks and rants. A bibliography of sort, gathered the last few years while [transitioning my career from a software engineer to an engineer's manager](https://devtomanager.com/interviews/kevin-deldycke/). And later from a manager to a manager's managers (you all love recursion right? ʘ‿ʘ).
 
 It is on this substrate that I crafted my management style, as I found anchoring the later with [the usual labels](https://en.wikipedia.org/wiki/Management_style#Types_of_management_styles) is way too limiting and short-sighted. Limiting as management is both of an art and a science. And short-sighted as a style shouldn't be taken at face-value and always be sensible to our fellow humans talents and the business context of the company.
 
