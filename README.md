@@ -96,6 +96,7 @@ Executives are the senior/highest management layers of a company. They reports t
 
 ### Engineers
 
+- [Programmer Moneyball: Challenging the Myth of Individual Programmer Productivity](https://insights.sei.cmu.edu/sei_blog/2020/01/programmer-moneyball-challenging-the-myth-of-individual-programmer-productivity.html) - `Since software project managers have limited ability to evaluate individual developer capability, they should rely on a productive environment and developing talent.`.
 - [7 absolute truths I unlearned as junior developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/) - TL;DR: `1. I'm a senior developer; 2. Everyone writes tests; 3. We're so far behind everyone else (a.k.a. tech FOMO); 4. Code quality matters most; 5. Everything must be documented; 6. Technical debt is bad; 7. Seniority means being the best at programming`.
 - [On Being A Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) - `I expect a “senior” engineer to be a *mature* engineer.`.
 - [Things I Learnt from a Senior Software Engineer](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html) - `I sat next to a senior software engineer for a year. Here's what I learnt.`.
