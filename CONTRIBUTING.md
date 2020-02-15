@@ -15,4 +15,12 @@ general to specifics.
   1. Third we might add a couple of reference material to generalize concepts, or provide generic solution or broader thinking frameworks.
   1. At the end we'll add the most cynical or bleak content, because hey, we can't help it: [on a long enough time line, the survival rate for everyone drops to zero](https://www.goodreads.com/quotes/26639-on-a-long-enough-time-line-the-survival-rate-for). And these content might still have some utility as cautionary tales or signals that things might start to go south.
 
+- A couple of CLI to fix-up some common formatting mistakes:
+
+  - ``sed -i 's/^* /- /g' ./README.md``: replaces star list item markers by
+      dashes.
+  - ``sed -i "s/‘/\'/g" ./README.md`` and ``sed -i "s/’/\'/g" ./README.md``:
+      replaces typographic quotes with simple ones.
+  - ``sed -i 's/`$/`\./g' ./README.md``: forces quotes to end with a dot.
+
 - This repository is still in its accumulation phase. Meaning we will not over-think adding stuff to it. The curation phase and fine-tuning can happens in a second time.
