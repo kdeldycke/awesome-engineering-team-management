@@ -5,7 +5,8 @@ Your contributions are always welcome! Here are some guidelines.
 - Try to provide an actionable TL;DR as a description, quoting the original text if you need so.
 
 - First level sections are voluntarily not in the alphabetical order: this
-list provides a progression to help with the transition to management.
+list provides a progression to help with the transition to management. From
+general to specifics.
 
 - The rough order is like so:
 
