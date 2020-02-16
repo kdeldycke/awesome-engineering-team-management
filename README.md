@@ -189,7 +189,7 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 
 The most important meetings you'll have are frequent 1:1s with your direct reports.
 
-- [1 on 1 Meeting Questions](https://github.com/VGraupera/1on1-questions) - A mega list of questions. Use them as starters for great conversation.
+- [1 on 1 Meeting Questions](https://github.com/VGraupera/1on1-questions) - A mega list in which most of them are great starters for conversation, some others are clearly bad ideas. A great source of inspiration nonetheless, but choose carefully.
 - [Coaching questions for one-to-ones](https://mobile.twitter.com/ctford/status/1163129999882444800).
 - [How to have great meetings, according to 200 scientific studies](https://qz.com/work/1713662/how-to-have-great-meetings-according-to-200-scientific-studies/) - A roadmap for getting meetings right.
 
