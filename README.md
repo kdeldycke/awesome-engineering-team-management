@@ -124,6 +124,7 @@ Executives are the senior/highest management layers of a company. They reports t
 - [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html) - `When it comes to writing code, the number one most important skill is how to keep a tangle of features from collapsing under the weight of its own complexity.`.
 - [Secret manager trick of hiring data scientists](https://twitter.com/kdeldycke/status/1008383946831417344)
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
+- [Job Interviewing Guide](https://www.homerun.co/artofwork/guides/job-interviewing) - A detailed description of a hiring process.
 
 
 ## Motivation
