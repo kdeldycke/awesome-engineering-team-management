@@ -330,6 +330,7 @@ Once you have the right structure and content thanks to advices above, you can n
 - [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/) - `BLUF is a military communications acronym—it stands for “bottom line up front”—that's designed to enforce speed and clarity in reports and emails.`.
 - [LanguageTool](https://languagetool.org) - Proofreading for grammar, style and spell checking.
 - [English Lint](https://github.com/killercup/english-lint) - A Rust CLI to detect weasel words, passive voice and lexical illusions.
+- [`proselint`](https://github.com/amperser/proselint/) - Places the world’s greatest writers and editors by your side, where they whisper suggestions on how to improve your prose.
 - [alex](https://github.com/get-alex/alex) - Whether your own or someone else’s writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
 - [BlaBlaMeter - Bullshit detection tool](http://www.blablameter.com/) - Produce a normalized metric of the bullshit content of a text.
 - [Marketing BS Detector](http://marketingbs.whiterhino.com) - Same as above, but with some tips given.
