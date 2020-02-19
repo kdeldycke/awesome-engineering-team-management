@@ -328,6 +328,7 @@ General advices on how to convey meaning and clarity by mastering the style. If 
 Once you have the right structure and content thanks to advices above, you can now copy-edit and fine tune your style with the tools below.
 
 - [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/) - `BLUF is a military communications acronym—it stands for “bottom line up front”—that's designed to enforce speed and clarity in reports and emails.`.
+- [LanguageTool](https://languagetool.org) - Proofreading for grammar, style and spell checking.
 - [alex](https://github.com/get-alex/alex) - Whether your own or someone else’s writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
 - [BlaBlaMeter - Bullshit detection tool](http://www.blablameter.com/) - Produce a normalized metric of the bullshit content of a text.
 - [Marketing BS Detector](http://marketingbs.whiterhino.com) - Same as above, but with some tips given.
