@@ -332,6 +332,7 @@ Once you have the right structure and content thanks to advices above, you can n
 - [alex](https://github.com/get-alex/alex) - Whether your own or someone else’s writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
 - [BlaBlaMeter - Bullshit detection tool](http://www.blablameter.com/) - Produce a normalized metric of the bullshit content of a text.
 - [Marketing BS Detector](http://marketingbs.whiterhino.com) - Same as above, but with some tips given.
+- [3 shell scripts to improve your writing](http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/) - Simple heuristics to detect weasel words, passive voice and lexical illusions.
 - [The Punctuation Guide](https://www.thepunctuationguide.com) - Simple reference on how (and why) to use these special characters.
 
 
