@@ -50,7 +50,7 @@ It is on this substrate that I crafted my management style, as I found anchoring
 - [Compensation](#compensation)
   - [Salary](#salary)
   - [Equity](#equity)
-  - [Performance Incentives](#performance-incentives)
+  - [Performance Reviews](#performance-reviews)
 - [Politics](#politics)
 - [Re-organizations](#re-organizations)
 - [Stress & Burnout](#stress--burnout)
@@ -424,7 +424,7 @@ Now that you've proven your worth as a front-line manager, what's the next step?
 
 ## Compensation
 
-It's not only about the salary, but the whole package: equity, bonus, perks, and the tractations around all of these. As a manager, writing reviews and performance evaluations are the tool of the trade for your team members to get a raise.
+It's not only about the salary, but the whole package: equity, bonuses, perks, and the tractations around all of these. As a manager, writing reviews and performance evaluations are the tool of the trade for your team members to get a raise.
 
 ### Salary
 
@@ -437,7 +437,7 @@ It's not only about the salary, but the whole package: equity, bonus, perks, and
 - [On VC funding and huge growth](https://news.ycombinator.com/item?id=17448035) - `Startups need an exit strategy. (...) The idea is to raise money fast, hire experienced people for ancillary services and develop the application in a way so that it is able to hold up till IPO. Defer all costs for post IPO.`. TL;DR: the only reason to join a startup is for future money windfall.
 - [Equity Compensation](https://www.holloway.com/g/equity-compensation) - Stock options, RSUs, job offers, and taxes—a detailed reference, including hundreds of resources, explained from the ground up and made to be improved over time.
 
-### Performance Incentives
+### Performance Reviews
 
 - [Incentive Pay Considered Harmful](https://www.joelonsoftware.com/2000/04/03/incentive-pay-considered-harmful/) - `Incentives (or bribes) simply can't work in the workplace`. `Most software managers have no choice but to go along with performance review systems that are already in place. If you're in this position, the only way to prevent teamicide is to simply give everyone on your team a gushing review`.
 - `If anything in your performance review is a surprise, then I have failed as a manager.` ([source](https://news.ycombinator.com/item?id=17249767)).
