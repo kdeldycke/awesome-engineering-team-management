@@ -34,6 +34,8 @@ It is on this substrate that I crafted my management style, as I found anchoring
   - [User-Centered Design](#user-centered-design)
   - [Product Strategy](#product-strategy)
 - [Project Management](#project-management)
+  - [Specifications](#specifications)
+  - [Estimations](#estimations)
 - [Agile](#agile)
 - [Key Performance Indicator (KPI)](#key-performance-indicator-kpi)
 - [Objectives and Key Results (OKR)](#objectives-and-key-results-okr)
@@ -291,15 +293,25 @@ Where your product lies in the value chain and how to position it in the market.
 
 ## Project Management
 
+If product management is about *what* is to be developed of the product, then project management activities answers on *how* to deliver that development. It is all about the execution, with a particular attention to delivery critical path and planning.
+
+But don't worry too much, every company has its own definition of the two roles, and sometimes hybrid positions.
+
 - [Let's have no managers, instead of managers with no engineering experience](https://medium.com/hackernoon/lets-have-no-managers-instead-of-managers-with-no-engineering-experience-e8b7cd29d398) - The title is misleading, article's argument is: we don't need *project* managers if we already have *product* managers and scrum masters.
 - [Best project management practices in 2018?](https://news.ycombinator.com/item?id=16377523) - TL;DR: there is no silver bullet.
 - [Strategies for long Projects](http://benbrostoff.github.io/2019/09/28/long-projects.html) - TL;DR: Relentless, irrational optimism; Daily progress documentation; Compounding investments; Time budgeting.
+- [GitHub labels for reuse across projects](https://twitter.com/abdonrd/status/991697736230633474) - Simple yet practical.
+
+### Specifications
+
 - `Walking on water and developing software from a specification are easy if both are frozen.` Edward V. Berard - [Essays on object-oriented software engineering](https://amzn.com/0132888955/?tag=kevideld-20).
 - [The art of destroying software](https://vimeo.com/108441214) - Greg Young described a good way to deal with requirements volatility: optimize from the beginning to be able to delete your code, and structure your code so that any part of it is no bigger than 1 week's worth of coding. So that any part can be re-written in 1 week.
+
+### Estimations
+
 - [Dear Startup: You have no idea how much that costs.](http://kyleprifogle.com/dear-startup/) - `We are completely clueless about how long things should take.`. Here is a [trick to handle expectation of unreasonable estimates](https://news.ycombinator.com/item?id=21069178).
 - [Escalation of commitment](https://en.wikipedia.org/wiki/Escalation_of_commitment) - A.k.a. sunk-cost fallacy, or the rational explanation of why the hell do we still irrationally keep investing in a bad project.
 - [Apple Aperture: Senior QA](https://techreflect.net/2019/12/10/aperture-senior-qa-2004-2005/) - Author share his experience at Apple working on quality assurance, in which we learn how not to manage projects approaching deadlines: `cutting finished features, yelling at people, and working people to the point of nervous breakdowns. Then they came upon a brilliant idea: let's steal over a hundred engineers from other teams and then the project will magically get done on time.`.
-- [GitHub labels for reuse across projects](https://twitter.com/abdonrd/status/991697736230633474) - Simple yet practical.
 
 
 ## Agile
