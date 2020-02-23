@@ -37,6 +37,9 @@ It is on this substrate that I crafted my management style, as I found anchoring
   - [Style](#style)
 - [Career](#career)
 - [Compensation](#compensation)
+  - [Salary](#salary)
+  - [Equity](#equity)
+  - [Performance Incentives](#performance-incentives)
 - [Politics](#politics)
 - [Re-organizations](#re-organizations)
 - [Stress & Burnout](#stress--burnout)
@@ -361,10 +364,18 @@ Now that you've proven your worth as a front-line manager, what's the next step?
 
 It's not only about the salary, but the whole package: equity, bonus, perks, and the tractations around all of these. As a manager, writing reviews and performance evaluations are the tool of the trade for your team members to get a raise.
 
+### Salary
+
 - [levels.fyi](https://www.levels.fyi) - Compares salary range and compensation charts across big tech companies.
 - [L8-L10 salaries at AWS](https://news.ycombinator.com/item?id=21823987).
+
+### Equity
+
 - `Never accept a lower salary in exchange for equity.` ([source](https://news.ycombinator.com/item?id=21868845))
 - [On VC funding and huge growth](https://news.ycombinator.com/item?id=17448035) - `Startups need an exit strategy. (...) The idea is to raise money fast, hire experienced people for ancillary services and develop the application in a way so that it is able to hold up till IPO. Defer all costs for post IPO.`. TL;DR: the only reason to join a startup is for future money windfall.
+
+### Performance Incentives
+
 - [Incentive Pay Considered Harmful](https://www.joelonsoftware.com/2000/04/03/incentive-pay-considered-harmful/) - `Incentives (or bribes) simply can't work in the workplace`. `Most software managers have no choice but to go along with performance review systems that are already in place. If you're in this position, the only way to prevent teamicide is to simply give everyone on your team a gushing review`.
 - `If anything in your performance review is a surprise, then I have failed as a manager.` ([source](https://news.ycombinator.com/item?id=17249767)).
 - `The system a software developer works in shapes their performance so much more than individual differences.` ([source](https://news.ycombinator.com/item?id=21972033)).
