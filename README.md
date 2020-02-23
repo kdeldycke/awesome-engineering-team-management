@@ -198,7 +198,7 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 
 - [How to Celebrate the Small Wins](https://medium.dave-bailey.com/how-to-celebrate-the-small-wins-4a03004a1816)
 - [Team Leader Venn Diagram](https://larahogan.me/blog/team-leader-venn-diagram/) - `A tool for gaining a shared understanding of responsibilities`.
-- [Eye Candy QA](https://techreflect.net/2020/01/05/eye-candy-qa-2005-2011/) - Retelling of author's job at Apple: `John Louch was my boss. (...) John always shared everything with us, even the “don't share this with your team” stuff. We were people he trusted, so it was as it should be. It made you feel like you were part of something greater.` Or why sharing some open secret promote strong trust in your entourage.
+- [Eye Candy QA](https://techreflect.net/2020/01/05/eye-candy-qa-2005-2011/) - Retelling of author's job at Apple: `John Louch was my boss. (…) John always shared everything with us, even the “don't share this with your team” stuff. We were people he trusted, so it was as it should be. It made you feel like you were part of something greater.` Or why sharing some open secret promote strong trust in your entourage.
 - [A conversation with Elon Musk about Starship](https://youtu.be/cIQ36Kt7UVg?t=203) - In a team with very talented contributors, everyone's is a chief engineer: you are expected to challenge the status-quo and questions other department's constraints. This allow smart engineers to avoid the trap of optimizing for something that should not exist in the first place.
 - [Symptoms of Groupthink](https://courses.washington.edu/psii101/Powerpoints/Symptoms%20of%20Groupthink.htm) - Overconfidence, tunnel vision and conformity pressure can led a group astray.
 - [It's Not Sabotage, They're Drowning](https://shermanonsoftware.com/2019/11/15/its-not-sabotage-theyre-drowning/) - Some kind of push backs shouldn't be interpreted as intentional sabotage, but as drowning people sinking the lifeboat in an attempt to save themselves.
@@ -222,7 +222,7 @@ You're no longer an engineer. You shouldn't code anymore. Still, your team is re
 
 - [Tech Due Diligence Calculator](https://decodingvc.gitbooks.io/p9-startup-tech-due-diligence-calculator/content/) - A list of questions by topic to help understand how you are building your tech and engineering team, trying to highlight red flags.
 - [Technical Debt Is Like Tetris](https://medium.com/s/story/technical-debt-is-like-tetris-168f64d8b700) - Another way to explain technical debt: `Scenarios like these create technical debt within the product code. A buried gap in Tetris represents technical debt. (…) Paying down technical debt keeps you competitive. It keeps you in the game.`.
-- [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/) - `My boss invited me for a one-on-one chat where they politely asked me to revert my change. I was aghast. The old code was a mess, and mine was clean! (...) I see now that my “refactoring” was a disaster in two ways: I didn't talk to the person who wrote it; My code traded the ability to change requirements for reduced duplication`.
+- [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/) - `My boss invited me for a one-on-one chat where they politely asked me to revert my change. I was aghast. The old code was a mess, and mine was clean! (…) I see now that my “refactoring” was a disaster in two ways: I didn't talk to the person who wrote it; My code traded the ability to change requirements for reduced duplication`.
 
 
 ## Remote Work
