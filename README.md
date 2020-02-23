@@ -15,6 +15,8 @@ It is on this substrate that I crafted my management style, as I found anchoring
   - [Engineers](#engineers)
   - [Consultants](#consultants)
 - [Recruitment](#recruitment)
+  - [Questions](#questions)
+  - [Hiring Process](#hiring-process)
 - [Motivation](#motivation)
 - [Culture](#culture)
 - [Cognitive Tools](#cognitive-tools)
@@ -124,14 +126,26 @@ Executives are the senior/highest management layers of a company. They reports t
 
 ## Recruitment
 
+You'll be on the two sides of the hiring process: as a candidate to get a job, and as a recruiter to staff up your team.
+
+- [Hire people who aren't proven](https://leonardofed.io/blog/startups-hiring.html) - If anyone else in the world can objectively assess a candidate to be a great player, then you and your startup won't be able to hire the player. Someone will steal the candidate from you. That's why you have to go after people that aren't proven. In short, you need to be extremely good at forecasting talent.
+- [Why I Never Hire Brilliant Men](https://en.wikisource.org/wiki/Why_I_Never_Hire_Brilliant_Men) - 5 simple rules for hiring men, from 1924. Things haven't changed a lot in a century.
+- [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html) - `When it comes to writing code, the number one most important skill is how to keep a tangle of features from collapsing under the weight of its own complexity.`.
+- [Secret manager trick of hiring data scientists](https://twitter.com/kdeldycke/status/1008383946831417344) - Convince them that what they're doing is machine learning.
+
+### Questions
+
+List of questions that can be used when vetting potential candidates, and topics to draw inspiration from to be used as conversation starters.
+
 - [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A great source of inspiration.
 - [Reverse interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview. Be prepared to answer them as a manager.
-- [Why I Never Hire Brilliant Men](https://en.wikisource.org/wiki/Why_I_Never_Hire_Brilliant_Men) - 5 simple rules for hiring men, from 1924.
-- [Hire people who aren't proven](https://leonardofed.io/blog/startups-hiring.html) - If anyone else in the world can objectively say this is a great player, you and your startup won't be able to hire the player. Someone will steal him from you. You have to go after people that aren't proven. In short, you need to be extremely good at forecasting talent.
-- [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html) - `When it comes to writing code, the number one most important skill is how to keep a tangle of features from collapsing under the weight of its own complexity.`.
-- [Secret manager trick of hiring data scientists](https://twitter.com/kdeldycke/status/1008383946831417344)
-- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
+
+### Hiring Process
+
+High-growth company will all need to industrialize the hiring process at one point.
+
 - [Job Interviewing Guide](https://www.homerun.co/artofwork/guides/job-interviewing) - A detailed description of a hiring process.
+- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
 
 
 ## Motivation
