@@ -24,6 +24,10 @@ It is on this substrate that I crafted my management style, as I found anchoring
 - [Meetings](#meetings)
 - [Facilities](#facilities)
 - [Product Management](#product-management)
+  - [Hiring PMs](#hiring-pms)
+  - [Product-Market Fit](#product-market-fit)
+  - [User-Centered Design](#user-centered-design)
+  - [Product Strategy](#product-strategy)
 - [Project Management](#project-management)
 - [Agile](#agile)
 - [Key Performance Indicator (KPI)](#key-performance-indicator-kpi)
@@ -218,25 +222,45 @@ The environment we work in shapes us. Perks too.
 
 ## Product Management
 
-In a team, the Product Manager is supposed to be the "voice of the market".
+In a team, the Product Manager is supposed to be the "voice of the market". Here are more links on the role and its reach.
 
 - `You're the broker for a lot of unstructured information and have to fend off all kinds of disruptive influences to land even close to where you're trying to go.` ([source](https://news.ycombinator.com/item?id=19050555))
 - [Awesome Product Management](https://github.com/dend/awesome-product-management) - A reference. All the missing pieces are found below.
+- [Open Product Management](https://github.com/tron1991/open-product-management) - Resources, interviews, case studies, sample products & projects, communities, open source tools, free & paid services on product management, for technical people to learn the field.
+- [Things Many People Find Too Obvious To Have Told You Already](https://twitter.com/patio11/status/936615043126370306) - A set of heuristics on tech companies and the ecosystem they live in.
+- [How to exit vim, the Product Manager way](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
+
+### Hiring PMs
+
+On interviewing for a PM position. And how to conduct an interview to assess a PM's abilities.
+
 - [What Everybody Ought To Know About The Product Manager Case Interview](http://www.venturegrit.com/what-everybody-ought-to-know-about-the-product-manager-case-interview/)
 - [What are frequently asked questions in product manager interviews?](https://www.quora.com/What-are-frequently-asked-questions-in-product-manager-interviews)
-- [A curated list of product management advice for technical people](https://github.com/tron1991/open-product-management)
-- [Things Many People Find Too Obvious To Have Told You Already](https://twitter.com/patio11/status/936615043126370306)
+
+### Product-Market Fit
+
+The first step to validate your product: is the market finding interest in your venture?
+
 - [I wasted $40k on a fantastic startup idea](https://tjcx.me/posts/i-wasted-40k-on-a-fantastic-startup-idea/) - A tale of building a product no user want to pay for. `You can't just create value for the user: that's a charity. You also can't just create value for your company: that's a scam. Your goal is to set up some kind of positive-sum exchange, where everyone benefits, including you. A business plan, according to this textbook, starts with this simple question: how will you create value for yourself and the company?`.
 - [David Rusenko - How To Find Product Market Fit](https://www.youtube.com/watch?v=0LNQxT9LvM0) - `Details the story of how Weebly developed one of the most popular website creation and hosting sites on the web today.`.
 - [Fundamentals of Product-Market Fit](https://www.holloway.com/s/rvc-fundamentals-of-product-market-fit) - A complete overview of the concept: what is product-market fit and to measuring it.
+
+### User-Centered Design
+
+On how to focus on user's problem to have your product delivers value.
+
 - [The product roadmap is dead: welcome to the age of problem roadmaps](https://medium.com/product-managers-at-work/the-product-roadmap-is-dead-welcome-to-the-age-of-problem-roadmaps-7c7745ac8ae0) - `Fall in love with your problems and not with your solutions.`.
 - [Kasparov's Law](https://curatedintelligence.com/2017/10/20/kasparovs-law/) - Weak human + Machine > Machine > Strong Human.
+
+### Product Strategy
+
+Where your product lies in the value chain and how to position it in the market.
+
 - [`Why does the tire company rate restaurants`](https://mobile.twitter.com/trevmckendrick/status/1218748974321954816) - A great example on why you should investigate complementary businesses.
 - [Laws of Tech: Commoditize Your Complement](https://www.gwern.net/Complement) - A step further from the previous advice, in which is detailed an aggressive strategy to consolidate monopolies.
 - Windows Vista as a prime example of a [sacrificial lamb product](https://twitter.com/SwiftOnSecurity/status/851861076429991937): a massive unpopular re-architecture required to pave the way for future innovative release. That's the cautionary tale of why you should be ready for intense criticism and adversity, if by chance or fate your wander down the path of monumental changes in a business software.
 - Talking about Vista, Microsoft found out following its unsuccessful launch that [the #1 bug predictor is not technical, it's organizational complexity](https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/).
 - [Osborne effect](https://en.wikipedia.org/wiki/Osborne_effect) - `A social phenomenon of customers canceling or deferring orders for the current soon-to-be-obsolete product as an unexpected drawback of a company's announcing a future product prematurely.` This is the price to pay for hasty marketing actions.
-- [How to exit vim, the Product Manager way](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
 
 
 ## Project Management
