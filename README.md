@@ -149,6 +149,7 @@ High-growth company will all need to industrialize the hiring process at one poi
 
 - [Job Interviewing Guide](https://www.homerun.co/artofwork/guides/job-interviewing) - A detailed description of a hiring process.
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
+- [The Horrifically Dystopian World of Software Engineering Interviews](https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews) - The dark side on relying too much on algorithm challenges.
 
 
 ## Motivation
