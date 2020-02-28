@@ -15,8 +15,11 @@ It is on this substrate that I crafted my management style, as I found anchoring
   - [Engineers](#engineers)
   - [Consultants](#consultants)
 - [Recruitment](#recruitment)
-  - [Questions](#questions)
+  - [Job Boards](#job-boards)
   - [Hiring Process](#hiring-process)
+  - [Interview](#interview)
+  - [Coding Challenge](#coding-challenge)
+  - [Negotiation](#negotiation)
 - [Motivation](#motivation)
 - [Culture](#culture)
 - [Cognitive Tools](#cognitive-tools)
@@ -131,25 +134,47 @@ Executives are the senior/highest management layers of a company. They reports t
 
 You'll be on the two sides of the hiring process: as a candidate to get a job, and as a recruiter to staff up your team.
 
-- [Hire people who aren't proven](https://leonardofed.io/blog/startups-hiring.html) - If anyone else in the world can objectively assess a candidate to be a great player, then you and your startup won't be able to hire the player. Someone will steal the candidate from you. That's why you have to go after people that aren't proven. In short, you need to be extremely good at forecasting talent.
-- [Why I Never Hire Brilliant Men](https://en.wikisource.org/wiki/Why_I_Never_Hire_Brilliant_Men) - 5 simple rules for hiring men, from 1924. Things haven't changed a lot in a century.
-- [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html) - `When it comes to writing code, the number one most important skill is how to keep a tangle of features from collapsing under the weight of its own complexity.`.
-- [Secret manager trick of hiring data scientists](https://twitter.com/kdeldycke/status/1008383946831417344) - Convince them that what they're doing is machine learning.
+### Job Boards
 
-### Questions
-
-List of questions that can be used when vetting potential candidates, and topics to draw inspiration from to be used as conversation starters.
-
-- [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A great source of inspiration.
-- [Reverse interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview. Be prepared to answer them as a manager.
+- [Awesome Job Boards](https://github.com/tramcar/awesome-job-boards) - Find the best place to post your job offer to.
+- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
+- [TechMeAbroad](https://techmeabroad.com) - List job posts from tech startups and tech companies who will recruit from abroad.
+- [Jobs in Tech](https://www.jobsintech.io) - Simple website made by developers for tech people.
 
 ### Hiring Process
 
 High-growth company will all need to industrialize the hiring process at one point.
 
 - [Job Interviewing Guide](https://www.homerun.co/artofwork/guides/job-interviewing) - A detailed description of a hiring process.
-- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
+- [Open Sourced Interview Process](https://github.com/cockroachlabs/open-sourced-interview-process) - Cockroach Labs published their process `to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions.`.
+
+### Interview
+
+List of questions that can be used when vetting potential candidates, and topics to draw inspiration from to be used as conversation starters.
+
+- [Hire people who aren't proven](https://leonardofed.io/blog/startups-hiring.html) - If anyone else in the world can objectively assess a candidate to be a great player, then you and your startup won't be able to hire the player. Someone will steal the candidate from you. That's why you have to go after people that aren't proven. In short, you need to be extremely good at forecasting talent.
+- [Why I Never Hire Brilliant Men](https://en.wikisource.org/wiki/Why_I_Never_Hire_Brilliant_Men) - 5 simple rules for hiring men, from 1924. Things haven't changed a lot in a century.
+- [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html) - `When it comes to writing code, the number one most important skill is how to keep a tangle of features from collapsing under the weight of its own complexity.`.
+- [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A great source of inspiration.
+- [Reverse interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview. Be prepared to answer them as a manager.
+- [Culture Queries](https://www.keyvalues.com/culture-queries) - A sample of question to ask in job interviews to try to understand the values of a company.
+- `It's true that not all developers make positive contributions, however, I think that blaming "lowering hiring standards" (…) is a complete red herring.` ([source](https://news.ycombinator.com/item?id=13209317)) - Examples in which developers that might pass tough job interview just fine are bringing negative value later.
+- [Secret manager trick of hiring data scientists](https://twitter.com/kdeldycke/status/1008383946831417344) - Convince them that what they're doing is machine learning.
+
+### Coding Challenge
+
+The absence of coding exercise will left the door open to fraud. OTOH, if elistist challenges decrease the number of false-positive, you'll pass on perfectly capable and great developers. Now it is your job as manager to find balance between these two extremes, and set the tone on how to have the candidate demonstrate coding skills.
+
 - [The Horrifically Dystopian World of Software Engineering Interviews](https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews) - The dark side on relying too much on algorithm challenges.
+- [Fizz Buzz Test](https://wiki.c2.com/?FizzBuzzTest) - `Designed to help filter out the 99.5% of programming job candidates who can't seem to program their way out of a wet paper bag.`.
+- [FizzBuzz 2.0: Pragmatic Programming Questions for Software Engineers](https://triplebyte.com/blog/fizzbuzz-2-0-pragmatic-programming-questions-for-software-engineers) - Or how five multiple-choice questions easily separate the real software engineers from the rest.
+- [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A satire of over-engineering for the sake of enterprise-grade software.
+- [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - A huge database of questions sorted by topic to get inspiration from.
+
+### Negotiation
+
+- [How Not to Bomb Your Offer Negotiation](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/) - `A good negotiator is empathetic and collaborative. They don’t try to control you or issue ultimatums. Rather, they try to think creatively about how to fulfill both your and their needs.`.
+- [How to answer the “What’s your current salary?” job interview question](https://42hire.com/how-to-answer-the-whats-your-current-salary-job-interview-question-486254cb59ad#.izg4ips52) - This article explain the dynamic of that sneaky question and how to defuse it.
 
 
 ## Motivation
@@ -169,7 +194,6 @@ High-growth company will all need to industrialize the hiring process at one poi
 - [The IT revolution and southern Europe's two lost decades](https://voxeu.org/article/it-revolution-and-southern-europes-two-lost-decades) - If you still doubt management culture could make or break an industry: `inefficient management practices have kept southern European firms from taking full advantage of the IT revolution`.
 - [Meaningful differences that makes Google offices more productive](https://news.ycombinator.com/item?id=20443133) - TL;DR: `The people are smarter, your manager (and their manager) cares a lot about you and it's easy to move.`.
 - [It's Not Enough to Be Right—You Also Have to Be Kind](https://forge.medium.com/its-not-enough-to-be-right-you-also-have-to-be-kind-b8814111fe1) - `It's harder to be kind than clever.`, or put another way by Abraham Joshua Heschel: `When I was young, I used to admire intelligent people; as I grow older, I admire kind people.`.
-- [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A satire of over-engineering for the sake of enterprise-grade software.
 - `If you cannot disrupt a perverted culture by introducing a new culture, the politics of the perverted culture will work against you until you break, align, or leave. It is not unwise to leave before you break and it is easier to leave before you align.` ([source](https://news.ycombinator.com/item?id=20914779)) - At one point, even with the most unselfish of intentions, your attempts to elevate the culture might stall. It is not fair, but it's probably the time to leave.
 
 
@@ -231,6 +255,7 @@ You're no longer an engineer. You shouldn't code anymore. Still, your team is re
 - [Managing Remote Teams - A Crash Course](http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course).
 - [Asynchronous Communication: The Real Reason Remote Workers Are More Productive](https://doist.com/blog/asynchronous-communication/) - `Remote workers are more productive than their office-bound counterparts.`.
 - [A guide to distributed teams](https://increment.com/teams/a-guide-to-distributed-teams/) - A nice wrap up on the numerous dispositions required to have a highly effective distributed team.
+- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - Resources on working remotely, including job boards, coworking spaces, and a list of comapnies embracing the culture.
 
 
 ## Meetings
