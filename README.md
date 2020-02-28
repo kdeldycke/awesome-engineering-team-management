@@ -458,6 +458,7 @@ Now that you've proven your worth as a front-line manager, what's the next step?
 - [`That's usually about the time I nope right out of the interview`](https://news.ycombinator.com/item?id=19188246) - Bad signs of a CTO trying to recruit an engineering manager, or the perils of not believing in hierarchies.
 - [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) - There's this idea that, if you do great work at your job, people will (or should!) automatically recognize that work and reward you for it with promotions / increased pay. In practice, it's often more complicated than that.
 - `Since managers are not tied to a sector (in the way nurses or musicians are), the good ones tend to go where they are payed good money and the bad ones end up wreaking havoc where they are payed at least some money. That, also, is `[Baumol](https://en.wikipedia.org/wiki/Baumol%27s_cost_disease)` in action.` ([source](https://news.ycombinator.com/item?id=20448929)).
+- `Most people realize by their 30s that prestige is a sucker's game` ([source](https://news.ycombinator.com/item?id=11833832)).
 
 
 ## Compensation
