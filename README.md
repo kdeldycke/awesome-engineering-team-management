@@ -226,13 +226,15 @@ The absence of coding exercise will left the door open to fraud. OTOH, if elisti
 
 On the day-to-day dynamics of the team, and its interaction with other teams.
 
-- [How to Celebrate the Small Wins](https://medium.dave-bailey.com/how-to-celebrate-the-small-wins-4a03004a1816)
+- [A Career Cold Start Algorithm](https://boz.com/articles/career-cold-start) - The author developed an algorythm to ramp-up quickly when joining an existing team where he had a massive knowledge deficit and no pre-existing relationships.
+- [How to Celebrate the Small Wins](https://medium.dave-bailey.com/how-to-celebrate-the-small-wins-4a03004a1816) - My takeaway: `Celebrating Slow Progress; Hunt for Key Milestones`.
 - [Team Leader Venn Diagram](https://larahogan.me/blog/team-leader-venn-diagram/) - `A tool for gaining a shared understanding of responsibilities`.
 - [Eye Candy QA](https://techreflect.net/2020/01/05/eye-candy-qa-2005-2011/) - Retelling of author's job at Apple: `John Louch was my boss. (…) John always shared everything with us, even the “don't share this with your team” stuff. We were people he trusted, so it was as it should be. It made you feel like you were part of something greater.` Or why sharing some open secret promote strong trust in your entourage.
 - [A conversation with Elon Musk about Starship](https://youtu.be/cIQ36Kt7UVg?t=203) - In a team with very talented contributors, everyone's is a chief engineer: you are expected to challenge the status-quo and questions other department's constraints. This allow smart engineers to avoid the trap of optimizing for something that should not exist in the first place.
 - [Symptoms of Groupthink](https://courses.washington.edu/psii101/Powerpoints/Symptoms%20of%20Groupthink.htm) - Overconfidence, tunnel vision and conformity pressure can led a group astray.
 - [It's Not Sabotage, They're Drowning](https://shermanonsoftware.com/2019/11/15/its-not-sabotage-theyre-drowning/) - Some kind of push backs shouldn't be interpreted as intentional sabotage, but as drowning people sinking the lifeboat in an attempt to save themselves.
 - `Community already exists, you just create a communication platform for it` ([source](https://news.ycombinator.com/item?id=21828666)) - Or why trying to create a community from the ground up might not be the right way of looking at things: a better and more subtle strategy would be to enhance the already existing channels.
+- [OpenTeams](https://openteam.info) - `Teams can visualize their network of interactions, and also, cross this data with information on a teams demographic, professional, and psychological characteristics.`. As manager, make sure these metrics bring positive outcome to the team. It is easy to have them instrumentalized for political reasons.
 
 
 ## Technical Stack
