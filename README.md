@@ -199,6 +199,7 @@ The absence of coding exercise will left the door open to fraud. OTOH, if elisti
 - [Meaningful differences that makes Google offices more productive](https://news.ycombinator.com/item?id=20443133) - TL;DR: `The people are smarter, your manager (and their manager) cares a lot about you and it's easy to move.`.
 - [It's Not Enough to Be Right—You Also Have to Be Kind](https://forge.medium.com/its-not-enough-to-be-right-you-also-have-to-be-kind-b8814111fe1) - `It's harder to be kind than clever.`, or put another way by Abraham Joshua Heschel: `When I was young, I used to admire intelligent people; as I grow older, I admire kind people.`.
 - `If you cannot disrupt a perverted culture by introducing a new culture, the politics of the perverted culture will work against you until you break, align, or leave. It is not unwise to leave before you break and it is easier to leave before you align.` ([source](https://news.ycombinator.com/item?id=20914779)) - At one point, even with the most unselfish of intentions, your attempts to elevate the culture might stall. It is not fair, but it's probably the time to leave.
+- [Netflix Culture](https://www.slideshare.net/reed2001/culture-1798664) - `The actual company values, as opposed to the nice-sounding values, are shown by who gets rewarded, promoted, or let go.`.
 
 
 ## Cognitive Tools
