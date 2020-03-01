@@ -115,6 +115,8 @@ Executives are the senior/highest management layers of a company. They reports t
 - [Great PMs don't spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/) - Not on solutions, no. But on customer's problems.
 - [Things I have learnt as the software engineering lead of a multinational](https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/) - Some interesting points here, some others needs to be challenged.
 - [Do engineering managers need to be technical?](https://increment.com/teams/do-engineering-managers-need-to-be-technical/) - Yes. `Looking forward to the next 30 years of management trends, only a few things seem certain: Managers should be technical, and the definition of technical will continue to change.`.
+- [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager) - Huge list, but need some curation.
+- [The Leadership Library for Engineers](https://leadership-library.dev) - A list of books to help engineering leaders level up.
 
 ### Engineers
 
