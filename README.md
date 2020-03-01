@@ -504,6 +504,7 @@ Here we are, at the intersection of power and influence lies the political game.
 - `The actual power wielded by a high level executive is usually inversely proportional to the size of the organization they manage.` (source: [comment](https://news.ycombinator.com/item?id=20260498) on [Why large companies are so difficult to rescue](https://news.ycombinator.com/item?id=20260114)).
 - `Cutting costs gets you a raise. Delivering a big project is a path to promotion.` ([source](https://news.ycombinator.com/item?id=21230771))
 - `"You know your game fails when you read in the news about the feature you are supposed to have".` ([source](https://news.ycombinator.com/item?id=20220484)). A team learning about its roadmap at the same time of the general public is a sure sign something is wrong.
+- `In a highly political environment there are two ways to create change, one is through overt manipulation, which is to collect political power to yourself and then exert it to enact change, and the other is covert manipulation, which is to enact change subtly enough that the political organism doesn't react. (sometimes called "triggering the antibodies").` ([source](https://news.ycombinator.com/item?id=5541517)).
 
 
 ## Re-organizations
