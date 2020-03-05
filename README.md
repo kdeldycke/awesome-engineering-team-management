@@ -11,7 +11,8 @@ It is on this substrate that I crafted my management style, as I found anchoring
 - [Building Teams](#building-teams)
 - [Roles](#roles)
   - [Executives](#executives)
-  - [Managers](#managers)
+  - [CTO & VP of Engineering](#cto--vp-of-engineering)
+  - [Engineering Managers](#engineering-managers)
   - [Engineers](#engineers)
   - [Consultants](#consultants)
 - [Recruitment](#recruitment)
@@ -101,12 +102,20 @@ Executives are the senior/highest management layers of a company. They reports t
 - [What Only the CEO Can Do](https://hbr.org/2009/05/what-only-the-ceo-can-do) - TL;DR: `1. Defining and interpreting the meaningful "outside" of the company; 2. Answering the two-part question: What business are we in and what business are we not in? 3. Balancing sufficient yield in the present with necessary investment in the future; 4. Shaping the values and standards of the organization.`.
 - [How CEOs Manage Time](https://hbr.org/2018/07/the-leaders-calendar) - A study on what CEO of large companies spent their time on, and how. Opens a new window into what leadership is all about and into its many components and dimensions.
 - [Operations and Internal Communication Strategies For Effective CEOs](https://www.sametab.com/blog/operations-and-internal-communication-strategies-for-effective-ceos) - After insisting on the importance of context and narratives, the author provide an interesting template (good for inspiration) of ritual and recurring internal communication devices.
-- [CTO vs VP Engineering: What’s the Difference?](https://www.ivyexec.com/career-advice/2015/cto-versus-vp-engineering-whats-the-difference/) - TL;DR: CTO manage a small staff of hackers. VP of Engineering lead an organization of engineers.
-- [The different skills needed to be a successful CTO](https://madewithlove.be/one-job-many-roles-the-different-skills-needed-to-be-a-successful-cto/) - The premise is a little misleading. This article decribe the journey of the technical founder of a startup growing with the company to become a CTO. At which point the position described is not CTO, but VP of Engineering.
 - [Narcissistic CEOs Weaken Collaboration and Integrity](https://www.gsb.stanford.edu/insights/narcissistic-ceos-weaken-collaboration-integrity) - `The prototypic visionary leader profile is so similar to that of a narcissist, if boards aren't careful, they're going to end up choosing people who are narcissistic as CEOs`.
 - `Hiring isn't the challenge. The challenge is finding people who can be effective while working for executives whose only qualifications and training are narcissistic levels of self confidence.` ([source](https://twitter.com/kellan/status/1205113384632500224)).
 
-### Managers
+### CTO & VP of Engineering
+
+In tech companies these roles are critical, and the frontier between the two is often blurry.
+
+- [CTO vs VP Engineering: What’s the Difference?](https://www.ivyexec.com/career-advice/2015/cto-versus-vp-engineering-whats-the-difference/) - TL;DR: CTO manage a small staff of hackers. VP of Engineering lead an organization of engineers.
+- [The different skills needed to be a successful CTO](https://madewithlove.be/one-job-many-roles-the-different-skills-needed-to-be-a-successful-cto/) - The premise is a little misleading, as what is detailed there is the journey, in a startup, of the technical founder growing with the company to become a CTO. At which point the position described in the article is not CTO, but VP of Engineering.
+- [`That's usually about the time I nope right out of the interview`](https://news.ycombinator.com/item?id=19188246) - Bad signs of a CTO trying to recruit an engineering manager, or the perils of not believing in hierarchies.
+
+### Engineering Managers
+
+Managers came in all form and shape, and the title and daily activities varies a lot depending on companies. When developers directly reports to you, you find yourself at the first management level: you are a front-line engineering manager.
 
 - [What are the signs that you have a great manager?](https://news.ycombinator.com/item?id=20230133) - `The irony is that you don't really notice a great manager.`.
 - [Identify what makes a great manager](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/) - Google tried to prove managers don't matter. Instead, it discovered [10 Traits of the Very Best Ones](https://www.inc.com/scott-mautz/google-tried-to-prove-managers-dont-matter-instead-they-discovered-10-traits-of-very-best-ones.html).
@@ -460,7 +469,6 @@ Now that you've proven your worth as a front-line manager, what's the next step?
 - [The Evolution of Management: Transitioning up the ladder](https://queue.acm.org/detail.cfm?id=3350548) - Describe the path and expectations at each management level.
 - [Founder to CEO](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/) - How to start as a technical founder of a startup, build a great team then grow with the company to learn and become a full-fledge CEO.
 - [My questions for prospective employers (Director/VP roles)](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/) - Great list for senior management roles.
-- [`That's usually about the time I nope right out of the interview`](https://news.ycombinator.com/item?id=19188246) - Bad signs of a CTO trying to recruit an engineering manager, or the perils of not believing in hierarchies.
 - [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) - There's this idea that, if you do great work at your job, people will (or should!) automatically recognize that work and reward you for it with promotions / increased pay. In practice, it's often more complicated than that.
 - `Since managers are not tied to a sector (in the way nurses or musicians are), the good ones tend to go where they are payed good money and the bad ones end up wreaking havoc where they are payed at least some money. That, also, is `[Baumol](https://en.wikipedia.org/wiki/Baumol%27s_cost_disease)` in action.` ([source](https://news.ycombinator.com/item?id=20448929)).
 - `Most people realize by their 30s that prestige is a sucker's game` ([source](https://news.ycombinator.com/item?id=11833832)).
