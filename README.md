@@ -78,7 +78,7 @@ The first step. The hardest: how to requalify oneself from an Individual Contrib
 
 ## Building Teams
 
-Whether you inherit an already existing team or have to start from scratch, you'll need to practice the art of building (and consolidating) them.
+You got the title and the pay grade. Congratulation! This doesn't make you a manager yet. Whether you inherit an already existing team or have to start from scratch, you'll need to practice the art of building (and consolidating) them.
 
 - [Building and Motivating Engineering Teams](http://www.elidedbranches.com/2016/11/building-and-motivating-engineering.html) - What DO engineers want? Money, purpose and respect.
 - [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - `Google’s data indicated that psychological safety, more than anything else, was critical to making a team work. (…) The behaviors that create psychological safety — conversational turn-taking and empathy — are part of the same unwritten rules we often turn to, as individuals, when we need to establish a bond.`.
@@ -254,7 +254,7 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 
 ## Technical Stack
 
-You're no longer an engineer. You shouldn't code anymore. Still, your team is responsible for the technical stack.
+You're no longer an engineer. You shouldn't code anymore. Still, your team is responsible for the technical stack and all the processes surrounding it.
 
 ### Technology
 
