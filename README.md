@@ -96,7 +96,7 @@ On the profiles, attitude, behaviors, and expectations between developers, manag
 
 Executives are the senior/highest management layers of a company. They reports to a board of directors in bigger companies, or directly to the shareholders in smaller ones. Leadership is expected at this level. As a manager these are the people you report to.
 
-- [What do executives do, anyway?](https://apenwarr.ca/log/20190926) - Paraphrasing [Andy Grove's book, High Output Management](https://www.amazon.com/dp/0679762884), `the job of an executive is: to define and enforce culture and values for their whole organization, and to ratify good decisions.`. The article also details the failures modes of a CEO: forcing his own decisions downstreams, or various ways of not resolving conflicts.
+- [What do executives do, anyway?](https://apenwarr.ca/log/20190926) - Paraphrasing [Andy Grove's book, High Output Management](https://www.amazon.com/dp/0679762884), `the job of an executive is: to define and enforce culture and values for their whole organization, and to ratify good decisions.`. The article also details the failures modes of a CEO: forcing his own decisions downstream, or various ways of not resolving conflicts.
 - [Executives ratify decisions made on the spot](https://twitter.com/kdeldycke/status/1088001688722644992) - Refines the concept above adapting [Tolstoy's thesis to business](https://news.ycombinator.com/item?id=18089716).
 - [Army Leadership and the Profession](https://fas.org/irp/doddir/army/adp6_22.pdf) - Establishes and describes what leaders should be and do.
 - [US Air Force's Strategic Leadership Studies](http://leadership.au.af.mil/sls-skil.htm) - A reference of leadership's competencies and skills.
@@ -181,7 +181,7 @@ List of questions that can be used when vetting potential candidates, and topics
 
 ### Coding Challenge
 
-The absence of coding exercise will left the door open to fraud. OTOH, if elistist challenges decrease the number of false-positive, you'll pass on perfectly capable and great developers. Now it is your job as manager to find balance between these two extremes, and set the tone on how to have the candidate demonstrate coding skills.
+The absence of coding exercise will left the door open to fraud. OTOH, if elitist challenges decrease the number of false-positive, you'll pass on perfectly capable and great developers. Now it is your job as manager to find balance between these two extremes, and set the tone on how to have the candidate demonstrate coding skills.
 
 - [The Horrifically Dystopian World of Software Engineering Interviews](https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews) - The dark side on relying too much on algorithm challenges.
 - [Fizz Buzz Test](https://wiki.c2.com/?FizzBuzzTest) - `Designed to help filter out the 99.5% of programming job candidates who can't seem to program their way out of a wet paper bag.`.
@@ -221,13 +221,13 @@ The absence of coding exercise will left the door open to fraud. OTOH, if elisti
 ## Cognitive Tools
 
 - [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.qb3gkdmtk) - Huge compiled list of mental models. Became the basis of book.
-- [First principles and asking why](https://www.theengineeringmanager.com/growth/first-principles-and-asking-why/) - `Our ability to think in abstractions can weaken our judgement, as those abstractions may no longer be as true as they once were. Also a similarly dangerous evolutionary trait is our ability to think in analogy, where we make assumptions based on the comparison of two things that are not actually related.` [Elon Musk expolains it better](https://www.youtube.com/watch?v=NV3sBlRgzTI).
+- [First principles and asking why](https://www.theengineeringmanager.com/growth/first-principles-and-asking-why/) - `Our ability to think in abstractions can weaken our judgement, as those abstractions may no longer be as true as they once were. Also a similarly dangerous evolutionary trait is our ability to think in analogy, where we make assumptions based on the comparison of two things that are not actually related.` [Elon Musk explains it better](https://www.youtube.com/watch?v=NV3sBlRgzTI).
 - [The Art of Powerful Questions - Catalyzing Insight, Innovation, and Action](https://umanitoba.ca/admin/human_resources/change/media/the-art-of-powerful-questions.pdf) - `Leaders believe that they are being paid for fixing problems rather than for fostering breakthrough thinking.`.
 - [Hanlon's_razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): `Never attribute to malice that which is adequately explained by stupidity.` - My favorite flavor of [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor), critical in defusing paranoia in a highly political setting.
 - [Regression toward the mean](https://en.wikipedia.org/wiki/Regression_toward_the_mean) - Or why after a period of intense euphoria and ambition, things slowly get back to their usual mediocrity.
 - [Locus of control](https://en.wikipedia.org/wiki/Locus_of_control) - A framework on `the degree to which people believe that they have control over the outcome of events in their lives, as opposed to external forces beyond their control.`.
 - [To Get Good, Go After The Metagame](https://commoncog.com/blog/to-get-good-go-after-the-metagame/) - `Every sufficiently interesting game has a metagame above it. This is the game about the game. It is often called 'the meta'. (…) The meta is what you get after you master boring fundamentals. But observing the state of the current meta often reveals what boring fundamentals you need to learn.`.
-- [Coglode: bite-size behavioural research analysis](https://www.coglode.com) - Mostly applied behaviour insights to help you build up strategies and tactics on product, design and planning.
+- [Coglode: bite-size behavioral research analysis](https://www.coglode.com) - Mostly applied behaviour insights to help you build up strategies and tactics on product, design and planning.
 - `People make bad choices if they're mad or scared or stressed.` - [Disney's Frozen](https://i.pinimg.com/originals/b5/17/97/b5179700050b96f91f63e086e053b5ee.jpg).
 - [I coached CEOs, founders, VCs and other executive: These are the biggest takeaways](https://leowid.com/2019-2) - Excerpt: `We're all just big, complicated bags of emotion walking around; Power comes with the ability to receive a No; Learning to manage your focus, not your time.`.
 - [Strong Opinions, Weakly Held — a framework for thinking](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364) - `Allow your intuition to guide you to a conclusion, no matter how imperfect — this is the 'strong opinion' part. Then – and this is the 'weakly held' part – prove yourself wrong.`.
@@ -242,7 +242,7 @@ The absence of coding exercise will left the door open to fraud. OTOH, if elisti
 
 On the day-to-day dynamics of the team, and its interaction with other teams.
 
-- [A Career Cold Start Algorithm](https://boz.com/articles/career-cold-start) - The author developed an algorythm to ramp-up quickly when joining an existing team where he had a massive knowledge deficit and no pre-existing relationships.
+- [A Career Cold Start Algorithm](https://boz.com/articles/career-cold-start) - The author developed an algorithm to ramp-up quickly when joining an existing team where he had a massive knowledge deficit and no pre-existing relationships.
 - [How to Celebrate the Small Wins](https://medium.dave-bailey.com/how-to-celebrate-the-small-wins-4a03004a1816) - My takeaway: `Celebrating Slow Progress; Hunt for Key Milestones`.
 - [Team Leader Venn Diagram](https://larahogan.me/blog/team-leader-venn-diagram/) - `A tool for gaining a shared understanding of responsibilities`.
 - [Eye Candy QA](https://techreflect.net/2020/01/05/eye-candy-qa-2005-2011/) - Retelling of author's job at Apple: `John Louch was my boss. (…) John always shared everything with us, even the “don't share this with your team” stuff. We were people he trusted, so it was as it should be. It made you feel like you were part of something greater.` Or why sharing some open secret promote strong trust in your entourage.
@@ -288,7 +288,7 @@ Whatever the technology used behind the scene, we are building systems first.
 - [Managing Remote Teams - A Crash Course](http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course).
 - [Asynchronous Communication: The Real Reason Remote Workers Are More Productive](https://doist.com/blog/asynchronous-communication/) - `Remote workers are more productive than their office-bound counterparts.`.
 - [A guide to distributed teams](https://increment.com/teams/a-guide-to-distributed-teams/) - A nice wrap up on the numerous dispositions required to have a highly effective distributed team.
-- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - Resources on working remotely, including job boards, coworking spaces, and a list of comapnies embracing the culture.
+- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.
 
 
 ## Meetings
@@ -351,7 +351,7 @@ Where your product lies in the value chain and how to position it in the market.
 - Windows Vista as a prime example of a [sacrificial lamb product](https://twitter.com/SwiftOnSecurity/status/851861076429991937): a massive unpopular re-architecture required to pave the way for future innovative release. That's the cautionary tale of why you should be ready for intense criticism and adversity, if by chance or fate your wander down the path of monumental changes in a business software.
 - Talking about Vista, Microsoft found out following its unsuccessful launch that [the #1 bug predictor is not technical, it's organizational complexity](https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/).
 - [Osborne effect](https://en.wikipedia.org/wiki/Osborne_effect) - `A social phenomenon of customers canceling or deferring orders for the current soon-to-be-obsolete product as an unexpected drawback of a company's announcing a future product prematurely.` This is the price to pay for hasty marketing actions.
-- [Reverse Engineering A Successful Lifestyle Business](http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/) - Even if it's targetting lifestyle entrepreneur, this article is full of fantastic quote on customer relation, pricing and marketing a product.
+- [Reverse Engineering A Successful Lifestyle Business](http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/) - Even if it's targeting lifestyle entrepreneur, this article is full of fantastic quote on customer relation, pricing and marketing a product.
 
 
 ## Project Management
@@ -380,9 +380,9 @@ But don't worry too much, every company has its own definition of the two roles,
 
 ## Agile
 
-- [The Good, the Bad and the Ugly Standup](https://kristoff.it/blog/good-bad-ugly-standup/) - Author experienced 3 formats of standups before ending with one working for his team, and concludes that `the details that make up a good meeting are subtle and the pursuit of an artificial standard of aesthetics will prevent you from doing the necessary experimentation to improve from an ugly equilibrium`.
+- [The Good, the Bad and the Ugly Standup](https://kristoff.it/blog/good-bad-ugly-standup/) - Author experienced 3 formats of stand-ups before ending with one working for his team, and concludes that `the details that make up a good meeting are subtle and the pursuit of an artificial standard of aesthetics will prevent you from doing the necessary experimentation to improve from an ugly equilibrium`.
 - [Why do some developers at Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/David-Jeske) - Because the short-term focused Scrum processes `seem suited to particular types of development, most notably consulting or contract programming, where the customer is external to the organizations, runs the show because they are paying for development, and can change their mind at any time`. Still, google engineers already practice a culture close to what looks like the 10-points Agile manifesto. But that's it.
-- [Detecting Agile Bullshit](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF) - US Departement of Defense guide to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing (“agile-scrum-fall”).
+- [Detecting Agile Bullshit](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF) - US Department of Defense guide to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing (“agile-scrum-fall”).
 - [Who are you trying to impress with your deadlines?](http://jatins.gitlab.io/me/why-deadline/) - `There are companies where those deadlines are set in stone, and a missed deadline is next to fire. That's when the problem starts.`.
 - `The fundamental problem that drives most agile failures isn't in the team's execution, it's in the business' expectations. One side is signed up for incremental delivery, and one side is set up for a fixed scope and deadline and the result is misery.` ([source](https://news.ycombinator.com/item?id=20326074))
 
@@ -453,7 +453,7 @@ General advices on how to convey meaning and clarity by mastering the style. If 
 - [Algorithm for writing a scientific manuscript](https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.20329) - A process to guide the preparation and refinement of manuscripts.
 - [The Baldwin Formula for scientific writing: writing papers and reviews](https://www.ice.mpg.de/ext/fileadmin/extranet/dept_itb/The_Baldwin_Formula_for_writing_a_scientific_paper_and_reviewing_papers.pdf) - `The most efficient way to write scientific papers is to write while you are still conducting experiments`.
 - [Ten simple rules for structuring papers](https://www.biorxiv.org/content/10.1101/088278v5.full) - `Focusing on how readers consume information, we present a set of 10 simple rules to help you get across the main idea of your paper.`.
-- [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html) - Another set of tips, specifically using the example of a technical paper describing a improvment of an algorithm.
+- [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html) - Another set of tips, specifically using the example of a technical paper describing an improvement of an algorithm.
 - [Write an Excellent Programming Blog](https://speakerdeck.com/pycon2016/a-jesse-jiryu-davis-write-an-excellent-programming-blog) - Tips on structure and style to produce great blog posts.
 - [Ten simple rules for getting started on Twitter as a scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007513) - Twitter `can be used in a much more active, collaborative way: to ask for advice, to form new bonds and scientific collaborations, to announce jobs and find employees, to find new mentors and jobs.`.
 - [Notes on Technical Writing](https://mkaz.blog/misc/notes-on-technical-writing/).
@@ -492,7 +492,7 @@ Now that you've proven your worth as a front-line manager, what's the next step?
 
 ## Compensation
 
-It's not only about the salary, but the whole package: equity, bonuses, perks, and the tractations around all of these. As a manager, writing reviews and performance evaluations are the tool of the trade for your team members to get a raise.
+It's not only about the salary, but the whole package: equity, bonuses, perks, and the dealings around all of these. As a manager, writing reviews and performance evaluations are the tool of the trade for your team members to get a raise.
 
 ### Salary
 
