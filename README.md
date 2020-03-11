@@ -215,6 +215,7 @@ The absence of coding exercise will left the door open to fraud. OTOH, if elisti
 - `It is not your job to protect people (particularly senior management) from the consequences of their decisions. Make your decisions in your own best interest; it is up to the organization to make sure that your interest aligns with theirs.` ([source](https://news.ycombinator.com/item?id=7179946)).
 - `If you cannot disrupt a perverted culture by introducing a new culture, the politics of the perverted culture will work against you until you break, align, or leave. It is not unwise to leave before you break and it is easier to leave before you align.` ([source](https://news.ycombinator.com/item?id=20914779)) - At one point, even with the most unselfish of intentions, your attempts to elevate the culture might stall. It is not fair, but it's probably the time to leave.
 - [Netflix Culture](https://www.slideshare.net/reed2001/culture-1798664) - `The actual company values, as opposed to the nice-sounding values, are shown by who gets rewarded, promoted, or let go.`.
+- [High Performance Organizations Reading List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List) - A list of books, web pages, and videos about how to design better organizations, divided into 3 categories: organization and motivation, health and wellness, and software development specific.
 
 
 ## Cognitive Tools
@@ -456,6 +457,7 @@ General advices on how to convey meaning and clarity by mastering the style. If 
 - [Write an Excellent Programming Blog](https://speakerdeck.com/pycon2016/a-jesse-jiryu-davis-write-an-excellent-programming-blog) - Tips on structure and style to produce great blog posts.
 - [Ten simple rules for getting started on Twitter as a scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007513) - Twitter `can be used in a much more active, collaborative way: to ask for advice, to form new bonds and scientific collaborations, to announce jobs and find employees, to find new mentors and jobs.`.
 - [Notes on Technical Writing](https://mkaz.blog/misc/notes-on-technical-writing/).
+- [Writing for Business](https://docs.google.com/document/d/1PqbdAnYM79tLvO3yWCt2QH2T1HuQ58poNUsM7QzuE-c) - Some tips on how to write in a business context.
 
 ### Style
 
@@ -559,6 +561,7 @@ Here we are, at the intersection of power and influence lies the political game.
 ## Setbacks and Failures
 
 - `What does not kill me makes me stronger`, Friedrich Nietzsche - Brutal, but with a grain of truth.
+- `It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change.`, Charles Darwin - [A quote](https://quoteinvestigator.com/2014/05/04/adapt/) to tame the one above.
 - [Early-career setback and future career impact](https://www.nature.com/articles/s41467-019-12189-3) - `Despite an early setback, individuals with near misses systematically outperform those with narrow wins in the longer run.`.
 - [Huge success in business is largely based on luck](https://theconversation.com/huge-success-in-business-is-largely-based-on-luck-new-research-130843) - `Management research and education should focus on prescriptive theories that can help business practitioners move from “incompetent to OK”, rather than focusing on those that address how to move from “good to great”.`.
 - [How Complex Systems Fail](https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) - `Short treatise on the nature of failure; how failure is evaluated; how failure is attributed to proximate cause; and the resulting new understanding of patient safety`.
