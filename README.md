@@ -26,6 +26,7 @@ It is on this substrate that I crafted my management style, as I found anchoring
 - [Cognitive Tools](#cognitive-tools)
 - [Team Dynamics](#team-dynamics)
 - [Technical Stack](#technical-stack)
+  - [Systems](#systems)
   - [Technology](#technology)
   - [Engineering Practices](#engineering-practices)
   - [Technical Debt](#technical-debt)
@@ -121,6 +122,7 @@ Managers came in all form and shape, and the title and daily activities varies a
 - [Identify what makes a great manager](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/) - Google tried to prove managers don't matter. Instead, it discovered [10 Traits of the Very Best Ones](https://www.inc.com/scott-mautz/google-tried-to-prove-managers-dont-matter-instead-they-discovered-10-traits-of-very-best-ones.html).
 - `Over the years we have developed the policy that it is important for the supervisor to thoroughly know and understand the work of his group.` ([source](https://news.ycombinator.com/item?id=20683609)) - Echoes articles above, that quote is [from David Packard](https://www.amazon.fr/dp/0060845791) (HP co-founder), decades before current [management fad](https://en.wikipedia.org/wiki/Management_fad).
 - [As a product manager, how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
+- `One of your roles is to act as an information filter in both directions` ([source](https://news.ycombinator.com/item?id=19187593)) - Some tips on how to balance the kind of information needs to be shared or muted.
 - [Great PMs don't spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/) - Not on solutions, no. But on customer's problems.
 - [Things I have learnt as the software engineering lead of a multinational](https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/) - Some interesting points here, some others needs to be challenged.
 - [Do engineering managers need to be technical?](https://increment.com/teams/do-engineering-managers-need-to-be-technical/) - Yes. `Looking forward to the next 30 years of management trends, only a few things seem certain: Managers should be technical, and the definition of technical will continue to change.`.
@@ -223,18 +225,16 @@ The absence of coding exercise will left the door open to fraud. OTOH, if elisti
 - [Hanlon's_razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): `Never attribute to malice that which is adequately explained by stupidity.` - My favorite flavor of [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor), critical in defusing paranoia in a highly political setting.
 - [Regression toward the mean](https://en.wikipedia.org/wiki/Regression_toward_the_mean) - Or why after a period of intense euphoria and ambition, things slowly get back to their usual mediocrity.
 - [Locus of control](https://en.wikipedia.org/wiki/Locus_of_control) - A framework on `the degree to which people believe that they have control over the outcome of events in their lives, as opposed to external forces beyond their control.`.
-- [Second-system effect](https://en.wikipedia.org/wiki/Second-system_effect) - `Tendency of small, elegant, and successful systems, to be succeeded by over-engineered, bloated systems`.
-- [Coglode: bite-size behavioral research analysis](https://www.coglode.com) - Mostly applied behavior insights to help you build up strategies and tactics on product, design and planning.
+- [To Get Good, Go After The Metagame](https://commoncog.com/blog/to-get-good-go-after-the-metagame/) - `Every sufficiently interesting game has a metagame above it. This is the game about the game. It is often called 'the meta'. (…) The meta is what you get after you master boring fundamentals. But observing the state of the current meta often reveals what boring fundamentals you need to learn.`.
+- [Coglode: bite-size behavioural research analysis](https://www.coglode.com) - Mostly applied behaviour insights to help you build up strategies and tactics on product, design and planning.
 - `People make bad choices if they're mad or scared or stressed.` - [Disney's Frozen](https://i.pinimg.com/originals/b5/17/97/b5179700050b96f91f63e086e053b5ee.jpg).
 - [I coached CEOs, founders, VCs and other executive: These are the biggest takeaways](https://leowid.com/2019-2) - Excerpt: `We're all just big, complicated bags of emotion walking around; Power comes with the ability to receive a No; Learning to manage your focus, not your time.`.
-- [The Efficiency-Destroying Magic of Tidying Up](https://florentcrivello.com/index.php/2019/09/04/the-efficiency-destroying-magic-of-tidying-up/) - `Efficiency tends to look messy, and good looks tend to be inefficient.`. A reminder that sometimes we should just accept [the messiness of the world](https://github.com/kdeldycke/awesome-falsehood).
 - [Strong Opinions, Weakly Held — a framework for thinking](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364) - `Allow your intuition to guide you to a conclusion, no matter how imperfect — this is the 'strong opinion' part. Then – and this is the 'weakly held' part – prove yourself wrong.`.
 - [Yes, and…](https://en.wikipedia.org/wiki/Yes,_and...) - `A rule-of-thumb in improvisational comedy (…). It is also used in business and other organizations as a principle that improves the effectiveness of the brainstorming process, fosters effective communication, and encourages the free sharing of ideas.`.
 - [Avoiding Intellectual Phase Lock](https://books.google.com/books?id=__CnDwAAQBAJ&lpg=PT21&dq=intellectual%20phase%20lock%20Frank%20Dunnington&pg=PT21#v=onepage&q=intellectual%20phase%20lock%20Frank%20Dunnington&f=false) - Anticipating an important result so much, humans by nature are susceptible to introduce subtle confirmation bias. To combat IPL, you might introduce random unknowns to suppress any attempt to game the system toward the object of your desire. I.e. avoid to cheat yourself to success.
 - [Intellectual Humility Cheat Sheet](https://images.squarespace-cdn.com/content/v1/53419b80e4b0cccdfc3bbcf8/1579371627532-SANUEQ1REPX09L8NE1XM/ke17ZwdGBToddI8pDm48kI9Q46LYBJG1wKj9b7EvhSB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmWp-RWlGnWD_Yv5axNBE_gjfhPXbI2t7MOi3WVleCqN9URFC-c33mY-I6dtTBVWXC/ih-cheat-sheet-v2.jpg) - `is about being open and able to change your mind about important things, and being able to discern when you should.`.
-- `People who excel at software design become convinced that they have a unique ability to understand any kind of system at all, from first principles, without prior training, thanks to their superior powers of analysis. Success in the artificially constructed world of software design promotes a dangerous confidence.` - A reminder of the needs of humility and recognition of limits in our industry, [from a panel on the Moral Economy of Tech](https://idlewords.com/talks/sase_panel.htm).
-- [I thought that using loops was cheating…](https://www.facebook.com/spliceofficial/photos/a.555206991212765/679408552125941/?type=1&theater) - How much is too much? Libraries, wether software or audio loops, are tools. A typical case of [NIH syndrome](https://en.wikipedia.org/wiki/Not_invented_here) transposed to music production.
-- [40 powerful concepts for understanding the world](https://twitter.com/G_S_Bhogal/status/1225561131122597896) - Concepts are named and describe succintly in the tweet thread.
+- [40 powerful concepts for understanding the world](https://twitter.com/G_S_Bhogal/status/1225561131122597896) - Concepts are named and describe succinctly in the tweet thread.
+- [The six ways to influence people](https://www.bakadesuyo.com/2013/06/robert-cialdini-influence/) - 6 universal principles of influence that are used to persuade business professionals: reciprocity, consistency, social proof, getting people to like you, authority and scarcity.
 
 
 ## Team Dynamics
@@ -254,11 +254,21 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 
 ## Technical Stack
 
-You're no longer an engineer. You shouldn't code anymore. Still, your team is responsible for the technical stack and all the processes surrounding it.
+You're no longer an engineer. You shouldn't code anymore. Still, your team is responsible for the systems, technology and all the processes surrounding them.
+
+### Systems
+
+Whatever the technology used behind the scene, we are building systems first.
+
+- [Second-system effect](https://en.wikipedia.org/wiki/Second-system_effect) - `Tendency of small, elegant, and successful systems, to be succeeded by over-engineered, bloated systems`.
+- [The Efficiency-Destroying Magic of Tidying Up](https://florentcrivello.com/index.php/2019/09/04/the-efficiency-destroying-magic-of-tidying-up/) - `Efficiency tends to look messy, and good looks tend to be inefficient.`. A reminder that sometimes we should just accept [the messiness of the world](https://github.com/kdeldycke/awesome-falsehood).
+- `People who excel at software design become convinced that they have a unique ability to understand any kind of system at all, from first principles, without prior training, thanks to their superior powers of analysis. Success in the artificially constructed world of software design promotes a dangerous confidence.` - A reminder of the needs of humility and recognition of limits in our industry, [from a panel on the Moral Economy of Tech](https://idlewords.com/talks/sase_panel.htm).
 
 ### Technology
 
+- [Industry Data Models](http://www.databaseanswers.org/data_models/) - A huge list of database templates to represent any business process.
 - [Choose Boring Technology](http://boringtechnology.club) - `Boring, in the sense that it's well understood.`.
+- [I thought that using loops was cheating…](https://www.facebook.com/spliceofficial/photos/a.555206991212765/679408552125941/?type=1&theater) - How much is too much? Libraries, wether software or audio loops, are tools. A typical case of [NIH syndrome](https://en.wikipedia.org/wiki/Not_invented_here) transposed to music production.
 
 ### Engineering Practices
 
