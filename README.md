@@ -111,6 +111,7 @@ Executives are the senior/highest management layers of a company. They reports t
 In tech companies these roles are critical, and the frontier between the two is often blurry.
 
 - [CTO vs VP Engineering: What’s the Difference?](https://www.ivyexec.com/career-advice/2015/cto-versus-vp-engineering-whats-the-difference/) - TL;DR: CTO manage a small staff of hackers. VP of Engineering lead an organization of engineers.
+- [Want to Know the Difference Between a CTO and a VP Engineering?](https://bothsidesofthetable.com/want-to-know-the-difference-between-a-cto-and-a-vp-engineering-4fc3750c596b) - Another way to look at thing: placing these roles along the "Process Orientation" and "Technical Capability" quadrants.
 - [The different skills needed to be a successful CTO](https://madewithlove.be/one-job-many-roles-the-different-skills-needed-to-be-a-successful-cto/) - The premise is a little misleading, as what is detailed there is the journey, in a startup, of the technical founder growing with the company to become a CTO. At which point the position described in the article is not CTO, but VP of Engineering.
 - [`That's usually about the time I nope right out of the interview`](https://news.ycombinator.com/item?id=19188246) - Bad signs of a CTO trying to recruit an engineering manager, or the perils of not believing in hierarchies.
 
@@ -164,6 +165,7 @@ High-growth company will all need to industrialize the hiring process at one poi
 
 - [Job Interviewing Guide](https://www.homerun.co/artofwork/guides/job-interviewing) - A detailed description of a hiring process.
 - [Open Sourced Interview Process](https://github.com/cockroachlabs/open-sourced-interview-process) - Cockroach Labs published their process `to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions.`.
+- [Rethinking the Hiring Process](https://www.karllhughes.com/posts/rethinking-hiring) - `Testing programmers at something they aren’t actually expected to be good at and expecting to learn something about how they would work at your company is delusional, and I think these kind of interviews only serve to make the hiring team feel smarter and ensure better outcomes for engineers with traditional CS backgrounds.`.
 
 ### Interview
 
