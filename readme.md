@@ -585,3 +585,9 @@ Here we are, at the intersection of power and influence lies the political game.
 - “It was my experience that no single departure had any effect. Mass departures did, trends did, but one person never did, even when that person was a founder.” ([source](https://news.ycombinator.com/item?id=4324615)).
 - [How to discipline overeager engineer](https://workplace.stackexchange.com/questions/145709/how-to-discipline-overeager-engineer) - Over-achieving talent is looking for a management promotion. Management does not recognize effort. Engineer become disgruntled and management is looking to discipline him. A case-study of a bad situation in which both side shows clumsiness.
 - [Management Challenges for the 21st Century - Managing Oneself](http://academic.udayton.edu/lawrenceulrich/LeaderArticles/Drucker%20Managing%20Oneself.pdf) - “There is a great deal of talk today about the "mid-life crisis" of the executive. It is mostly boredom. At age forty-five most executives have reached the peak of their business career and know it.” In paragraph V, you'll find why knowledge workers needs to manage themselves, and plan for the second half of their life.
+
+
+## Contributing
+
+Your contributions are always welcome! Please take a look at the
+[contribution guidelines](./.github/contributing.md) first.
