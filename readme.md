@@ -239,6 +239,7 @@ The absence of coding exercise will left the door open to fraud. OTOH, if elitis
 - [Intellectual Humility Cheat Sheet](https://images.squarespace-cdn.com/content/v1/53419b80e4b0cccdfc3bbcf8/1579371627532-SANUEQ1REPX09L8NE1XM/ke17ZwdGBToddI8pDm48kI9Q46LYBJG1wKj9b7EvhSB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmWp-RWlGnWD_Yv5axNBE_gjfhPXbI2t7MOi3WVleCqN9URFC-c33mY-I6dtTBVWXC/ih-cheat-sheet-v2.jpg) - “is about being open and able to change your mind about important things, and being able to discern when you should.”
 - [40 powerful concepts for understanding the world](https://twitter.com/G_S_Bhogal/status/1225561131122597896) - Concepts are named and describe succinctly in the tweet thread.
 - [The six ways to influence people](https://www.bakadesuyo.com/2013/06/robert-cialdini-influence/) - 6 universal principles of influence that are used to persuade business professionals: reciprocity, consistency, social proof, getting people to like you, authority and scarcity.
+- [On Bullshit](http://ruby.fgcu.edu/courses/twimberley/EnviroPhilo/bullshit.pdf) - This [HN comment](https://news.ycombinator.com/item?id=23147605) perfectly describes the concept. “Unlike lying/fraud, where falsehood is instrumental, Frankfurt defined bullshit as potentially false speech where the truth *simply wasn't important*. Bullshit is characterized by giving the *surface appearance* of confidence, intelligence, or a convincing argument; whether it's actually true or not is besides the point.”
 
 
 ## Team Dynamics
