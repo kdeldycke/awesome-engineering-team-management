@@ -346,6 +346,7 @@ On how to focus on user's problem to have your product delivers value.
 
 - [The product roadmap is dead: welcome to the age of problem roadmaps](https://medium.com/product-managers-at-work/the-product-roadmap-is-dead-welcome-to-the-age-of-problem-roadmaps-7c7745ac8ae0) - “Fall in love with your problems and not with your solutions.”
 - [Kasparov's Law](https://curatedintelligence.com/2017/10/20/kasparovs-law/) - Weak human + Machine > Machine > Strong Human.
+- [The Psychology of Design](https://growth.design/psychology/) - An extensive list of cognitive biases and design principles with examples and tips to fine-tune your product and UX.
 
 ### Product Strategy
 
