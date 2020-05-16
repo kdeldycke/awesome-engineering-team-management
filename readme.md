@@ -219,6 +219,7 @@ The absence of coding exercise will left the door open to fraud. OTOH, if elitis
 - “If you cannot disrupt a perverted culture by introducing a new culture, the politics of the perverted culture will work against you until you break, align, or leave. It is not unwise to leave before you break and it is easier to leave before you align.” ([source](https://news.ycombinator.com/item?id=20914779)) - At one point, even with the most unselfish of intentions, your attempts to elevate the culture might stall. It is not fair, but it's probably the time to leave.
 - [Netflix Culture](https://www.slideshare.net/reed2001/culture-1798664) - “The actual company values, as opposed to the nice-sounding values, are shown by who gets rewarded, promoted, or let go.”
 - [High Performance Organizations Reading List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List) - A list of books, web pages, and videos about how to design better organizations, divided into 3 categories: organization and motivation, health and wellness, and software development specific.
+- [A Conversation with Werner Vogels, Learning from the Amazon technology platform](https://queue.acm.org/detail.cfm?id=1142065) - Scaling systems is not only a technical challenge. It has to be about teams and culture too. One lesson learned from the early days of AWS: “Giving developers operational responsibilities has greatly enhanced the quality of the services, both from a customer and a technology point of view. (…) You build it, you run it.”
 
 
 ## Cognitive Tools
