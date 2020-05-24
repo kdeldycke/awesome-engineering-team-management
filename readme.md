@@ -324,6 +324,7 @@ In a team, the Product Manager is supposed to be the "voice of the market". Here
 - [Awesome Product Management](https://github.com/dend/awesome-product-management) - A reference. All the missing pieces are found below.
 - [Open Product Management](https://github.com/tron1991/open-product-management) - Resources, interviews, case studies, sample products & projects, communities, open source tools, free & paid services on product management, for technical people to learn the field.
 - [Things Many People Find Too Obvious To Have Told You Already](https://twitter.com/patio11/status/936615043126370306) - A set of heuristics on tech companies and the ecosystem they live in.
+- [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - Helps solve practical tasks like: finding beta testers, growing first user base, and makes people talks about you product.
 - [How to exit vim, the Product Manager way](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
 
 ### Hiring PMs
