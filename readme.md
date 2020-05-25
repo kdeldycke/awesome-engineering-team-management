@@ -595,6 +595,8 @@ Here we are, at the intersection of power and influence lies the political game.
 
 ## Exits
 
+Sometimes, you just have to call it quits.
+
 - [Why I Rejected My Manager](https://medium.com/personal-growth/why-i-rejected-my-manager-b2273e354462) - “I understand now why the saying is: people leave managers, not companies.”
 - [Colleague is leaving. How to investigate what went wrong?](https://news.ycombinator.com/item?id=20786755) - “Most of the time people leave bosses, not the job or the company.” And why you're unlikely to get any substantial insights from exit interviews. ([source](https://news.ycombinator.com/item?id=20787874))
 - “‘People do get pissed off in clusters’ is the best description of a team/company meltdown that I've ever seen.” ([source](https://news.ycombinator.com/item?id=19755001))
