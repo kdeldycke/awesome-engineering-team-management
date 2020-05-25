@@ -36,8 +36,9 @@ It is on this substrate that I crafted my management style, as I found anchoring
 - [Product Management](#product-management)
   - [Hiring PMs](#hiring-pms)
   - [Product-Market Fit](#product-market-fit)
-  - [User-Centered Design](#user-centered-design)
   - [Product Strategy](#product-strategy)
+  - [User-Centered Design](#user-centered-design)
+  - [Product Marketing](#product-marketing)
 - [Project Management](#project-management)
   - [Specifications](#specifications)
   - [Estimations](#estimations)
@@ -318,13 +319,12 @@ The environment we work in shapes us. Perks too.
 
 ## Product Management
 
-In a team, the Product Manager is supposed to be the "voice of the market". Here are more links on the role and its reach.
+The Product Manager is supposed to be the *voice of the market*. Here are more links on the role and its reach.
 
 - “You're the broker for a lot of unstructured information and have to fend off all kinds of disruptive influences to land even close to where you're trying to go.” ([source](https://news.ycombinator.com/item?id=19050555))
 - [Awesome Product Management](https://github.com/dend/awesome-product-management) - A reference. All the missing pieces are found below.
 - [Open Product Management](https://github.com/tron1991/open-product-management) - Resources, interviews, case studies, sample products & projects, communities, open source tools, free & paid services on product management, for technical people to learn the field.
 - [Things Many People Find Too Obvious To Have Told You Already](https://twitter.com/patio11/status/936615043126370306) - A set of heuristics on tech companies and the ecosystem they live in.
-- [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - Helps solve practical tasks like: finding beta testers, growing first user base, and makes people talks about you product.
 - [How to exit vim, the Product Manager way](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
 
 ### Hiring PMs
@@ -342,14 +342,6 @@ The first step to validate your product: is the market finding interest in your 
 - [David Rusenko - How To Find Product Market Fit](https://www.youtube.com/watch?v=0LNQxT9LvM0) - “Details the story of how Weebly developed one of the most popular website creation and hosting sites on the web today.”
 - [Fundamentals of Product-Market Fit](https://www.holloway.com/s/rvc-fundamentals-of-product-market-fit) - A complete overview of the concept: what is product-market fit and to measuring it.
 
-### User-Centered Design
-
-On how to focus on user's problem to have your product delivers value.
-
-- [The product roadmap is dead: welcome to the age of problem roadmaps](https://medium.com/product-managers-at-work/the-product-roadmap-is-dead-welcome-to-the-age-of-problem-roadmaps-7c7745ac8ae0) - “Fall in love with your problems and not with your solutions.”
-- [Kasparov's Law](https://curatedintelligence.com/2017/10/20/kasparovs-law/) - Weak human + Machine > Machine > Strong Human.
-- [The Psychology of Design](https://growth.design/psychology/) - An extensive list of cognitive biases and design principles with examples and tips to fine-tune your product and UX.
-
 ### Product Strategy
 
 Where your product lies in the value chain and how to position it in the market.
@@ -360,7 +352,22 @@ Where your product lies in the value chain and how to position it in the market.
 - Windows Vista as a prime example of a [sacrificial lamb product](https://twitter.com/SwiftOnSecurity/status/851861076429991937): a massive unpopular re-architecture required to pave the way for future innovative release. That's the cautionary tale of why you should be ready for intense criticism and adversity, if by chance or fate your wander down the path of monumental changes in a business software.
 - Talking about Vista, Microsoft found out following its unsuccessful launch that [the #1 bug predictor is not technical, it's organizational complexity](https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/).
 - [Osborne effect](https://en.wikipedia.org/wiki/Osborne_effect) - “A social phenomenon of customers canceling or deferring orders for the current soon-to-be-obsolete product as an unexpected drawback of a company's announcing a future product prematurely.” This is the price to pay for hasty marketing actions.
-- [Reverse Engineering A Successful Lifestyle Business](http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/) - Even if it's targeting lifestyle entrepreneur, this article is full of fantastic quote on customer relation, pricing and marketing a product.
+- [Reverse Engineering A Successful Lifestyle Business](http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/) - Targets lifestyle entrepreneur, but still full of fantastic quotes from reference books on customer relation, pricing and marketing a product.
+
+### User-Centered Design
+
+On how to focus on user's problem to have your product delivers value.
+
+- [The product roadmap is dead: welcome to the age of problem roadmaps](https://medium.com/product-managers-at-work/the-product-roadmap-is-dead-welcome-to-the-age-of-problem-roadmaps-7c7745ac8ae0) - “Fall in love with your problems and not with your solutions.”
+- [Kasparov's Law](https://curatedintelligence.com/2017/10/20/kasparovs-law/) - Weak human + Machine > Machine > Strong Human.
+- [The Psychology of Design](https://growth.design/psychology/) - An extensive list of cognitive biases and design principles with examples and tips to fine-tune your product and UX.
+
+### Product Marketing
+
+How to find users, grow your customer base and make people talks about you product.
+
+- [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - Lots of resources to help bootstrap your marketing activies and solve practical tasks.
+- [How the biggest consumer apps got their first 1,000 users](https://www.lennyrachitsky.com/p/how-the-biggest-consumer-apps-got) - How the biggest apps out there started: from going to your user directly (both online and offline), creating FOMO and word-of-mouth, to build a community first and get press.
 
 
 ## Project Management
