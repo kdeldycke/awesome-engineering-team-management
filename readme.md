@@ -32,7 +32,7 @@ It is on this substrate that I crafted my management style, as I found anchoring
   - [Behavioral](#behavioral)
 - [Team Dynamics](#team-dynamics)
 - [Technical Stack](#technical-stack)
-  - [Systems](#systems)
+  - [Complexity](#systems-complexity)
   - [Technology](#technology)
   - [Engineering Practices](#engineering-practices)
   - [Technical Debt](#technical-debt)
@@ -251,6 +251,7 @@ Expansive lists of well-known models and concepts.
 ### Problem Solving
 
 - [First principles and asking why](https://www.theengineeringmanager.com/growth/first-principles-and-asking-why/) - “Our ability to think in abstractions can weaken our judgement, as those abstractions may no longer be as true as they once were. Also a similarly dangerous evolutionary trait is our ability to think in analogy, where we make assumptions based on the comparison of two things that are not actually related.” [Elon Musk explains it better](https://www.youtube.com/watch?v=NV3sBlRgzTI).
+- “People who excel at software design become convinced that they have a unique ability to understand any kind of system at all, from first principles, without prior training, thanks to their superior powers of analysis. Success in the artificially constructed world of software design promotes a dangerous confidence.” - A reminder of the needs of humility and recognition of limits in our industry, [from a panel on the Moral Economy of Tech](https://idlewords.com/talks/sase_panel.htm).
 - [The Art of Powerful Questions - Catalyzing Insight, Innovation, and Action](https://umanitoba.ca/admin/human_resources/change/media/the-art-of-powerful-questions.pdf) - “Leaders believe that they are being paid for fixing problems rather than for fostering breakthrough thinking.”
 
 ### Systems
@@ -291,14 +292,13 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 
 You're no longer an engineer. You shouldn't code anymore. Still, your team is responsible for the systems, technology and all the processes surrounding them.
 
-### Systems
+### Systems Complexity
 
-Whatever the technology used behind the scene, we are building systems first.
+Whatever the technology used behind the scene, we are building systems first, and have to manage its complexity.
 
 - [Second-system effect](https://en.wikipedia.org/wiki/Second-system_effect) - “Tendency of small, elegant, and successful systems, to be succeeded by over-engineered, bloated systems”.
 - [Living with Complexity, by Donald A. Norman](https://www.amazon.com/dp/0262014866) - In which we learn that, based on [Tesler's law of the conservation of complexity](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity), “the total complexity of a system is a constant: as you make the person's interaction simpler, the hidden complexity behind the scenes increases. Make one part of the system simpler, said Tesler, and the rest of the system gets more complex.”.
 - [The Efficiency-Destroying Magic of Tidying Up](https://florentcrivello.com/index.php/2019/09/04/the-efficiency-destroying-magic-of-tidying-up/) - “Efficiency tends to look messy, and good looks tend to be inefficient.” A reminder that sometimes we should just accept [the messiness of the world](https://github.com/kdeldycke/awesome-falsehood).
-- “People who excel at software design become convinced that they have a unique ability to understand any kind of system at all, from first principles, without prior training, thanks to their superior powers of analysis. Success in the artificially constructed world of software design promotes a dangerous confidence.” - A reminder of the needs of humility and recognition of limits in our industry, [from a panel on the Moral Economy of Tech](https://idlewords.com/talks/sase_panel.htm).
 
 ### Technology
 
