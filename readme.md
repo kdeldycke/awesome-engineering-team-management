@@ -24,6 +24,12 @@ It is on this substrate that I crafted my management style, as I found anchoring
 - [Motivation](#motivation)
 - [Culture](#culture)
 - [Cognitive Tools](#cognitive-tools)
+  - [Collections](#collections)
+  - [Explaining](#explaining)
+  - [Problem Solving](#problem-solving)
+  - [Systems](#systems)
+  - [Brainstorming](#brainstorming)
+  - [Behavioral](#behavioral)
 - [Team Dynamics](#team-dynamics)
 - [Technical Stack](#technical-stack)
   - [Systems](#systems)
@@ -225,22 +231,43 @@ The absence of coding exercise will left the door open to fraud. OTOH, if elitis
 
 ## Cognitive Tools
 
-Collection of thinking frameworks to help on decision making, understand systems and solve problems.
+Thinking frameworks and mental models to improve decision making, understand systems and solve problems.
 
+### Collections
+
+Expansive lists of well-known models and concepts.
+
+- [Mental Models: The Best Way to Make Intelligent Decisions](https://fs.blog/mental-models/#military_and_war) - A collection of 109 models 
 - [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.qb3gkdmtk) - Huge compiled list of mental models. Became the basis of book.
-- [First principles and asking why](https://www.theengineeringmanager.com/growth/first-principles-and-asking-why/) - “Our ability to think in abstractions can weaken our judgement, as those abstractions may no longer be as true as they once were. Also a similarly dangerous evolutionary trait is our ability to think in analogy, where we make assumptions based on the comparison of two things that are not actually related.” [Elon Musk explains it better](https://www.youtube.com/watch?v=NV3sBlRgzTI).
-- [The Art of Powerful Questions - Catalyzing Insight, Innovation, and Action](https://umanitoba.ca/admin/human_resources/change/media/the-art-of-powerful-questions.pdf) - “Leaders believe that they are being paid for fixing problems rather than for fostering breakthrough thinking.”
+- [40 powerful concepts for understanding the world](https://twitter.com/G_S_Bhogal/status/1225561131122597896) - Concepts are named and describe succinctly in the tweet thread.
+- [Tools for better thinking](https://untools.co) - “Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.”
+
+### Explaining
+
 - [Hanlon's_razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): “Never attribute to malice that which is adequately explained by stupidity.” - My favorite flavor of [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor), critical in defusing paranoia in a highly political setting.
 - [Regression toward the mean](https://en.wikipedia.org/wiki/Regression_toward_the_mean) - Or why after a period of intense euphoria and ambition, things slowly get back to their usual mediocrity.
 - [Locus of control](https://en.wikipedia.org/wiki/Locus_of_control) - A framework on “the degree to which people believe that they have control over the outcome of events in their lives, as opposed to external forces beyond their control.”
+
+### Problem Solving
+
+- [First principles and asking why](https://www.theengineeringmanager.com/growth/first-principles-and-asking-why/) - “Our ability to think in abstractions can weaken our judgement, as those abstractions may no longer be as true as they once were. Also a similarly dangerous evolutionary trait is our ability to think in analogy, where we make assumptions based on the comparison of two things that are not actually related.” [Elon Musk explains it better](https://www.youtube.com/watch?v=NV3sBlRgzTI).
+- [The Art of Powerful Questions - Catalyzing Insight, Innovation, and Action](https://umanitoba.ca/admin/human_resources/change/media/the-art-of-powerful-questions.pdf) - “Leaders believe that they are being paid for fixing problems rather than for fostering breakthrough thinking.”
+
+### Systems
+
 - [To Get Good, Go After The Metagame](https://commoncog.com/blog/to-get-good-go-after-the-metagame/) - “Every sufficiently interesting game has a metagame above it. This is the game about the game. It is often called 'the meta'. (…) The meta is what you get after you master boring fundamentals. But observing the state of the current meta often reveals what boring fundamentals you need to learn.”
+
+### Brainstorming
+
+- [Yes, and…](https://en.wikipedia.org/wiki/Yes,_and...) - “A rule-of-thumb in improvisational comedy (…). It is also used in business and other organizations as a principle that improves the effectiveness of the brainstorming process, fosters effective communication, and encourages the free sharing of ideas.”
+- [Strong Opinions, Weakly Held — a framework for thinking](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364) - “Allow your intuition to guide you to a conclusion, no matter how imperfect — this is the 'strong opinion' part. Then – and this is the 'weakly held' part – prove yourself wrong.”
+
+### Behavioral
+
 - “People make bad choices if they're mad or scared or stressed.” - [Disney's Frozen](https://i.pinimg.com/originals/b5/17/97/b5179700050b96f91f63e086e053b5ee.jpg).
 - [I coached CEOs, founders, VCs and other executive: These are the biggest takeaways](https://leowid.com/2019-2) - Excerpt: “We're all just big, complicated bags of emotion walking around; Power comes with the ability to receive a No; Learning to manage your focus, not your time.”
-- [Strong Opinions, Weakly Held — a framework for thinking](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364) - “Allow your intuition to guide you to a conclusion, no matter how imperfect — this is the 'strong opinion' part. Then – and this is the 'weakly held' part – prove yourself wrong.”
-- [Yes, and…](https://en.wikipedia.org/wiki/Yes,_and...) - “A rule-of-thumb in improvisational comedy (…). It is also used in business and other organizations as a principle that improves the effectiveness of the brainstorming process, fosters effective communication, and encourages the free sharing of ideas.”
-- [Avoiding Intellectual Phase Lock](https://books.google.com/books?id=__CnDwAAQBAJ&lpg=PT21&dq=intellectual%20phase%20lock%20Frank%20Dunnington&pg=PT21#v=onepage&q=intellectual%20phase%20lock%20Frank%20Dunnington&f=false) - Anticipating an important result so much, humans by nature are susceptible to introduce subtle confirmation bias. To combat IPL, you might introduce random unknowns to suppress any attempt to game the system toward the object of your desire. I.e. avoid to cheat yourself to success.
 - [Intellectual Humility Cheat Sheet](https://images.squarespace-cdn.com/content/v1/53419b80e4b0cccdfc3bbcf8/1579371627532-SANUEQ1REPX09L8NE1XM/ke17ZwdGBToddI8pDm48kI9Q46LYBJG1wKj9b7EvhSB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmWp-RWlGnWD_Yv5axNBE_gjfhPXbI2t7MOi3WVleCqN9URFC-c33mY-I6dtTBVWXC/ih-cheat-sheet-v2.jpg) - “is about being open and able to change your mind about important things, and being able to discern when you should.”
-- [40 powerful concepts for understanding the world](https://twitter.com/G_S_Bhogal/status/1225561131122597896) - Concepts are named and describe succinctly in the tweet thread.
+- [Avoiding Intellectual Phase Lock](https://books.google.com/books?id=__CnDwAAQBAJ&lpg=PT21&dq=intellectual%20phase%20lock%20Frank%20Dunnington&pg=PT21#v=onepage&q=intellectual%20phase%20lock%20Frank%20Dunnington&f=false) - Anticipating an important result so much, humans by nature are susceptible to introduce subtle confirmation bias. To combat IPL, you might introduce random unknowns to suppress any attempt to game the system toward the object of your desire. I.e. avoid to cheat yourself to success.
 - [The six ways to influence people](https://www.bakadesuyo.com/2013/06/robert-cialdini-influence/) - 6 universal principles of influence that are used to persuade business professionals: reciprocity, consistency, social proof, getting people to like you, authority and scarcity.
 - [On Bullshit](http://ruby.fgcu.edu/courses/twimberley/EnviroPhilo/bullshit.pdf) - This [HN comment](https://news.ycombinator.com/item?id=23147605) perfectly describes the concept. “Unlike lying/fraud, where falsehood is instrumental, Frankfurt defined bullshit as potentially false speech where the truth *simply wasn't important*. Bullshit is characterized by giving the *surface appearance* of confidence, intelligence, or a convincing argument; whether it's actually true or not is besides the point.”
 
