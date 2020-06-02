@@ -31,7 +31,7 @@ It is on this substrate that I crafted my management style, as I found anchoring
   - [Brainstorming](#brainstorming)
   - [Behavioral](#behavioral)
 - [Team Dynamics](#team-dynamics)
-- [Technical Stack](#technical-stack)
+- [Engineering](#engineering)
   - [Complexity](#systems-complexity)
   - [Technology](#technology)
   - [Engineering Practices](#engineering-practices)
@@ -288,13 +288,13 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 - [OpenTeams](https://openteam.info) - “Teams can visualize their network of interactions, and also, cross this data with information on a teams demographic, professional, and psychological characteristics.” As manager, make sure these metrics bring positive outcome to the team. It is easy to have them instrumentalized for political reasons.
 
 
-## Technical Stack
+## Engineering
 
-You're no longer an engineer. You shouldn't code anymore. Still, your team is responsible for the systems, technology and all the processes surrounding them.
+You're no longer an engineer. You shouldn't code anymore. Still, your team is responsible for the systems, technology and all the processes surrounding them. You'd better know a bit about engineering tenets.
 
 ### Systems Complexity
 
-Whatever the technology used behind the scene, we are building systems first, and have to manage its complexity.
+Whatever the technical stack, we are building systems first, and have to manage its complexity.
 
 - [Second-system effect](https://en.wikipedia.org/wiki/Second-system_effect) - “Tendency of small, elegant, and successful systems, to be succeeded by over-engineered, bloated systems”.
 - [Living with Complexity, by Donald A. Norman](https://www.amazon.com/dp/0262014866) - In which we learn that, based on [Tesler's law of the conservation of complexity](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity), “the total complexity of a system is a constant: as you make the person's interaction simpler, the hidden complexity behind the scenes increases. Make one part of the system simpler, said Tesler, and the rest of the system gets more complex.”.
@@ -302,14 +302,15 @@ Whatever the technology used behind the scene, we are building systems first, an
 
 ### Technology
 
-- [Industry Data Models](http://www.databaseanswers.org/data_models/) - A huge list of database templates to represent any business process.
 - [Choose Boring Technology](http://boringtechnology.club) - “Boring, in the sense that it's well understood.”
+- [Industry Data Models](http://www.databaseanswers.org/data_models/) - A huge list of database templates to represent any business process.
 - [I thought that using loops was cheating…](https://www.facebook.com/spliceofficial/photos/a.555206991212765/679408552125941/?type=1&theater) - How much is too much? Libraries, wether software or audio loops, are tools. A typical case of [NIH syndrome](https://en.wikipedia.org/wiki/Not_invented_here) transposed to music production.
 
 ### Engineering Practices
 
 - [Code reviews at Google](https://github.com/google/eng-practices/blob/master/review/reviewer/speed.md#why-should-code-reviews-be-fast-why) - “Why Should Code Reviews Be Fast? (…) To optimize for the speed at which a team of developers can produce a product together, as opposed to optimizing for the speed at which an individual developer can write code.”
 - [Google Engineering Practices](https://google.github.io/eng-practices/).
+- [Embedded Rules of Thumb](https://embeddedartistry.com/blog/2018/04/26/embedded-rules-of-thumb/) - Guidelines and heuristics to provide a reasonable approximation of the truth while developing embedded devices. Most also applies to software projects in general.
 
 ### Technical Debt
 
