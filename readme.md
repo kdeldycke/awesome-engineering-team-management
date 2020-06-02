@@ -227,6 +227,7 @@ The absence of coding exercise will left the door open to fraud. OTOH, if elitis
 - [Netflix Culture](https://www.slideshare.net/reed2001/culture-1798664) - “The actual company values, as opposed to the nice-sounding values, are shown by who gets rewarded, promoted, or let go.”
 - [High Performance Organizations Reading List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List) - A list of books, web pages, and videos about how to design better organizations, divided into 3 categories: organization and motivation, health and wellness, and software development specific.
 - [A Conversation with Werner Vogels, Learning from the Amazon technology platform](https://queue.acm.org/detail.cfm?id=1142065) - Scaling systems is not only a technical challenge. It has to be about teams and culture too. One lesson learned from the early days of AWS: “Giving developers operational responsibilities has greatly enhanced the quality of the services, both from a customer and a technology point of view. (…) You build it, you run it.”
+- [The principles of Amazon service-oriented collaboration](https://www.theregister.com/2019/05/14/amazons_away_teams/?page=2) - A compilation of anonymous sources from AWS which ehoes the interview above: “teams are ostensibly autonomous and can make any important decision needed to meet their goals.”
 
 
 ## Cognitive Tools
