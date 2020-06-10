@@ -76,6 +76,7 @@ The first step. The hardest: how to requalify oneself from an Individual Contrib
 
 - You always been a developer. Being offered [a management position is not a promotion. It is a change in career](https://fractio.nl/2014/09/19/not-a-promotion-a-career-change/).
 - [17 Reasons not to be a Manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/) - An article to [discourage the faint-hearted recruits](https://youtu.be/b07887ZzKiw?t=40).
+- [Advice to New Managers: Don't Joke About Firing People](https://staysaasy.com/engineering/2020/06/09/Don%27t-Joke.html) - “The second you became their manager you forfeited the right to joke around in any capacity about their employment at the company.”
 - [Advice to new managers](https://twitter.com/ValaAfshar/status/966125964861280256) - 9 fundamental principles of the behavior required to be a great manager.
 - [Going from Developer to Manager. What should I know or learn?](https://news.ycombinator.com/item?id=18823616)
 - [How to be a Manager – A step-by-step guide to leading a team](https://getweeklyupdate.com/manager-guide) - A full, detailed guide on modern management practices.
