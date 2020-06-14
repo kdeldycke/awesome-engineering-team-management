@@ -551,6 +551,7 @@ It's not only about the salary, but the whole package: equity, bonuses, perks, a
 ### Salary
 
 - [levels.fyi](https://www.levels.fyi) - Compares salary range and compensation charts across big tech companies.
+- [benefits.fyi](https://benefits.fyi) - Same as above, but trying to evaluate the values of benefits accross companies.
 - [L8-L10 salaries at AWS](https://news.ycombinator.com/item?id=21823987).
 
 ### Equity
