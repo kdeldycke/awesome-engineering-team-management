@@ -425,6 +425,7 @@ But don't worry too much, every company has its own definition of the two roles,
 
 Time management and planning starts with estimates, but often degenerates into deadlines.
 
+- [Don’t (guess)timate your projects, forecast with confidence](https://www.reaktor.com/blog/forecasting-method/) - “The problem with spending a lot of time on estimating is that it can feel useful, but often is so inaccurate that it hardly yields much value to the business.” The best we can do is measure and forecast.
 - [Dear Startup: You have no idea how much that costs.](http://kyleprifogle.com/dear-startup/) - “We are completely clueless about how long things should take.” Here is a [trick to handle expectation of unreasonable estimates](https://news.ycombinator.com/item?id=21069178).
 - [Escalation of commitment](https://en.wikipedia.org/wiki/Escalation_of_commitment) - A.k.a. sunk-cost fallacy, or the rational explanation of why the hell do we still irrationally keep investing in a bad project.
 - [Who are you trying to impress with your deadlines?](http://jatins.gitlab.io/me/why-deadline/) - “There are companies where those deadlines are set in stone, and a missed deadline is next to fire. That's when the problem starts.”
