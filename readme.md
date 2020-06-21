@@ -58,6 +58,7 @@ It is on this substrate that I crafted my management style, as I found anchoring
   - [Documentation](#documentation)
   - [Writing](#writing)
   - [Style](#style)
+  - [Presentations](#presentations)
 - [Career](#career)
 - [Compensation](#compensation)
   - [Salary](#salary)
@@ -531,6 +532,10 @@ Once you have the right structure and content thanks to advices above, you can n
 - [The Punctuation Guide](https://www.thepunctuationguide.com) - Simple reference on how (and why) to use these special characters.
 - [Improve Your Writing With The GNU Style Checkers](https://www.linux.com/news/improve-your-writing-gnu-style-checkers/) - How to use `style` and `diction`, two venerable GNU utilities.
 - [JStylo & Anonymouth](https://psal.cs.drexel.edu/index.php/JStylo-Anonymouth) - Authorship attribution analysis tool and evasion (anonymization) framework.
+
+### Presentations
+
+- [Presentation Rules](http://www.jilles.net/perma/2020/06/05/presentation-rules.html) - A set of 16 rules to avoid boring and innefective presentations, and have your message reach your audience.
 
 
 ## Career
