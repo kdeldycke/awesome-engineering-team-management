@@ -52,7 +52,7 @@ It is on this substrate that I crafted my management style, as I found anchoring
 - [Key Performance Indicator (KPI)](#key-performance-indicator-kpi)
 - [Objectives and Key Results (OKR)](#objectives-and-key-results-okr)
 - [Training](#training)
-- [Literacy](#literacy)
+- [Communication](#communication)
   - [Knowledge](#knowledge)
   - [Reading](#reading)
   - [Documentation](#documentation)
@@ -473,11 +473,11 @@ On mentoring, education and learning.
 - [Developer Roadmaps](https://roadmap.sh/roadmaps) - Very high-level guides and paths to learn different practice and tools.
 
 
-## Literacy
+## Communication
 
-It is not only about reading and writing. It encompass all the social practice, context sharing and communication surrounding the activity and production of a team.
+It is not only about reading, writing and talking. It encompass all the social practice and context sharing of the team's activities.
 
-Especially a software team, which will generate a huge amount of knowledge. All this knowledge is fragile and about to be lost for good. Unless you materialization it in the form of writing.
+Especially a software team, which generates a huge amount of knowledge. All this knowledge is fragile and about to be lost for good. Unless you materialization it in the form of writing.
 
 ### Knowledge
 
