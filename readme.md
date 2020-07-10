@@ -48,6 +48,7 @@ It is on this substrate that I crafted my management style, as I found anchoring
 - [Project Management](#project-management)
   - [Specifications](#specifications)
   - [Estimations](#estimations)
+  - [Tickets](#tickets)
 - [Agile](#agile)
 - [Key Performance Indicator (KPI)](#key-performance-indicator-kpi)
 - [Objectives and Key Results (OKR)](#objectives-and-key-results-okr)
@@ -415,7 +416,6 @@ But don't worry too much, every company has its own definition of the two roles,
 - [Let's have no managers, instead of managers with no engineering experience](https://medium.com/hackernoon/lets-have-no-managers-instead-of-managers-with-no-engineering-experience-e8b7cd29d398) - The title is misleading, article's argument is: we don't need *project* managers if we already have *product* managers and scrum masters.
 - [Best project management practices in 2018?](https://news.ycombinator.com/item?id=16377523) - TL;DR: there is no silver bullet.
 - [Strategies for long Projects](http://benbrostoff.github.io/2019/09/28/long-projects.html) - TL;DR: Relentless, irrational optimism; Daily progress documentation; Compounding investments; Time budgeting.
-- [GitHub labels for reuse across projects](https://twitter.com/abdonrd/status/991697736230633474) - Simple yet practical.
 
 ### Specifications
 
@@ -432,6 +432,11 @@ Time management and planning starts with estimates, but often degenerates into d
 - [Escalation of commitment](https://en.wikipedia.org/wiki/Escalation_of_commitment) - A.k.a. sunk-cost fallacy, or the rational explanation of why the hell do we still irrationally keep investing in a bad project.
 - [Who are you trying to impress with your deadlines?](http://jatins.gitlab.io/me/why-deadline/) - “There are companies where those deadlines are set in stone, and a missed deadline is next to fire. That's when the problem starts.”
 - [Apple Aperture: Senior QA](https://techreflect.net/2019/12/10/aperture-senior-qa-2004-2005/) - How not to manage projects approaching deadlines: “cutting finished features, yelling at people, and working people to the point of nervous breakdowns. Then they came upon a brilliant idea: let's steal over a hundred engineers from other teams and then the project will magically get done on time.”
+
+### Tickets
+
+- [There Are No Bugs, Just TODOs](https://almad.blog/essays/no-bugs-just-todos/) - TL;DR: Issue trackers needs to materialize ownership, queue position, state, task breakdown amd aggressive closing. Priority, ticket type, software version, severity and long-life tickets are anti-patterns.
+- [GitHub labels for reuse across projects](https://twitter.com/abdonrd/status/991697736230633474) - Simple yet practical.
 
 
 ## Agile
