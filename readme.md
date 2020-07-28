@@ -544,6 +544,7 @@ Once you have the right structure and content thanks to advices above, you can n
 ### Presentations
 
 - [Presentation Rules](http://www.jilles.net/perma/2020/06/05/presentation-rules.html) - A set of 16 rules to avoid boring and innefective presentations, and have your message reach your audience.
+- [The Greatest Sales Deck I’ve Ever Seen](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0) - “1) Name a Big Change in the World; 2) Show There’ll Be Winners and Losers; 3) Tease the Promised Land; 4) Introduce Features as "Magic Gifts"; 5) Present Evidence that You Can Make the Story Come True”.
 
 
 ## Career
