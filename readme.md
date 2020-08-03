@@ -35,7 +35,7 @@ It is on this substrate that I crafted my management style, as I found anchoring
   - [Behavioral](#behavioral)
 - [Team Dynamics](#team-dynamics)
 - [Engineering](#engineering)
-  - [Complexity](#systems-complexity)
+  - [Systems Complexity](#systems-complexity)
   - [Technology](#technology)
   - [Engineering Practices](#engineering-practices)
   - [Technical Debt](#technical-debt)
