@@ -5,6 +5,9 @@ A compilation of advices, anecdotes, knowledge tidbits, discussions, industry sm
 It is on this substrate that I crafted my management style, as I found anchoring the later with [the usual labels](https://en.wikipedia.org/wiki/Management_style#Types_of_management_styles) is way too limiting and short-sighted. Limiting as management is both of an art and a science. And short-sighted as a style shouldn't be taken at face-value and always be sensible to our fellow humans talents and the business context of the company.
 
 
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
 
 - [Engineering to Management Transition](#engineering-to-management-transition)
@@ -70,6 +73,8 @@ It is on this substrate that I crafted my management style, as I found anchoring
 - [Stress & Burnout](#stress--burnout)
 - [Setbacks and Failures](#setbacks-and-failures)
 - [Exits](#exits)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
 ## Engineering to Management Transition
