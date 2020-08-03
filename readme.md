@@ -317,7 +317,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 - [Choose Boring Technology](http://boringtechnology.club) - “Boring, in the sense that it's well understood.”
 - [Industry Data Models](http://www.databaseanswers.org/data_models/) - A huge list of database templates to represent any business process.
-- [I thought that using loops was cheating…](https://www.facebook.com/spliceofficial/photos/a.555206991212765/679408552125941/?type=1&theater) - How much is too much? Libraries, wether software or audio loops, are tools. A typical case of [NIH syndrome](https://en.wikipedia.org/wiki/Not_invented_here) transposed to music production.
+- [I thought that using loops was cheating…](https://www.facebook.com/spliceofficial/photos/a.555206991212765/679408552125941/?type=1&theater) - How much is too much? Libraries, whether software or audio loops, are tools. A typical case of [NIH syndrome](https://en.wikipedia.org/wiki/Not_invented_here) transposed to music production.
 
 ### Engineering Practices
 
@@ -576,7 +576,7 @@ It's not only about the salary, but the whole package: equity, bonuses, perks, a
 ### Salary
 
 - [levels.fyi](https://www.levels.fyi) - Compares salary range and compensation charts across big tech companies.
-- [benefits.fyi](https://benefits.fyi) - Same as above, but trying to evaluate the values of benefits accross companies.
+- [benefits.fyi](https://benefits.fyi) - Same as above, but trying to evaluate the values of benefits across companies.
 - [L8-L10 salaries at AWS](https://news.ycombinator.com/item?id=21823987).
 
 ### Equity
