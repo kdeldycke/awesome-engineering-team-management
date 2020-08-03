@@ -244,7 +244,7 @@ Thinking frameworks and mental models to improve decision making, understand sys
 
 Expansive lists of well-known models and concepts.
 
-- [Mental Models: The Best Way to Make Intelligent Decisions](https://fs.blog/mental-models/#military_and_war) - A collection of 109 models 
+- [Mental Models: The Best Way to Make Intelligent Decisions](https://fs.blog/mental-models/#military_and_war) - A collection of 109 models
 - [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.qb3gkdmtk) - Huge compiled list of mental models. Became the basis of book.
 - [40 powerful concepts for understanding the world](https://twitter.com/G_S_Bhogal/status/1225561131122597896) - Concepts are named and describe succinctly in the tweet thread.
 - [Tools for better thinking](https://untools.co) - “Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.”
