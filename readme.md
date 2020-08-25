@@ -561,18 +561,34 @@ Once you have the right structure and content thanks to advices above, you can n
 Now that you've proven your worth as a front-line manager, what's the next step? These articles explore the follow-up roles, from managing managers, to director, and everything in between.
 
 - [Work at different management levels](https://larahogan.me/blog/manager-levels/) - A great progressive breakup of what it feels like to work at different levels of management.
+- [My questions for prospective employers (Director/VP roles)](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/) - Be prepared to ask them as a recruiter or being asked about them for senior management roles.
+- [Founder to CEO](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/) - You can build you own career engine, starting as a technical founder of a startup, building a great team, then grow with the company to learn and become a full-fledge CEO. 
+- “Since managers are not tied to a sector (in the way nurses or musicians are), the good ones tend to go where they are payed good money and the bad ones end up wreaking havoc where they are payed at least some money. That, also, is [Baumol](https://en.wikipedia.org/wiki/Baumol%27s_cost_disease) in action.” ([source](https://news.ycombinator.com/item?id=20448929)) - Explains how the pool of professional managers gets distributed into the various sectors of the economy.
+
+## Promotion
+
+Stepping stones advancing a career in a company takes the form of promotions. They unlock raises, bonuses and more responsability. 
+
 - [How do managers get stuck?](http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html) - Identify scenario preventing managers to be promoted at the next level.
 - [The Evolution of Management: Transitioning up the ladder](https://queue.acm.org/detail.cfm?id=3350548) - Describe the path and expectations at each management level.
-- [Founder to CEO](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/) - How to start as a technical founder of a startup, build a great team then grow with the company to learn and become a full-fledge CEO.
-- [My questions for prospective employers (Director/VP roles)](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/) - Great list for senior management roles.
+- [How to discipline overeager engineer](https://workplace.stackexchange.com/questions/145709/how-to-discipline-overeager-engineer) - Over-achieving talent is looking for a management promotion. Management does not recognize effort. Engineer become disgruntled and management is looking to discipline him. A case-study of a bad situation in which both side shows clumsiness.
+- “Most people realize by their 30s that prestige is a sucker's game” ([source](https://news.ycombinator.com/item?id=11833832)) - So not chase promotion for the title only.
+
+## Performance Reviews
+
+Reviews and performance evaluations are the tool of the trade to unlock promotions. As a manager, your going to write and instrument them for your team members to get the raise they deserve. And getting through them as any other employee to advance your career. 
+
 - [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) - There's this idea that, if you do great work at your job, people will (or should!) automatically recognize that work and reward you for it with promotions / increased pay. In practice, it's often more complicated than that.
-- “Since managers are not tied to a sector (in the way nurses or musicians are), the good ones tend to go where they are payed good money and the bad ones end up wreaking havoc where they are payed at least some money. That, also, is [Baumol](https://en.wikipedia.org/wiki/Baumol%27s_cost_disease) in action.” ([source](https://news.ycombinator.com/item?id=20448929)).
-- “Most people realize by their 30s that prestige is a sucker's game” ([source](https://news.ycombinator.com/item?id=11833832)).
+- [Incentive Pay Considered Harmful](https://www.joelonsoftware.com/2000/04/03/incentive-pay-considered-harmful/) - “Incentives (or bribes) simply can't work in the workplace. (…) Most software managers have no choice but to go along with performance review systems that are already in place. If you're in this position, the only way to prevent teamicide is to simply give everyone on your team a gushing review”.
+- “If anything in your performance review is a surprise, then I have failed as a manager.” ([source](https://news.ycombinator.com/item?id=17249767)).
+- “This is what I loved about working at Netflix. We didn't have performance reviews. It was assumed that your performance was good to excellent, otherwise you wouldn't be working there anymore. You had a constant feedback loop with your manager on performance, but nothing was ever formal.” ([source](https://news.ycombinator.com/item?id=23861960)).
+- “The system a software developer works in shapes their performance so much more than individual differences.” ([source](https://news.ycombinator.com/item?id=21972033)).
+- [Performance review generator](https://mschmitt.org/performance/) - Tired of writing reviews? Automate it!
 
 
 ## Compensation
 
-It's not only about the salary, but the whole package: equity, bonuses, perks, and the dealings around all of these. As a manager, writing reviews and performance evaluations are the tool of the trade for your team members to get a raise.
+It's not only about the salary, but the whole package: equity, bonuses, perks, and the dealings around all of these.
 
 ### Salary
 
@@ -586,14 +602,6 @@ It's not only about the salary, but the whole package: equity, bonuses, perks, a
 - [On VC funding and huge growth](https://news.ycombinator.com/item?id=17448035) - “Startups need an exit strategy. (…) The idea is to raise money fast, hire experienced people for ancillary services and develop the application in a way so that it is able to hold up till IPO. Defer all costs for post IPO.” TL;DR: the only reason to join a startup is for future money windfall.
 - [Equity Compensation](https://www.holloway.com/g/equity-compensation) - Stock options, RSUs, job offers, and taxes—a detailed reference, including hundreds of resources, explained from the ground up and made to be improved over time.
 - “Public RSUs for stock you can sell immediately on the open market are fantastic.” ([source](https://news.ycombinator.com/item?id=22386728)).
-
-### Performance Reviews
-
-- [Incentive Pay Considered Harmful](https://www.joelonsoftware.com/2000/04/03/incentive-pay-considered-harmful/) - “Incentives (or bribes) simply can't work in the workplace. (…) Most software managers have no choice but to go along with performance review systems that are already in place. If you're in this position, the only way to prevent teamicide is to simply give everyone on your team a gushing review”.
-- “If anything in your performance review is a surprise, then I have failed as a manager.” ([source](https://news.ycombinator.com/item?id=17249767)).
-- “This is what I loved about working at Netflix. We didn't have performance reviews. It was assumed that your performance was good to excellent, otherwise you wouldn't be working there anymore. You had a constant feedback loop with your manager on performance, but nothing was ever formal.” ([source](https://news.ycombinator.com/item?id=23861960)).
-- “The system a software developer works in shapes their performance so much more than individual differences.” ([source](https://news.ycombinator.com/item?id=21972033)).
-- [Performance review generator](https://mschmitt.org/performance/) - Tired of writing reviews? Automate it!
 
 
 ## Politics
@@ -663,7 +671,6 @@ Sometimes, you just have to call it quits.
 - “Something I've seen multiple times is that, when a VP leaves, a company will become a substantially worse place to work, and it will slowly dawn on people that the VP was doing an amazing job at supporting not only their direct reports, but making sure that everyone under them was having a good time.” ([source](https://danluu.com/wat/#fn:P))
 - “Next time your favorite manager and tech lead quit the company, ask them why.” ([source](https://news.ycombinator.com/item?id=21767843)).
 - “It was my experience that no single departure had any effect. Mass departures did, trends did, but one person never did, even when that person was a founder.” ([source](https://news.ycombinator.com/item?id=4324615)).
-- [How to discipline overeager engineer](https://workplace.stackexchange.com/questions/145709/how-to-discipline-overeager-engineer) - Over-achieving talent is looking for a management promotion. Management does not recognize effort. Engineer become disgruntled and management is looking to discipline him. A case-study of a bad situation in which both side shows clumsiness.
 - [Management Challenges for the 21st Century - Managing Oneself](http://academic.udayton.edu/lawrenceulrich/LeaderArticles/Drucker%20Managing%20Oneself.pdf) - “There is a great deal of talk today about the "mid-life crisis" of the executive. It is mostly boredom. At age forty-five most executives have reached the peak of their business career and know it.” In paragraph V, you'll find why knowledge workers needs to manage themselves, and plan for the second half of their life.
 
 
