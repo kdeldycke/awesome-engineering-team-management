@@ -260,7 +260,7 @@ Expansive lists of well-known models and concepts.
 
 ### Explaining
 
-- [Hanlon's_razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): “Never attribute to malice that which is adequately explained by stupidity.” - My favorite flavor of [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor), critical in defusing paranoia in a highly political setting.
+- [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): “Never attribute to malice that which is adequately explained by stupidity.” - My favorite flavor of [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor), critical in defusing paranoia in a highly political setting.
 - [Regression toward the mean](https://en.wikipedia.org/wiki/Regression_toward_the_mean) - Or why after a period of intense euphoria and ambition, things slowly get back to their usual mediocrity.
 - [Locus of control](https://en.wikipedia.org/wiki/Locus_of_control) - A framework on “the degree to which people believe that they have control over the outcome of events in their lives, as opposed to external forces beyond their control.”
 
