@@ -123,6 +123,7 @@ Executives are the senior/highest management layers of a company. They reports t
 - “These are the things we [marketers] used to do with individuals and bodies. They've all become automated. The CIO is the marketing chief now.” - [Regis McKenna](https://en.wikipedia.org/wiki/Regis_McKenna), from [2017's Silicon Valley Leaders Symposium](https://youtu.be/5Z13NI0SuyA?t=2026).
 - [Narcissistic CEOs Weaken Collaboration and Integrity](https://www.gsb.stanford.edu/insights/narcissistic-ceos-weaken-collaboration-integrity) - “The prototypic visionary leader profile is so similar to that of a narcissist, if boards aren't careful, they're going to end up choosing people who are narcissistic as CEOs”.
 - “Hiring isn't the challenge. The challenge is finding people who can be effective while working for executives whose only qualifications and training are narcissistic levels of self confidence.” ([source](https://twitter.com/kellan/status/1205113384632500224)).
+- “The CEO positions himself as a controlling, micromanaging individual at the center of everything. This makes it possible for the CEO to intercept financials and other crucial numbers en route to people who might catch on.” ([source](https://news.ycombinator.com/item?id=24519247)) - Or how fraud can endure at the top level. That's generally why you need a board of directors as an oversight.
 
 ### CTO & VP of Engineering
 
