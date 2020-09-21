@@ -23,6 +23,8 @@ I crafted my management style on this substrate, as I did not recognized my expe
   - [Coding Challenge](#coding-challenge)
   - [Negotiation](#negotiation)
 - [Motivation](#motivation)
+  - [Happiness](#happiness)
+  - [Procrastination](#procrastination)
 - [Culture](#culture)
 - [Cognitive Tools](#cognitive-tools)
   - [Collections](#collections)
