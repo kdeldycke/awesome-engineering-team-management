@@ -183,7 +183,6 @@ By targetting the right place to post your job offer to, you're increasing your 
 - [Awesome Job Boards](https://github.com/tramcar/awesome-job-boards) - Niche job boards by domains, technology, roles and area.
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
 - [TechMeAbroad](https://techmeabroad.com) - List job posts from tech startups and tech companies who will recruit from abroad.
-- [Jobs in Tech](https://www.jobsintech.io) - Simple website made by developers for tech people.
 
 ### Hiring Process
 
