@@ -157,7 +157,6 @@ Managers came in all form and shape, and the title and daily activities varies a
 - [Devs I really enjoy pairing with](https://twitter.com/ScribblingOn/status/1002598672444448768).
 - [All the best engineering advice I stole from non-technical people](https://medium.com/@bellmar/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f) - “It's intriguing that the stuff that really seems to make a difference in the quality of software never seems to be about software.”
 - [What Makes A Great Software Engineer?](https://faculty.washington.edu/ajko/papers/Li2015GreatEngineers.pdf) - Doesn't conclude on a definitive answer to the question, but details a model based on 53 attributes (!). Still a good source referencing other papers on the topic.
-- [What makes developers happy? Contributing to open source](https://www.techrepublic.com/article/what-makes-developers-happy-contributing-to-open-source/) - “TL;DR: 59% of developers contribute to open source software today. Why do they contribute? The top two reasons are: To improve coding skills and because they believe in open source. Want to keep those developers happy and employed with you? Let them contribute.”
 - [How I operated as a Staff engineer at Heroku](https://amyunger.com/blog/2020/09/10/staff-engineer-at-heroku.html) - A great window into the somewhat nebulous title of Staff Engineer, also called Principal Engineer or Software Architect at times. I.e. a role in which you are a technical expert, but know how to solve non-obvious engineering issues, most of the time because they are rooted in social, communications and hierarchical complexities.
 
 ### Consultants
@@ -221,10 +220,17 @@ A critical step to close up the hiring process.
 
 - [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc) - Daniel Pink summarizes it concisely: people are motivated by autonomy, mastery and purpose.
 - Reflecting on the postulates above, [Bryan Cantrill defines that the role of management](https://twitter.com/bcantrill/status/1216491615264489473?s=20) “is in constructing that environment, not micromanaging it. If engineering performance is suffering, it's (likely) a management problem: wrong problem, wrong mission, or wrong team -- or all three.”
+- [Some reasons why enterprise software is good and maybe even fun](https://news.ycombinator.com/item?id=21231455) - The majority of us will not build the next unicorn: we statically have a better chance to build enterprise software. The twist? It might even be more interesting than you expect.
+
+### Happiness
+
+- [What makes developers happy? Contributing to open source](https://www.techrepublic.com/article/what-makes-developers-happy-contributing-to-open-source/) - “TL;DR: 59% of developers contribute to open source software today. Why do they contribute? The top two reasons are: To improve coding skills and because they believe in open source. Want to keep those developers happy and employed with you? Let them contribute.”
+- “My team tracks life impact as a metric (pages outside business hours) and works to drive that down to zero.” ([source](https://twitter.com/dwc/status/962179099606200320)) - Maybe the best indicator of a happy team is how little it is disturbed outside office hours.
+
+### Procrastination
+
 - [3 tricks to start working despite not feeling like it](https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feeling-like-it) - “‘Screw it, let's do it’; Start sloppy; Start small”.
 - [Why procrastination is about managing emotions, not time](https://www.bbc.com/worklife/article/20200121-why-procrastination-is-about-managing-emotions-not-time) - “Research shows that once the first step is made towards a task, following through becomes easier”.
-- [Some reasons why enterprise software is good and maybe even fun](https://news.ycombinator.com/item?id=21231455) - The majority of us will not build the next unicorn: we statically have a better chance to build enterprise software. The twist? It might even be more interesting than you expect.
-- [US spy manual has tips for coping with toxic bosses](https://qz.com/work/1717297/how-to-cope-with-a-toxic-boss-according-to-a-us-spy-manual-from-wwii/) - Derived from WWII-era [Simple Sabotage Field Manual](https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/CleanedUOSSSimpleSabotage_sm.pdf), a classic read to spot harassing and demoralizing behaviors.
 
 ## Culture
 
@@ -455,7 +461,6 @@ KPIs are a set of quantitative measurements at the team or organizational level,
 
 - “Numerical goals set for other people, without a road map to reach the goal, have effects opposite to the effects sought.” - [W. Edwards Deming](https://quotes.deming.org/authors/W._Edwards_Deming/quote/2068-2)
 - [SRE fundamentals: SLIs, SLAs and SLOs](https://cloudplatform.googleblog.com/2018/07/sre-fundamentals-slis-slas-and-slos.html) - If you are in the business of cloud services, these metrics are certainly great KPIs.
-- “My team tracks life impact as a metric (pages outside business hours) and works to drive that down to zero.” ([source](https://twitter.com/dwc/status/962179099606200320)) - Maybe the best indicator of a happy team is how little it is disturbed outside office hours.
 - [The 4 Worst Software Metrics Agitating Developers in 2019](https://www.gitclear.com/blog/the_4_worst_software_metrics_agitating_developers_in_2019) - The worst KPIs to track a software team output: Lines of Code, Commit Count, Issues Resolved (aka “Shipping Velocity”) and Code Churn (aka "Efficiency").
 
 ## Objectives and Key Results (OKR)
@@ -606,6 +611,7 @@ Here we are, at the intersection of power and influence lies the political game.
 - “In a highly political environment there are two ways to create change, one is through overt manipulation, which is to collect political power to yourself and then exert it to enact change, and the other is covert manipulation, which is to enact change subtly enough that the political organism doesn't react. (sometimes called "triggering the antibodies").” ([source](https://news.ycombinator.com/item?id=5541517)).
 - [Power Bends Light](https://honkathon.com/2019-08-18-power-bends-light/) - “Most things at most startups are perpetually on fire, but if you can accept that, there is a lot to like. One well-known one: at a fast-growing startup, a hard-working, talented person who has some support from company leadership can often acquire an impressive title (or at least a lot of de facto power) very quickly.”
 - “It's common to promote someone to just get rid of that person :) Sometimes promoting is just easier that firing.” ([source](https://news.ycombinator.com/item?id=21767734)).
+- [US spy manual has tips for coping with toxic bosses](https://qz.com/work/1717297/how-to-cope-with-a-toxic-boss-according-to-a-us-spy-manual-from-wwii/) - Derived from WWII-era [Simple Sabotage Field Manual](https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/CleanedUOSSSimpleSabotage_sm.pdf), a classic read to spot harassing and demoralizing behaviors.
 
 ## Re-organizations
 
