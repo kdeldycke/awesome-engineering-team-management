@@ -72,7 +72,10 @@ I crafted my management style on this substrate, as I did not recognized my expe
   - [Equity](#equity)
 - [Politics](#politics)
 - [Re-organizations](#re-organizations)
-- [Stress & Burnout](#stress--burnout)
+- [Health](#health)
+  - [Holidays](#holidays)
+  - [Stress](#stress)
+  - [Burnout](#burnout)
 - [Setbacks and Failures](#setbacks-and-failures)
 - [Exits](#exits)
 
