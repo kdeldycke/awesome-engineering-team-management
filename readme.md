@@ -566,6 +566,7 @@ Stepping stones advancing a career in a company takes the form of promotions. Th
 
 - [How do managers get stuck?](http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html) - Identify scenario preventing managers to be promoted at the next level.
 - [The Evolution of Management: Transitioning up the ladder](https://queue.acm.org/detail.cfm?id=3350548) - Describe the path and expectations at each management level.
+- [If management isn't a promotion, then engineering isn't a demotion](https://charity.wtf/2020/09/06/if-management-isnt-a-promotion-then-engineering-isnt-a-demotion/) - This essay deconstruct why management ends up being seen as a promotion, how its new acquired privileges and powers creates an implicit hierarchy, which in turns creates bad incentives because of loss aversion. At the end, the only way forwards is to change the organization's culture.
 - [How to discipline overeager engineer](https://workplace.stackexchange.com/questions/145709/how-to-discipline-overeager-engineer) - Over-achieving talent is looking for a management promotion. Management does not recognize effort. Engineer become disgruntled and management is looking to discipline him. A case-study of a bad situation in which both side shows clumsiness.
 - “Most people realize by their 30s that prestige is a sucker's game” ([source](https://news.ycombinator.com/item?id=11833832)) - So not chase promotion for the title only.
 
