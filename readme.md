@@ -223,6 +223,7 @@ A critical step to close up the hiring process.
 
 How to get newcomers up to speed with the rest of the team you manage. And how to introduce yourself to teams you just joined or inherited.
 
+- [Optimize Onboarding](https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html) - “Your organization has painfully slow onboarding. Endless HR videos, slow security processes, a mountain of fragile technology setup - these all make for a shitty and counterproductive start at a company. Optimize your onboarding to get people doing what you hired them to do.”
 - [As a manager of a new employee I make an absolute point of being a "helicopter mom" from the moment they hit the area until about week 2 or 3](https://news.ycombinator.com/item?id=24404676) - Navigating a new organization will be hard the first few weeks, and the presence of a manager can help speed things up.
 - [A Career Cold Start Algorithm](https://boz.com/articles/career-cold-start) - The author developed an algorithm to ramp-up quickly when joining an existing team where he had a massive knowledge deficit and no pre-existing relationships.
 - [Meeting everyone on a new team](https://www.annashipman.co.uk/jfdi/meeting-everyone.html) - Right after inheriting a position at the top of an organization of 50 engineers, the author bootstraped the relationship with that big team by meeting everyone in 30 minutes 1:1s. It was a huge time investment, and despite fears of being boring, it allows for recognizing patterns of what change was needed.
