@@ -174,11 +174,13 @@ Managers came in all form and shape, and the title and daily activities varies a
 
 ## Recruitment
 
-You'll be on the two sides of the hiring process: as a candidate to get a job, and as a recruiter to staff up your team.
+You're in a competitive sector in which talents are in high demand. Be prepared as a manager to spend a lot of time recruiting people, either to expand your team or fill-in open positions. The dynamics now gets interesting too, now that you are on both sides of the hiring process: as a candidate to get a job, and as a recruiter to staff up your team.
 
 ### Job Boards
 
-- [Awesome Job Boards](https://github.com/tramcar/awesome-job-boards) - Find the best place to post your job offer to.
+By targetting the right place to post your job offer to, you're increasing your chances of targetting the right candidates.
+
+- [Awesome Job Boards](https://github.com/tramcar/awesome-job-boards) - Niche job boards by domains, technology, roles and area.
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
 - [TechMeAbroad](https://techmeabroad.com) - List job posts from tech startups and tech companies who will recruit from abroad.
 - [Jobs in Tech](https://www.jobsintech.io) - Simple website made by developers for tech people.
@@ -187,7 +189,9 @@ You'll be on the two sides of the hiring process: as a candidate to get a job, a
 
 High-growth company will all need to industrialize the hiring process at one point.
 
-- [Job Interviewing Guide](https://www.homerun.co/artofwork/guides/job-interviewing) - A detailed description of a hiring process.
+- [Hire people who aren't proven](https://leonardofed.io/blog/startups-hiring.html) - If anyone else in the world can objectively assess a candidate to be a great player, then you and your startup won't be able to hire the player. Someone will steal the candidate from you. That's why you have to go after people that aren't proven. In short, you need to be extremely good at forecasting talent.
+- [Why I Never Hire Brilliant Men](https://en.wikisource.org/wiki/Why_I_Never_Hire_Brilliant_Men) - 5 simple rules for hiring men, from 1924. Things haven't changed a lot in a century.
+- [Job Interviewing Guide](https://www.homerun.co/artofwork/guides/job-interviewing) - A detailed description of a hiring process, a great source of inspiration for when your company gets big enough to start to formalize things up.
 - [Open Sourced Interview Process](https://github.com/cockroachlabs/open-sourced-interview-process) - Cockroach Labs published their process “to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions.”
 - [Rethinking the Hiring Process](https://www.karllhughes.com/posts/rethinking-hiring) - “Testing programmers at something they aren't actually expected to be good at and expecting to learn something about how they would work at your company is delusional, and I think these kind of interviews only serve to make the hiring team feel smarter and ensure better outcomes for engineers with traditional CS backgrounds.”
 
@@ -195,9 +199,6 @@ High-growth company will all need to industrialize the hiring process at one poi
 
 List of questions that can be used when vetting potential candidates, and topics to draw inspiration from to be used as conversation starters.
 
-- [Hire people who aren't proven](https://leonardofed.io/blog/startups-hiring.html) - If anyone else in the world can objectively assess a candidate to be a great player, then you and your startup won't be able to hire the player. Someone will steal the candidate from you. That's why you have to go after people that aren't proven. In short, you need to be extremely good at forecasting talent.
-- [Why I Never Hire Brilliant Men](https://en.wikisource.org/wiki/Why_I_Never_Hire_Brilliant_Men) - 5 simple rules for hiring men, from 1924. Things haven't changed a lot in a century.
-- [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html) - “When it comes to writing code, the number one most important skill is how to keep a tangle of features from collapsing under the weight of its own complexity.”
 - [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A great source of inspiration.
 - [Reverse interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview. Be prepared to answer them as a manager.
 - [Culture Queries](https://www.keyvalues.com/culture-queries) - A sample of question to ask in job interviews to try to understand the values of a company.
@@ -209,6 +210,7 @@ List of questions that can be used when vetting potential candidates, and topics
 
 The absence of coding exercise will left the door open to fraud. OTOH, if elitist challenges decrease the number of false-positive, you'll pass on perfectly capable and great developers. Now it is your job as manager to find balance between these two extremes, and set the tone on how to have the candidate demonstrate coding skills.
 
+- [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html) - “When it comes to writing code, the number one most important skill is how to keep a tangle of features from collapsing under the weight of its own complexity.”
 - [The Horrifically Dystopian World of Software Engineering Interviews](https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews) - The dark side on relying too much on algorithm challenges.
 - [Fizz Buzz Test](https://wiki.c2.com/?FizzBuzzTest) - “Designed to help filter out the 99.5% of programming job candidates who can't seem to program their way out of a wet paper bag.”
 - [FizzBuzz 2.0: Pragmatic Programming Questions for Software Engineers](https://triplebyte.com/blog/fizzbuzz-2-0-pragmatic-programming-questions-for-software-engineers) - Or how five multiple-choice questions easily separate the real software engineers from the rest.
@@ -216,6 +218,8 @@ The absence of coding exercise will left the door open to fraud. OTOH, if elitis
 - [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - A huge database of questions sorted by topic to get inspiration from.
 
 ### Negotiation
+
+A critical step to close up the hiring process.
 
 - [How Not to Bomb Your Offer Negotiation](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/) - “A good negotiator is empathetic and collaborative. They don't try to control you or issue ultimatums. Rather, they try to think creatively about how to fulfill both your and their needs.”
 - [How to answer the “What's your current salary?” job interview question](https://42hire.com/how-to-answer-the-whats-your-current-salary-job-interview-question-486254cb59ad#.izg4ips52) - This article explain the dynamic of that sneaky question and how to defuse it.
