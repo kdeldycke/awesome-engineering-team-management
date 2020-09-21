@@ -22,6 +22,7 @@ I crafted my management style on this substrate, as I did not recognized my expe
   - [Interview](#interview)
   - [Coding Challenge](#coding-challenge)
   - [Negotiation](#negotiation)
+- [Onboarding](#onboarding)
 - [Motivation](#motivation)
   - [Happiness](#happiness)
   - [Procrastination](#procrastination)
