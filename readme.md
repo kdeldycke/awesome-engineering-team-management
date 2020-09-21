@@ -160,7 +160,6 @@ Managers came in all form and shape, and the title and daily activities varies a
 - [What makes developers happy? Contributing to open source](https://www.techrepublic.com/article/what-makes-developers-happy-contributing-to-open-source/) - “TL;DR: 59% of developers contribute to open source software today. Why do they contribute? The top two reasons are: To improve coding skills and because they believe in open source. Want to keep those developers happy and employed with you? Let them contribute.”
 - [How I operated as a Staff engineer at Heroku](https://amyunger.com/blog/2020/09/10/staff-engineer-at-heroku.html) - A great window into the somewhat nebulous title of Staff Engineer, also called Principal Engineer or Software Architect at times. I.e. a role in which you are a technical expert, but know how to solve non-obvious engineering issues, most of the time because they are rooted in social, communications and hierarchical complexities.
 
-
 ### Consultants
 
 - “A consultant is someone 4 pages ahead in the manual” ([source](https://news.ycombinator.com/item?id=20786286)).
@@ -655,7 +654,6 @@ Sometimes, you just have to call it quits.
 - “[Good business mafias form](https://marker.medium.com/where-do-business-mafias-come-from-34f47b33eecd) when there's a group of people who all have to quit their job for reasons that are exogenous to their performance. In the case of Paypal, it was an acquisition; at Tiger Management, a few years of underperformance; at Drexel Burnham Lambert, an indictment. In Reliance's case, the core group of early employees fled the port of Aden due to unrest and the withdrawal of the British.” ([source](https://diff.substack.com/p/to-understand-jio-you-need-to-understand)) - And why mass exodus might be an oportunity for great new ventures.
 - “It was my experience that no single departure had any effect. Mass departures did, trends did, but one person never did, even when that person was a founder.” ([source](https://news.ycombinator.com/item?id=4324615)).
 - [Management Challenges for the 21st Century - Managing Oneself](http://academic.udayton.edu/lawrenceulrich/LeaderArticles/Drucker%20Managing%20Oneself.pdf) - “There is a great deal of talk today about the "mid-life crisis" of the executive. It is mostly boredom. At age forty-five most executives have reached the peak of their business career and know it.” In paragraph V, you'll find why knowledge workers needs to manage themselves, and plan for the second half of their life.
-
 
 ## Contributing
 
