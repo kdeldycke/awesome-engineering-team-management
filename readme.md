@@ -2,7 +2,7 @@
 
 A compilation of advices, anecdotes, knowledge tidbits, discussions, industry small-talks and rants. A bibliography of sort, gathered the last few years while [transitioning my career from a software engineer to an engineer's manager](https://devtomanager.com/interviews/kevin-deldycke/). And later from a manager to a manager's managers (you all love recursion right? ʘ‿ʘ).
 
-I crafted my management style on this substrate, as I did not recognized my experience in [the usual labels](https://en.wikipedia.org/wiki/Management_style#Types_of_management_styles). The later style categories are limiting (I found management to be both of an art and a science). And short-sighted as a style shouldn't be taken at face-value and always be sensible to our fellow humans talents and the business context of the company.
+I crafted my management style on this substrate, as I did not recognized my experience in [the usual labels](https://en.wikipedia.org/wiki/Management_style#Types_of_management_styles). All these style categories are limiting: I found management to be both of an art and a science. And short-sighted: a management style shouldn't be taken at face-value and always be sensible to our fellow humans talents and the business context of the company.
 
 
 
