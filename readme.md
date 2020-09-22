@@ -338,6 +338,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 - [Industry Data Models](http://www.databaseanswers.org/data_models/) - A huge list of database templates to represent any business process.
 - [I thought that using loops was cheating…](https://www.facebook.com/spliceofficial/photos/a.555206991212765/679408552125941/?type=1&theater) - How much is too much? Libraries, whether software or audio loops, are tools. A typical case of [NIH syndrome](https://en.wikipedia.org/wiki/Not_invented_here) transposed to music production.
 - “Lots of people make the mistake of thinking there's only two vectors you can go to improve performance, high or wide. High - throw hardware at the problem, on a single machine. Wide - add more machines. [There's a third direction you can go, I call it *going deep*.](https://news.ycombinator.com/item?id=8902739)”
+- [You need to be this tall to use (micro) services](https://news.ycombinator.com/item?id=12509533).
 
 ### Engineering Practices
 
@@ -563,6 +564,7 @@ Once you have the right structure and content thanks to advices above, you can n
 - [It's time to start writing](https://alexnixon.github.io/2019/12/10/writing.html) - On “Jeff Bezos's dotcom-era policy of banning PowerPoint within Amazon”, and how “this is neither about powerpoint nor about reading - it's about thinking.”
 - [Presentation Rules](http://www.jilles.net/perma/2020/06/05/presentation-rules.html) - A set of 16 rules to avoid boring and innefective presentations, and have your message reach your audience.
 - [The Greatest Sales Deck I've Ever Seen](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0) - “1) Name a Big Change in the World; 2) Show There'll Be Winners and Losers; 3) Tease the Promised Land; 4) Introduce Features as "Magic Gifts"; 5) Present Evidence that You Can Make the Story Come True”.
+- [Some tips on public speaking](https://news.ycombinator.com/item?id=6199544) - “If you ever find yourself buffering on output, rather than making hesitation noises, just pause. People will read that as considered deliberation and intelligence.”
 
 ## Career
 
@@ -604,6 +606,7 @@ It's not only about the salary, but the whole package: equity, bonuses, perks, a
 - [levels.fyi](https://www.levels.fyi) - Compares salary range and compensation charts across big tech companies.
 - [benefits.fyi](https://benefits.fyi) - Same as above, but trying to evaluate the values of benefits across companies.
 - [L8-L10 salaries at AWS](https://news.ycombinator.com/item?id=21823987).
+- [Salaries never stay secrets forever. Hiding them only delays the inevitable.](https://news.ycombinator.com/item?id=2439478)
 
 ### Equity
 
@@ -616,6 +619,7 @@ It's not only about the salary, but the whole package: equity, bonuses, perks, a
 
 Here we are, at the intersection of power and influence lies the political game. If its nature and intensity is sourced from the company's core culture and history, you're unfortunately unlikely to avoid it past a certain hierarchical level. So be prepared.
 
+- “Politics is how a middle manager runs interference and creates distractions to make sure you can't see over, around, or through them, and that the people behind them closer to the money can't see you.” ([source](https://news.ycombinator.com/item?id=22808280)).
 - [HiPPO FAQ](http://bitly.com/HIPPOExplained) - HiPPO stands for “Highest Paid Person's Opinion”, a trait of dysfunctional culture, in which power politics trumps data.
 - [The Prince](https://en.wikipedia.org/wiki/The_Prince) - Machiavelli's ideas on how to accrue honor and power as a leader. Resorting to that level of politics in a company is a sure way to render the culture highly toxic, as well as corrupting and demoralizing the organization at all levels.
 - [The Gervais Principle](https://www.ribbonfarm.com/the-gervais-principle/) - A cynical, bleak, but still fascinating take on the management ladder, based on *The Office*.
