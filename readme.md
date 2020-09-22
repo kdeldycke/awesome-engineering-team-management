@@ -328,7 +328,7 @@ You're no longer an engineer. You shouldn't code anymore. Still, your team is re
 Whatever the technical stack, we are building systems first, and have to manage its complexity.
 
 - [Second-system effect](https://en.wikipedia.org/wiki/Second-system_effect) - “Tendency of small, elegant, and successful systems, to be succeeded by over-engineered, bloated systems”.
-- [Living with Complexity, by Donald A. Norman](https://amzn.com/0262014866/?tag=kevideld-20) - In which we learn that, based on [Tesler's law of the conservation of complexity](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity), “the total complexity of a system is a constant: as you make the person's interaction simpler, the hidden complexity behind the scenes increases. Make one part of the system simpler, said Tesler, and the rest of the system gets more complex.”.
+- [Living with Complexity, by Donald A. Norman](https://amzn.com/0262014866/?tag=kevideld-20) - In which we learn that, based on [Tesler's law of the conservation of complexity](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity), “the total complexity of a system is a constant: as you make the person's interaction simpler, the hidden complexity behind the scenes increases. Make one part of the system simpler, said Tesler, and the rest of the system gets more complex.”
 - [The Efficiency-Destroying Magic of Tidying Up](https://florentcrivello.com/index.php/2019/09/04/the-efficiency-destroying-magic-of-tidying-up/) - “Efficiency tends to look messy, and good looks tend to be inefficient.” A reminder that sometimes we should just accept [the messiness of the world](https://github.com/kdeldycke/awesome-falsehood).
 
 ### Technology
