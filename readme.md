@@ -664,6 +664,7 @@ Here we are, at the intersection of power and influence lies the political game.
 
 ### Burnout
 
+- [How shitty job crush your soul, then lead to burnout](https://news.ycombinator.com/item?id=7789438) - “Burnout is a very serious situation. If you burn yourself out hard, it will be difficult to be effective at any future job you go to, even if it is ostensibly a wonderful job. Treat burnout like a physical injury.”
 - “Burnout is caused by resentment. (…) No. Burnout is caused when you repeatedly make large amounts of sacrifice and or effort into high-risk problems that fail. It's the result of a negative prediction error in the nucleus accumbens. You effectively condition your brain to associate work with failure.” ([source](https://news.ycombinator.com/item?id=5630618)).
 - [If You're So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week) - “Our tendency to overwork and burn out is framed by a complex combination of factors involving our profession, our organization, and ourselves. At the heart of it is insecurity.”
 - [What Happens When Your Career Becomes Your Whole Identity](https://hbr.org/2019/12/what-happens-when-your-career-becomes-your-whole-identity) - “A particular confluence of high achievement, intense competitiveness, and culture of overwork has caught many in a perfect storm of career enmeshment and burnout.”
