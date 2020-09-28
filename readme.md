@@ -222,6 +222,7 @@ A critical step to close up the hiring process.
 
 - [How Not to Bomb Your Offer Negotiation](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/) - “A good negotiator is empathetic and collaborative. They don't try to control you or issue ultimatums. Rather, they try to think creatively about how to fulfill both your and their needs.”
 - [How to answer the “What's your current salary?” job interview question](https://42hire.com/how-to-answer-the-whats-your-current-salary-job-interview-question-486254cb59ad#.izg4ips52) - This article explain the dynamic of that sneaky question and how to defuse it.
+- [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/) - “Your salary negotiation — which routinely takes less than 5 minutes to conclude — has an outsized influence on what your compensation is.”
 
 ## Onboarding
 
