@@ -275,6 +275,7 @@ Expansive lists of well-known models and concepts.
 - [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.qb3gkdmtk) - Huge compiled list of mental models. Became the basis of book.
 - [40 powerful concepts for understanding the world](https://twitter.com/G_S_Bhogal/status/1225561131122597896) - Concepts are named and describe succinctly in the tweet thread.
 - [Tools for better thinking](https://untools.co) - “Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.”
+- [A Few Rules](https://www.collaborativefund.com/blog/a-few-rules/) - A formalized list of some wisdom you probably encountered elsewhere.
 
 ### Explaining
 
