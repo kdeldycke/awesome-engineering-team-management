@@ -711,10 +711,3 @@ Sometimes, you just have to call it quits.
 
 Your contributions are always welcome! Please take a look at the
 [contribution guidelines](./.github/contributing.md) first.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-Content of this repository is licensed under the [Creative Commons CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
-To the extent possible under law, [Kevin Deldycke](https://kevin.deldycke.com)
-has waived all copyright and related or neighboring rights to this work.
