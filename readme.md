@@ -590,6 +590,7 @@ Once you have the right structure and content thanks to advices above, you can n
 Now that you've proven your worth as a front-line manager, what's the next step? These articles explore the follow-up roles, from managing managers, to director, and everything in between.
 
 - [Work at different management levels](https://larahogan.me/blog/manager-levels/) - A great progressive breakup of what it feels like to work at different levels of management.
+- [Levels of abstraction in engineering management](https://medium.com/@rvprabhu/levels-of-abstraction-in-engineering-management-6bac9410e89a) - Another take on the differences between Manager, Manager of Managers, Head of Org and Head of Function.
 - [My questions for prospective employers (Director/VP roles)](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/) - Be prepared to ask them as a recruiter or being asked about them for senior management roles.
 - [Founder to CEO](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/) - You can build you own career engine, starting as a technical founder of a startup, building a great team, then grow with the company to learn and become a full-fledge CEO.
 - [How title, money and scope affect your fulfillment](https://twitter.com/shreyas/status/1268372416427786240) - “For talented mid-career folks, when making job changes, how do you rank: 1. Title 2. Money 3. Scope”.
