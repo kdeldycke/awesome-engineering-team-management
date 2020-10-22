@@ -21,6 +21,8 @@ general to specifics.
 
 - No need to add the `TL;DR:` prefix in description. It is assumed every description is a kind of short summary.
 
+- To serialize a list into a description, use the following format: `“Blah blah: 1. Blah blah blah; 2. Blah blah blah; 3. Blah blah blah.”`. You can skip some items from the original list and renumber it. You shouldn't have to re-order it though.
+
 ## Formatting
 
 - A couple of CLI to fix-up some common formatting mistakes:
