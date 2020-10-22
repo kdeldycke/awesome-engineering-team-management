@@ -326,11 +326,11 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 
 ## Engineering
 
-You're no longer an engineer. You shouldn't spend your time coding. Still, your team is responsible for the systems, technology and all the processes surrounding them. You'd better know a bit about engineering tenets.
+You're no longer an engineer. Still, your team is responsible for the systems, technology and all the processes surrounding them. You'd better know a bit about engineering tenets.
 
-### Technical Engineering Managers?
+### The Technical Engineering Manager
 
-The big question.
+You shouldn't spend your time coding. Leave that to the engineers: your value lies elsewhere now. But does that means you must forget all things technical? The answer is an astounding *NO*. Here are some arguments:
 
 - [Do engineering managers need to be technical?](https://increment.com/teams/do-engineering-managers-need-to-be-technical/) - Yes. “Looking forward to the next 30 years of management trends, only a few things seem certain: Managers should be technical, and the definition of technical will continue to change.”
 - “The best managers I met tended to be those that if the circumstance required it, could do the job of those two levels below.” ([source](https://news.ycombinator.com/item?id=23891984)) - Another way of putting it: managers needs domain knowledge and to know the work their reports do.
