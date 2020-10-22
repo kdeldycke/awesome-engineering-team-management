@@ -722,4 +722,4 @@ Sometimes, you just have to call it quits.
 ## Contributing
 
 Your contributions are always welcome! Please take a look at the
-[contribution guidelines](./.github/contributing.md) first.
+[contribution guidelines](.github/contributing.md) first.
