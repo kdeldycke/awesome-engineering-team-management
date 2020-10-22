@@ -36,7 +36,7 @@ I crafted my management style on this substrate, as I did not recognized my expe
   - [Behavioral](#behavioral)
 - [Team Dynamics](#team-dynamics)
 - [Engineering](#engineering)
-  - [Technical Engineering Managers?](#technical-engineering-managers)
+  - [The Technical Engineering Manager](#the-technical-engineering-manager)
   - [Systems Complexity](#systems-complexity)
   - [Technology](#technology)
   - [Engineering Practices](#engineering-practices)
