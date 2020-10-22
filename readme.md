@@ -119,7 +119,7 @@ Executives are the senior/highest management layers of a company. They reports t
 - [Executives ratify decisions made on the spot](https://twitter.com/kdeldycke/status/1088001688722644992) - Refines the concept above adapting [Tolstoy's thesis to business](https://news.ycombinator.com/item?id=18089716).
 - [Army Leadership and the Profession](https://fas.org/irp/doddir/army/adp6_22.pdf) - Establishes and describes what leaders should be and do.
 - [US Air Force's Strategic Leadership Studies](http://leadership.au.af.mil/sls-skil.htm) - A reference of leadership's competencies and skills.
-- [What Only the CEO Can Do](https://hbr.org/2009/05/what-only-the-ceo-can-do) - TL;DR: “1. Defining and interpreting the meaningful "outside" of the company; 2. Answering the two-part question: What business are we in and what business are we not in? 3. Balancing sufficient yield in the present with necessary investment in the future; 4. Shaping the values and standards of the organization.”
+- [What Only the CEO Can Do](https://hbr.org/2009/05/what-only-the-ceo-can-do) - “1. Defining and interpreting the meaningful "outside" of the company; 2. Answering the two-part question: What business are we in and what business are we not in? 3. Balancing sufficient yield in the present with necessary investment in the future; 4. Shaping the values and standards of the organization.”
 - [How CEOs Manage Time](https://hbr.org/2018/07/the-leaders-calendar) - A study on what CEO of large companies spent their time on, and how. Opens a new window into what leadership is all about and into its many components and dimensions.
 - [Operations and Internal Communication Strategies For Effective CEOs](https://www.sametab.com/blog/operations-and-internal-communication-strategies-for-effective-ceos) - After insisting on the importance of context and narratives, the author provide an interesting template (good for inspiration) of ritual and recurring internal communication devices.
 - [Regis McKenna's talk at Silicon Valley Leaders Symposium](https://youtu.be/5Z13NI0SuyA?t=2026) - “These are the things we (marketers) used to do with individuals and bodies. They've all become automated. The CIO is the marketing chief now.”
@@ -131,7 +131,7 @@ Executives are the senior/highest management layers of a company. They reports t
 
 In tech companies these roles are critical, and the frontier between the two is often blurry.
 
-- [CTO vs VP Engineering: What's the Difference?](https://www.ivyexec.com/career-advice/2015/cto-versus-vp-engineering-whats-the-difference/) - TL;DR: CTO manage a small staff of hackers. VP of Engineering lead an organization of engineers.
+- [CTO vs VP Engineering: What's the Difference?](https://www.ivyexec.com/career-advice/2015/cto-versus-vp-engineering-whats-the-difference/) - CTO manage a small staff of hackers. VP of Engineering lead an organization of engineers.
 - [Want to Know the Difference Between a CTO and a VP Engineering?](https://bothsidesofthetable.com/want-to-know-the-difference-between-a-cto-and-a-vp-engineering-4fc3750c596b) - Another way to look at thing: placing these roles along the “Process Orientation” and “Technical Capability” quadrants.
 - [The different skills needed to be a successful CTO](https://madewithlove.be/one-job-many-roles-the-different-skills-needed-to-be-a-successful-cto/) - The premise is a little misleading, as what is detailed there is the journey, in a startup, of the technical founder growing with the company to become a CTO. At which point the position described in the article is not CTO, but VP of Engineering.
 - [“That's usually about the time I nope right out of the interview”](https://news.ycombinator.com/item?id=19188246) - Bad signs of a CTO trying to recruit an engineering manager, or the perils of not believing in hierarchies.
@@ -155,7 +155,7 @@ Managers came in all form and shape, and the title and daily activities varies a
 
 - [Programmer Moneyball: Challenging the Myth of Individual Programmer Productivity](https://insights.sei.cmu.edu/sei_blog/2020/01/programmer-moneyball-challenging-the-myth-of-individual-programmer-productivity.html) - “Since software project managers have limited ability to evaluate individual developer capability, they should rely on a productive environment and developing talent.”
 - “10x developers (…) rapidly become 1x developers (or worse) if you don't let them make their own architectural choices” ([source](https://news.ycombinator.com/item?id=5496914)).
-- [7 absolute truths I unlearned as junior developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/) - TL;DR: “1. I'm a senior developer; 2. Everyone writes tests; 3. We're so far behind everyone else (a.k.a. tech FOMO); 4. Code quality matters most; 5. Everything must be documented; 6. Technical debt is bad; 7. Seniority means being the best at programming”.
+- [7 absolute truths I unlearned as junior developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/) - “1. I'm a senior developer; 2. Everyone writes tests; 3. We're so far behind everyone else (a.k.a. tech FOMO); 4. Code quality matters most; 5. Everything must be documented; 6. Technical debt is bad; 7. Seniority means being the best at programming”.
 - [On Being A Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) - “I expect a ‘senior’ engineer to be a *mature* engineer.”
 - [Things I Learnt from a Senior Software Engineer](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html) - “I sat next to a senior software engineer for a year. Here's what I learnt.”
 - [5 Things I've Learned in 20 Years of Programming](https://daedtech.com/5-things-ive-learned-in-20-years-of-programming/) - “A programmer with 5 years of experienced has more industry tenure than half of the entire industry.” Also see this follow-up comment of [10 things I've learned after 35 years](https://news.ycombinator.com/item?id=21612990).
@@ -243,7 +243,7 @@ How to get newcomers up to speed with the rest of the team you manage. And how t
 ### Happiness
 
 - [First, Break All the Rules: What the World's Greatest Managers Do Differently](https://amzn.com/1595621113/?tag=kevideld-20) - We learn in this book that employee happiness was not correlated to company success. A comment on HN details the [questions that were highly correlated to company success](https://news.ycombinator.com/item?id=20571219).
-- [What makes developers happy? Contributing to open source](https://www.techrepublic.com/article/what-makes-developers-happy-contributing-to-open-source/) - “TL;DR: 59% of developers contribute to open source software today. Why do they contribute? The top two reasons are: To improve coding skills and because they believe in open source. Want to keep those developers happy and employed with you? Let them contribute.”
+- [What makes developers happy? Contributing to open source](https://www.techrepublic.com/article/what-makes-developers-happy-contributing-to-open-source/) - “59% of developers contribute to open source software today. Why do they contribute? The top two reasons are: To improve coding skills and because they believe in open source. Want to keep those developers happy and employed with you? Let them contribute.”
 - “My team tracks life impact as a metric (pages outside business hours) and works to drive that down to zero.” ([source](https://twitter.com/dwc/status/962179099606200320)) - Maybe the best indicator of a happy team is how little it is disturbed outside office hours.
 
 ### Procrastination
@@ -256,7 +256,7 @@ How to get newcomers up to speed with the rest of the team you manage. And how t
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful.
 - [Adaptation vs adaptability](https://people.clas.ufl.edu/ulan/files/Conrad.pdf) - There is a spectrum between perfect efficiency and being completely flexible. This article explores ecosystems and the flows of material and energy between different organisms within the ecosystem. ([hinted by HN comment](https://news.ycombinator.com/item?id=20963513))
 - [The IT revolution and southern Europe's two lost decades](https://voxeu.org/article/it-revolution-and-southern-europes-two-lost-decades) - If you still doubt management culture could make or break an industry: “inefficient management practices have kept southern European firms from taking full advantage of the IT revolution”.
-- [Meaningful differences that makes Google offices more productive](https://news.ycombinator.com/item?id=20443133) - TL;DR: “The people are smarter, your manager (and their manager) cares a lot about you and it's easy to move.”
+- [Meaningful differences that makes Google offices more productive](https://news.ycombinator.com/item?id=20443133) - “The people are smarter, your manager (and their manager) cares a lot about you and it's easy to move.”
 - [It's Not Enough to Be Right—You Also Have to Be Kind](https://forge.medium.com/its-not-enough-to-be-right-you-also-have-to-be-kind-b8814111fe1) - “It's harder to be kind than clever”, or put another way by Abraham Joshua Heschel: “When I was young, I used to admire intelligent people; as I grow older, I admire kind people.”
 - “It is not your job to protect people (particularly senior management) from the consequences of their decisions. Make your decisions in your own best interest; it is up to the organization to make sure that your interest aligns with theirs.” ([source](https://news.ycombinator.com/item?id=7179946)).
 - “If you cannot disrupt a perverted culture by introducing a new culture, the politics of the perverted culture will work against you until you break, align, or leave. It is not unwise to leave before you break and it is easier to leave before you align.” ([source](https://news.ycombinator.com/item?id=20914779)) - At one point, even with the most unselfish of intentions, your attempts to elevate the culture might stall. It is not fair, but it's probably the time to leave.
@@ -391,7 +391,7 @@ The most important meetings you'll have are frequent 1:1s with your direct repor
 
 The environment we work in shapes us. Perks too.
 
-- [The impact of the 'open' workspace on human collaboration](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2017.0239) - TL;DR: open-plan offices decrease face-to-face collaboration.
+- [The impact of the 'open' workspace on human collaboration](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2017.0239) - Open-plan offices decrease face-to-face collaboration.
 - [Noise, Cognitive Function, and Worker Productivity](https://joshuatdean.com/wp-content/uploads/2020/02/NoiseCognitiveFunctionandWorkerProductivity.pdf) - “An increase of 10 dB reduces productivity by approximately 5%.”
 - [The Elves Leave Middle Earth – Sodas Are No Longer Free](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-%E2%80%93-soda%E2%80%99s-are-no-longer-free/) - Company stopped providing free soda. The engineers were very upset, but it was just soda and they could afford it. But really it wasn't soda. Soda was the canary in the coal mine, triggering an exodus of its best engineers.
 
@@ -425,7 +425,7 @@ The first step to validate your product: is the market finding interest in your 
 
 Where your product lies in the value chain and how to position it in the market.
 
-- [Sustainable Sources of Competitive Advantage](https://www.collaborativefund.com/blog/sustainable-sources-of-competitive-advantage/) - TL;DR: “The ability to learn faster than your competition; to empathize with customers more than your competition; to communicate more effectively than your competition; The willingness to fail more than your competition; to wait longer than your competition”.
+- [Sustainable Sources of Competitive Advantage](https://www.collaborativefund.com/blog/sustainable-sources-of-competitive-advantage/) - “The ability to learn faster than your competition; to empathize with customers more than your competition; to communicate more effectively than your competition; The willingness to fail more than your competition; to wait longer than your competition”.
 - [Coglode: bite-size behavioral research analysis](https://www.coglode.com) - Mostly applied behaviour insights to help you build up strategies and tactics on product, design and planning.
 - [“Why does the tire company rate restaurants”](https://mobile.twitter.com/trevmckendrick/status/1218748974321954816) - A great example on why you should investigate complementary businesses.
 - [Laws of Tech: Commoditize Your Complement](https://www.gwern.net/Complement) - A step further from the previous advice, in which is detailed an aggressive strategy to consolidate monopolies.
@@ -457,8 +457,8 @@ If product management is about *what* is to be developed of the product, then pr
 But don't worry too much, every company has its own definition of the two roles, and sometimes hybrid positions.
 
 - [Let's have no managers, instead of managers with no engineering experience](https://medium.com/hackernoon/lets-have-no-managers-instead-of-managers-with-no-engineering-experience-e8b7cd29d398) - The title is misleading, article's argument is: we don't need *project* managers if we already have *product* managers and scrum masters.
-- [Best project management practices in 2018?](https://news.ycombinator.com/item?id=16377523) - TL;DR: there is no silver bullet.
-- [Strategies for long Projects](http://benbrostoff.github.io/2019/09/28/long-projects.html) - TL;DR: Relentless, irrational optimism; Daily progress documentation; Compounding investments; Time budgeting.
+- [Best project management practices in 2018?](https://news.ycombinator.com/item?id=16377523) - There is no silver bullet.
+- [Strategies for long Projects](http://benbrostoff.github.io/2019/09/28/long-projects.html) - Relentless, irrational optimism; Daily progress documentation; Compounding investments; Time budgeting.
 
 ### Specifications
 
@@ -478,7 +478,7 @@ Time management and planning starts with estimates, but often degenerates into d
 
 ### Tickets
 
-- [There Are No Bugs, Just TODOs](https://almad.blog/essays/no-bugs-just-todos/) - TL;DR: Issue trackers needs to materialize ownership, queue position, state, task breakdown amd aggressive closing. Priority, ticket type, software version, severity and long-life tickets are anti-patterns.
+- [There Are No Bugs, Just TODOs](https://almad.blog/essays/no-bugs-just-todos/) - Issue trackers needs to materialize ownership, queue position, state, task breakdown amd aggressive closing. Priority, ticket type, software version, severity and long-life tickets are anti-patterns.
 - [GitHub labels for reuse across projects](https://twitter.com/abdonrd/status/991697736230633474) - Simple yet practical.
 
 ## Agile
@@ -607,7 +607,7 @@ Stepping stones advancing a career in a company takes the form of promotions. Th
 - [How to discipline overeager engineer](https://workplace.stackexchange.com/questions/145709/how-to-discipline-overeager-engineer) - Over-achieving talent is looking for a management promotion. Management does not recognize effort. Engineer become disgruntled and management is looking to discipline him. A case-study of a bad situation in which both side shows clumsiness.
 - “Most people realize by their 30s that prestige is a sucker's game” ([source](https://news.ycombinator.com/item?id=11833832)) - So not chase promotion for the title only.
 - [For all you future CTOs, consider your incentive schemes carefully](https://news.ycombinator.com/item?id=24463676) - How a promotion scheme marked the end of Uber's engineering excellence and the start of what made the company turn into a bureaucratic mess.
-- [How to get promoted](https://defmacro.substack.com/p/how-to-get-promoted) - Cynical TL;DR: “In summary, an opportunist's career advice is: ignore OKRs, switch projects well before the consequences of your decisions can be measured, act happy and easy-going, package bad news as appeals for slow systemic adjustments, don't make anyone look bad, perform rituals with enthusiasm, grow headcount faster than baseline, let work invent itself, follow management fashions, avoid acute failures, believe this sincerely.”
+- [How to get promoted](https://defmacro.substack.com/p/how-to-get-promoted) - The cynical take: “an opportunist's career advice is: ignore OKRs, switch projects well before the consequences of your decisions can be measured, act happy and easy-going, package bad news as appeals for slow systemic adjustments, don't make anyone look bad, perform rituals with enthusiasm, grow headcount faster than baseline, let work invent itself, follow management fashions, avoid acute failures, believe this sincerely.”
 
 ### Performance Reviews
 
@@ -634,7 +634,7 @@ It's not only about the salary, but the whole package: equity, bonuses, perks, a
 ### Equity
 
 - “Never accept a lower salary in exchange for equity.” ([source](https://news.ycombinator.com/item?id=21868845))
-- [On VC funding and huge growth](https://news.ycombinator.com/item?id=17448035) - “Startups need an exit strategy. (…) The idea is to raise money fast, hire experienced people for ancillary services and develop the application in a way so that it is able to hold up till IPO. Defer all costs for post IPO.” TL;DR: the only reason to join a startup is for future money windfall.
+- [On VC funding and huge growth](https://news.ycombinator.com/item?id=17448035) - “Startups need an exit strategy. (…) The idea is to raise money fast, hire experienced people for ancillary services and develop the application in a way so that it is able to hold up till IPO. Defer all costs for post IPO.” So from this angle, the only reason to join a startup is for future money windfall.
 - [Equity Compensation](https://www.holloway.com/g/equity-compensation) - Stock options, RSUs, job offers, and taxes—a detailed reference, including hundreds of resources, explained from the ground up and made to be improved over time.
 - “Public RSUs for stock you can sell immediately on the open market are fantastic.” ([source](https://news.ycombinator.com/item?id=22386728)).
 
@@ -675,13 +675,13 @@ Here we are, at the intersection of power and influence lies the political game.
 
 ### Holidays
 
-- [Should we take a few long holidays, or lots of short ones?](http://timharford.com/2019/09/should-we-take-a-few-long-holidays-or-lots-of-short-ones/) - TL;DR: short ones. “Reason one: holiday memories tend to depend not on how long the holiday was, but on the intensity of the experiences. Reason two: a change of activity can be a spur to creativity. Reason three for taking a short break: if we need rest to prevent exhaustion, a single, long vacation won't do the trick.”
+- [Should we take a few long holidays, or lots of short ones?](http://timharford.com/2019/09/should-we-take-a-few-long-holidays-or-lots-of-short-ones/) - Short ones. “Reason one: holiday memories tend to depend not on how long the holiday was, but on the intensity of the experiences. Reason two: a change of activity can be a spur to creativity. Reason three for taking a short break: if we need rest to prevent exhaustion, a single, long vacation won't do the trick.”
 
 ### Stress
 
 - [The Toxic Handler: Organizational Hero — and Casualty](https://www.companiesalive.com/toxichandlers-healthandhealing-lifecoaching-miami-leadershiptraining.htm) - “toxic handler, a manager who voluntarily shoulders the sadness, frustration, bitterness, and anger that are endemic to organizational life. Although toxic handlers may be found at every level in organizations, many work near the top”.
 - [Manager Energy Drain](https://larahogan.me/blog/manager-energy-drain/) - “How do I handle how tired I am as a manager? 1. Defrag your calendar; 2. Delegate messy and unscoped projects; 3. Say no.”
-- [How Slack Harms Projects](https://www.silasreinagel.com/blog/2019/08/12/how-slack-harms-projects/) - TL;DR: “promote a false sense of urgency, destroy focus, allow for bypassing project prioritization, strip away essential business context, encourage poorly thought-out communication”. To remediate this, see [How to Use Slack and Not Go Crazy](https://pspdfkit.com/blog/2018/how-to-use-slack-and-not-go-crazy/) article.
+- [How Slack Harms Projects](https://www.silasreinagel.com/blog/2019/08/12/how-slack-harms-projects/) - “Promote a false sense of urgency, destroy focus, allow for bypassing project prioritization, strip away essential business context, encourage poorly thought-out communication”. To remediate this, see [How to Use Slack and Not Go Crazy](https://pspdfkit.com/blog/2018/how-to-use-slack-and-not-go-crazy/) article.
 - [Examples of harassments](https://news.ycombinator.com/item?id=21856352) - How a jealous boss, who felt either betrayed or ridiculed, bullied a capable employee to force him out. Don't be that kind of asshole boss.
 
 ### Burnout
