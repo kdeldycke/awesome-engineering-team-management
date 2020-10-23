@@ -23,11 +23,40 @@ Items are roughly ordered like so:
 
 This repository has reached an equilibrium state. We are past its accumulation phase, and in the middle of the curation process. Meaning we're more into refining its concepts, smooth the progression and carefully evaluating the addition of new content.
 
+## Pull-requests and issues
+
+- Search past and current issues and pull-requests for previous suggestions before making a new one, as yours may be a duplicate or a work in progress.
+
+- Only one list item per commit.
+
+- Only one commit per pull-request. Always squash commits after applying changes.
+
+- Check your spelling and grammar.
+
+- Add the reason why the linked resource is awesome. And what it adds to existing content.
+
+## Linting
+
+Have your pull-request pass the [official Awesome List's linter](https://github.com/sindresorhus/awesome-lint).
+
+No extra work is required here as it is [already integrated by the way of GitHub actions](https://github.com/kdeldycke/awesome-management/tree/main/.github/workflows).
+
+To run the linter locally, do:
+
+```shell-session
+$ npm i npx
+$ npx awesome-lint
+```
+
 ## Formatting
 
-Rules to keep the content clean and tidy.
+Additional rules not covered by `awesome-lint`, to keep the content clean and tidy.
 
 ### General content
+
+- Remove any trailing whitespaces.
+
+- Use spaces, no tabs, for indention.
 
 - Apostrophes should be using the single ASCII mark: `'`.
 
