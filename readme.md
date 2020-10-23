@@ -177,7 +177,7 @@ You're in a competitive sector in which talents are in high demand. Be prepared 
 
 ### Job Boards
 
-By targetting the right place to post your job offer to, you're increasing your chances of targetting the right candidates.
+By targeting the right place to post your job offer to, you're increasing your chances of targeting the right candidates.
 
 - [Awesome Job Boards](https://github.com/tramcar/awesome-job-boards) - Niche job boards by domains, technology, roles and area.
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
@@ -282,7 +282,7 @@ Expansive lists of well-known models and concepts.
 
 ### Explaining
 
-- [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) - “Never attribute to malice that which is adequately explained by stupidity.” My favorite flavor of [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor), and a crucial mentra to defuse rampant paranoia in a highly political setting.
+- [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) - “Never attribute to malice that which is adequately explained by stupidity.” My favorite flavor of [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor), and a crucial mantra to defuse rampant paranoia in a highly political setting.
 - [Regression toward the mean](https://en.wikipedia.org/wiki/Regression_toward_the_mean) - Or why after a period of intense euphoria and ambition, things slowly get back to their usual mediocrity.
 - [Locus of control](https://en.wikipedia.org/wiki/Locus_of_control) - A framework on “the degree to which people believe that they have control over the outcome of events in their lives, as opposed to external forces beyond their control.”
 
@@ -478,7 +478,7 @@ Time management and planning starts with estimates, but often degenerates into d
 
 ### Tickets
 
-- [There Are No Bugs, Just TODOs](https://almad.blog/essays/no-bugs-just-todos/) - Issue trackers needs to materialize ownership, queue position, state, task breakdown amd aggressive closing. Priority, ticket type, software version, severity and long-life tickets are anti-patterns.
+- [There Are No Bugs, Just TODOs](https://almad.blog/essays/no-bugs-just-todos/) - Issue trackers needs to materialize ownership, queue position, state, task breakdown and aggressive closing. Priority, ticket type, software version, severity and long-life tickets are anti-patterns.
 - [GitHub labels for reuse across projects](https://twitter.com/abdonrd/status/991697736230633474) - Simple yet practical.
 
 ## Agile
@@ -569,7 +569,7 @@ Once you have the right structure and content thanks to advices above, you can n
 - [LanguageTool](https://languagetool.org) - Proofreading for grammar, style and spell checking.
 - [English Lint](https://github.com/killercup/english-lint) - A Rust CLI to detect weasel words, passive voice and lexical illusions.
 - [`proselint`](https://github.com/amperser/proselint/) - Places the world's greatest writers and editors by your side, where they whisper suggestions on how to improve your prose.
-- [Bias-free communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication) - Microsoft's guide on how to improve writting to be more inclusive and diverse.
+- [Bias-free communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication) - Microsoft's guide on how to improve writing to be more inclusive and diverse.
 - [alex](https://github.com/get-alex/alex) - Whether your own or someone else's writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
 - [BlaBlaMeter - Bullshit detection tool](http://www.blablameter.com/) - Produce a normalized metric of the bullshit content of a text.
 - [Marketing BS Detector](http://marketingbs.whiterhino.com) - Same as above, but with some tips given.
@@ -581,7 +581,7 @@ Once you have the right structure and content thanks to advices above, you can n
 ### Presentations
 
 - [It's time to start writing](https://alexnixon.github.io/2019/12/10/writing.html) - On “Jeff Bezos's dotcom-era policy of banning PowerPoint within Amazon”, and how “this is neither about powerpoint nor about reading - it's about thinking.”
-- [Presentation Rules](http://www.jilles.net/perma/2020/06/05/presentation-rules.html) - A set of 16 rules to avoid boring and innefective presentations, and have your message reach your audience.
+- [Presentation Rules](http://www.jilles.net/perma/2020/06/05/presentation-rules.html) - A set of 16 rules to avoid boring and ineffective presentations, and have your message reach your audience.
 - [The Greatest Sales Deck I've Ever Seen](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0) - “1. Name a big change in the world; 2. Show there'll be winners and losers; 3. Tease the promised land; 4. Introduce features as "Magic Gifts"; 5. Present evidence that you can make the story come true.”
 - [Some tips on public speaking](https://news.ycombinator.com/item?id=6199544) - “If you ever find yourself buffering on output, rather than making hesitation noises, just pause. People will read that as considered deliberation and intelligence.”
 
@@ -599,7 +599,7 @@ Now that you've proven your worth as a front-line manager, what's the next step?
 
 ### Promotion
 
-Stepping stones advancing a career in a company takes the form of promotions. They unlock raises, bonuses and more responsability.
+Stepping stones advancing a career in a company takes the form of promotions. They unlock raises, bonuses and more responsibility.
 
 - [How do managers get stuck?](http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html) - Identify scenario preventing managers to be promoted at the next level.
 - [The Evolution of Management: Transitioning up the ladder](https://queue.acm.org/detail.cfm?id=3350548) - Describe the path and expectations at each management level.
@@ -715,7 +715,7 @@ Sometimes, you just have to call it quits.
 - “*People do get pissed off in clusters* is the best description of a team/company meltdown that I've ever seen.” ([source](https://news.ycombinator.com/item?id=19755001))
 - “Something I've seen multiple times is that, when a VP leaves, a company will become a substantially worse place to work, and it will slowly dawn on people that the VP was doing an amazing job at supporting not only their direct reports, but making sure that everyone under them was having a good time.” ([source](https://danluu.com/wat/#fn:P))
 - “Next time your favorite manager and tech lead quit the company, ask them why.” ([source](https://news.ycombinator.com/item?id=21767843)).
-- “[Good business mafias form](https://marker.medium.com/where-do-business-mafias-come-from-34f47b33eecd) when there's a group of people who all have to quit their job for reasons that are exogenous to their performance. In the case of Paypal, it was an acquisition; at Tiger Management, a few years of underperformance; at Drexel Burnham Lambert, an indictment. In Reliance's case, the core group of early employees fled the port of Aden due to unrest and the withdrawal of the British.” ([source](https://diff.substack.com/p/to-understand-jio-you-need-to-understand)) - And why mass exodus might be an oportunity for great new ventures.
+- “[Good business mafias form](https://marker.medium.com/where-do-business-mafias-come-from-34f47b33eecd) when there's a group of people who all have to quit their job for reasons that are exogenous to their performance. In the case of Paypal, it was an acquisition; at Tiger Management, a few years of underperformance; at Drexel Burnham Lambert, an indictment. In Reliance's case, the core group of early employees fled the port of Aden due to unrest and the withdrawal of the British.” ([source](https://diff.substack.com/p/to-understand-jio-you-need-to-understand)) - And why mass exodus might be an opportunity for great new ventures.
 - “It was my experience that no single departure had any effect. Mass departures did, trends did, but one person never did, even when that person was a founder.” ([source](https://news.ycombinator.com/item?id=4324615)).
 - [Management Challenges for the 21st Century - Managing Oneself](http://academic.udayton.edu/lawrenceulrich/LeaderArticles/Drucker%20Managing%20Oneself.pdf) - “There is a great deal of talk today about the "mid-life crisis" of the executive. It is mostly boredom. At age forty-five most executives have reached the peak of their business career and know it.” In paragraph Ⅴ, you'll find why knowledge workers needs to manage themselves, and plan for the second half of their life.
 
