@@ -1,11 +1,6 @@
 ---
 name: Sync labels
-on:
-  push:
-    # Only targets default branch to avoid amplification effects of
-    # doing the exact same stuff in multiple non-rebased branches.
-    branches:
-      - 'main'
+"on": issues
 
 jobs:
 
