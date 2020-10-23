@@ -2,35 +2,81 @@
 
 Your contributions are always welcome! Here are some guidelines.
 
-- Try to provide an actionable TL;DR as a description, quoting the original text if you need so.
+## Editorial line
 
-## Sections
+This list targets professionals with a background in software development and help them transition to an engineering management role.
 
-- First level sections are voluntarily not in the alphabetical order: this
-list provides a progression to help with the transition to management. From
-general to specifics.
+You wonder what it looks like to be a manager from the inside? You just started your first job as the leader of a team? You're stuck into the day-to-day operations of the job? You need to move up to the next level? This guide is written for you!
 
-- The rough order is like so:
+This body of work stands out from generic leadership and management literature, by providing uncompromising insights and practical advices to bootstrap your journey into the management career track, from a technical background.
 
-  1. At first we'll find content appealing to software developers or new managers. We're reaching for accessibility and targets the wider audience and provide a gentle introduction.
-  1. Then we can have a couple of real use-cases or anecdotes, which makes the topic more practical.
-  1. Third we might add a couple of reference material to generalize concepts, or provide generic solution or broader thinking frameworks.
-  1. At the end we'll add the most cynical or bleak content, because hey, we can't help it: [on a long enough time line, the survival rate for everyone drops to zero](https://www.goodreads.com/quotes/26639-on-a-long-enough-time-line-the-survival-rate-for). And these content might still have some utility as cautionary tales or signals that things might start to go south.
+This list provides a progression to help with the transition to management. From general to specifics. It starts with an overview of the role, then describes its requirements, its position relatives to others. Then we delves into the day-to-day tools of the trade, both organizational and behavioral. At last we discuss about some of the dark sides of the job.
 
-## List Item
+Items are roughly ordered like so:
 
-- No need to add the `TL;DR:` prefix in description. It is assumed every description is a kind of short summary.
+1. At first we'll find content appealing to software developers or new managers. We're reaching for accessibility and targets the wider audience and provide a gentle introduction.
+1. Then we can have a couple of real use-cases or anecdotes, which makes the subject more hands-on and relatable.
+1. Third we might add a couple of reference material to generalize concepts, provide methodical solutions and expose broader thinking frameworks.
+1. At the end comes the most cynical or bleak content, which have some utility as cautionary tales or signals of things starting to go in the bad direction.
 
-- To serialize a list into a description, use the following format: `“Blah blah: 1. Blah blah blah; 2. Blah blah blah; 3. Blah blah blah.”`. You can skip some items from the original list and renumber it. You shouldn't have to re-order it though.
+## Status
+
+This repository has reached an equilibrium state. We are past its accumulation phase, and in the middle of the curation process. Meaning we're more into refining its concepts, smooth the progression and carefully evaluating the addition of new content.
 
 ## Formatting
 
-- A couple of CLI to fix-up some common formatting mistakes:
+Rules to keep the content clean and tidy.
 
-  - ``sed -i 's/^* /- /g' ./README.md``: replaces star list item markers by
-      dashes.
-  - ``sed -i "s/‘/\'/g" ./README.md`` and ``sed -i "s/’/\'/g" ./README.md``:
-      replaces typographic quotes with simple ones.
-  - ``sed -i 's/`$/`\./g' ./README.md``: forces quotes to end with a dot.
+### General content
 
-- This repository is still in its accumulation phase. Meaning we will not over-think adding stuff to it. The curation phase and fine-tuning can happens in a second time.
+- Apostrophes should be using the single ASCII mark: `'`.
+
+- Try to quote the original content as-is to summarize the point of the linked content.
+
+- If a straight quote doesn't cut it, feel free to paraphrase both the item's title and description. Remember, this is curation: we are increasing the value of the original content by aggregation and categorization, yes, but also by smart editorializing. As long as you respect the spirit of the original content it's OK.
+
+### Sections
+
+- Sections are not in the alphabetical order to provide a progression, in respect to the editorial line above.
+
+- Section might feature one paragraph introduction and a figure (graph, drawing, photo).
+
+### Item title
+
+- No `“` and `”` curved quotation marks. This is reserved for original content quotation in descriptions.
+
+- To quote, use either the single or double variations: `'` and `"`. Keep them properly balanced.
+
+### Item description
+
+- Try to provide an actionable TL;DR as a description, quoting the original text if it stands by itself.
+
+- [Removes `TL;DR:` prefix in description](https://github.com/kdeldycke/awesome-management/commit/da298ec1c39fe62fd4553e1a6de0ad4494602c57). Every description is a short summary anyway.
+
+- Quotes should be properly delimited with the `“` and `”` curved quotation marks.
+
+- You can reduce the original text by using an ellipsis in parenthesis `(…)`.
+
+- For quoting inside a quote, use single or double `'` and `"` ASCII marks. Keep them properly balanced.
+
+- To serialize a list into a description, use the following format:
+
+  > This is my own description. Here is a list quoted from the original content about “a random subject: 1. Blah blah blah; 2. Blah blah blah? 3. Blah blah blah.” This makes sense right?
+
+  This provides visual anchor points that help readability and quick content scanning.
+
+  - You can skip some items from the original list and renumber it.
+
+  - You shouldn't have to re-order it though.
+
+- An additional link in the description is allowed. This must be limited to some rare cases. Like pointing to a bigger concept, an acronym definition, or reference material (book, biography, …).
+
+### CLI helpers
+
+One-liners to fix-up some common formatting mistakes. Use with great caution and always double-check and edit the results.
+
+- ``sed -i 's/^* /- /g' ./README.md``: replaces star list item markers by dashes.
+
+- ``sed -i "s/‘/\'/g" ./README.md`` and ``sed -i "s/’/\'/g" ./README.md``: replaces typographic quotes with simple ones.
+
+- ``sed -i 's/`$/`\./g' ./README.md``: forces quotes to end with a dot.
