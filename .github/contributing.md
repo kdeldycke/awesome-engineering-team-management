@@ -90,7 +90,7 @@ Additional rules not covered by `awesome-lint`, to keep the content clean and ti
 
 - To serialize a list into a description, use the following format:
 
-  > This is my own description. Here is a list quoted from the original content about “a random subject: 1. Blah blah blah; 2. Blah blah blah? 3. Blah blah blah.” This makes sense right?
+  > This is my own description. Here is a list quoted from the original content about **“a random subject: 1. Blah blah blah; 2. Blah blah blah? 3. Blah blah blah.”** This makes sense right?
 
   This provides visual anchor points that help readability and quick content scanning.
 
