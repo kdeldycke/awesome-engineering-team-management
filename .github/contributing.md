@@ -75,8 +75,21 @@ Rules to keep the content clean and tidy.
 
 One-liners to fix-up some common formatting mistakes. Use with great caution and always double-check and edit the results.
 
-- ``sed -i 's/^* /- /g' ./README.md``: replaces star list item markers by dashes.
+- Replaces star list item markers by dashes:
 
-- ``sed -i "s/‘/\'/g" ./README.md`` and ``sed -i "s/’/\'/g" ./README.md``: replaces typographic quotes with simple ones.
+  ```shell-session
+  $ sed -i 's/^* /- /g' ./README.md
+  ```
 
-- ``sed -i 's/`$/`\./g' ./README.md``: forces quotes to end with a dot.
+- Replaces typographic quotes with ASCII ones:
+
+  ```shell-session
+  $ sed -i "s/‘/\'/g" ./readme.md
+  $ sed -i "s/’/\'/g" ./readme.md
+  ```
+
+- Forces quotes to end with a dot:
+
+  ```shell-session
+  $ sed -i 's/`$/`\./g' ./readme.md
+  ```
