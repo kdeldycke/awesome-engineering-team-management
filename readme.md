@@ -1,5 +1,10 @@
 # 👔 Awesome Engineering Team Management [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
+<p align="center">
+  <i>The manager's function is not to make people work, but to make it possible for people to work.</i><br>
+  — Tom DeMarco<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
+</p>
+
 A compilation of advices, anecdotes, knowledge tidbits, discussions, industry small-talks and rants. A bibliography of sort, gathered the last few years while [transitioning my career from a software engineer to an engineer's manager](https://devtomanager.com/interviews/kevin-deldycke/). And later from a manager to a manager's managers (you all love recursion right? ʘ‿ʘ).
 
 I crafted my management style on this substrate, as I did not recognized my experience in [the usual labels](https://en.wikipedia.org/wiki/Management_style#Types_of_management_styles). All these style categories are limiting: I found management to be both of an art and a science. And short-sighted: a management style shouldn't be taken at face-value and always be sensible to our fellow humans talents and the business context of the company.
@@ -722,3 +727,7 @@ Sometimes, you just have to call it quits.
 ## Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](.github/contributing.md) first.
+
+## Footnotes
+
+<a name="intro-quote-def">[1]</a>: [*Peopleware: Productive Projects and Teams, 1987*, page 34](https://amzn.com/0321934113/?tag=kevideld-20) (Harper & Brothers, New York, 1961). [\[↑\]](#intro-quote-ref)
