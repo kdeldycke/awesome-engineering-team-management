@@ -1,6 +1,12 @@
 # 👔 Awesome Engineering Team Management [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 <p align="center">
+  <a href="https://github.com/kdeldycke/awesome-management/">
+    <img src="https://github.com/kdeldycke/awesome-management/blob/main/assets/awesome-management-header.png" alt="Awesome Engineering Team Management header image">
+  </a>
+</p>
+
+<p align="center">
   <i>The manager's function is not to make people work, but to make it possible for people to work.</i><br>
   — Tom DeMarco<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
@@ -1002,5 +1008,8 @@ Sometimes, you just have to call it quits.
 Your contributions are always welcome! Please take a look at the [contribution guidelines](.github/contributing.md) first.
 
 ## Footnotes
+
+The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/assets/awesome-management-header.png) is based on a modified
+[photo taken in November 2017 by Werner Du plessis](https://unsplash.com/photos/6dDHofabCQ8).
 
 <a name="intro-quote-def">[1]</a>: [*Peopleware: Productive Projects and Teams, 1987*, page 34](https://amzn.com/0321934113/?tag=kevideld-20) (Harper & Brothers, New York, 1961). [\[↑\]](#intro-quote-ref)
