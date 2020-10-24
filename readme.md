@@ -1,5 +1,7 @@
 # 👔 Awesome Engineering Team Management [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
+**A curated list for software developers to transition to an engineering management role.**
+
 <p align="center">
   <a href="https://github.com/kdeldycke/awesome-management/">
     <img src="https://github.com/kdeldycke/awesome-management/blob/main/assets/awesome-management-header.png" alt="Awesome Engineering Team Management header image">
@@ -13,7 +15,11 @@
 
 A compilation of advices, anecdotes, knowledge tidbits, discussions, industry small-talks and rants. A bibliography of sort, gathered the last few years while [transitioning my career from a software engineer to an engineer's manager](https://devtomanager.com/interviews/kevin-deldycke/). And later from a manager to a manager's managers (you all love recursion right? ʘ‿ʘ).
 
-I crafted my management style on this substrate, as I did not recognized my experience in [the usual labels](https://en.wikipedia.org/wiki/Management_style#Types_of_management_styles). All these style categories are limiting: I found management to be both of an art and a science. And short-sighted: a management style shouldn't be taken at face-value and always be sensible to our fellow humans talents and the business context of the company.
+You wonder what it looks like to be a manager from the inside? You just started your first job as the leader of a team? You're stuck into the day-to-day operations of the job? You need to move up to the next level? This guide is written for you!
+
+This body of work stands out from generic leadership and management literature, by providing uncompromising insights and practical advices to bootstrap your journey into the management career track, from a technical background.
+
+This list provides a progression to help with the transition to management. From general to specifics. It starts with an overview of the role, then describes its requirements, its position relatives to others. Then we delves into the day-to-day tools of the trade, both organizational and behavioral. At last we discuss about some of the dark sides of the job.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

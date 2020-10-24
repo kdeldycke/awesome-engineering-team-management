@@ -4,13 +4,7 @@ Your contributions are always welcome! Here are some guidelines.
 
 ## Editorial line
 
-This list targets professionals with a background in software development and help them transition to an engineering management role.
-
-You wonder what it looks like to be a manager from the inside? You just started your first job as the leader of a team? You're stuck into the day-to-day operations of the job? You need to move up to the next level? This guide is written for you!
-
-This body of work stands out from generic leadership and management literature, by providing uncompromising insights and practical advices to bootstrap your journey into the management career track, from a technical background.
-
-This list provides a progression to help with the transition to management. From general to specifics. It starts with an overview of the role, then describes its requirements, its position relatives to others. Then we delves into the day-to-day tools of the trade, both organizational and behavioral. At last we discuss about some of the dark sides of the job.
+The editorial line is [describe in the intro of the main list](https://github.com/kdeldycke/awesome-management#-awesome-engineering-team-management-).
 
 Items are roughly ordered like so:
 
