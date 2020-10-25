@@ -1,11 +1,12 @@
-# 👔 Awesome Engineering Team Management [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
-
-**A curated list for software developers to transition to an engineering management role.**
-
 <p align="center">
   <a href="https://github.com/kdeldycke/awesome-management/">
     <img src="https://github.com/kdeldycke/awesome-management/blob/main/assets/awesome-management-header.png" alt="Awesome Engineering Team Management header image">
   </a>
+</p>
+
+<p align="center">
+  <strong>A curated list for software developers to transition to an engineering management role.</strong>
+  <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a>
 </p>
 
 <p align="center">
