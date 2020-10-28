@@ -22,7 +22,7 @@ You wonder what it looks like to be a manager from the inside? You just started 
 
 This body of work stands out from generic leadership and management literature, by providing uncompromising insights and practical advices to bootstrap your journey into the management career track, from a technical background.
 
-This list provides a progression to help with the transition to management. From general to specifics. It starts with an overview of the role, then describes its requirements, its position relatives to others. Then we delves into the day-to-day tools of the trade, both organizational and behavioral. At last we discuss about some of the dark sides of the job.
+This list provides a progression to help with the transition to management. From general to specifics. It starts with an overview of the role, then describes its requirements, its position relative to others. Then we delves into the day-to-day tools of the trade, both organizational and behavioral. At last we discuss about some of the dark sides of the job.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
