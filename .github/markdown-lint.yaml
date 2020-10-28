@@ -19,4 +19,5 @@ MD033:
     - 'i'
     - 'img'
     - 'p'
+    - 'strong'
     - 'sup'
