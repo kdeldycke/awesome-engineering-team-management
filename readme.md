@@ -1023,7 +1023,7 @@ Your contributions are always welcome! Please take a look at the [contribution g
 ## Footnotes
 
 The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/assets/awesome-management-header.png) is based on a modified
-[photo taken in November 2017 by Werner Du plessis](https://unsplash.com/photos/6dDHofabCQ8).
+[photo taken in November 2017](https://unsplash.com/photos/6dDHofabCQ8) by [Werner Du plessis](https://unsplash.com/@werner01).
 
 <!--lint disable no-undefined-references-->
 <a name="intro-quote-def">[1]</a>: [*Peopleware: Productive Projects and Teams, 1987*, page 34](https://amzn.com/0321934113/?tag=kevideld-20) (Harper & Brothers, New York, 1961). [\[↑\]](#intro-quote-ref)
