@@ -1,8 +1,8 @@
 <!--lint disable awesome-heading-->
 
 <p align="center">
-  <a href="https://github.com/kdeldycke/awesome-management/">
-    <img src="https://github.com/kdeldycke/awesome-management/blob/main/assets/awesome-management-header.png" alt="Awesome Engineering Team Management">
+  <a href="https://github.com/kdeldycke/awesome-engineering-team-management/">
+    <img src="https://github.com/kdeldycke/awesome-engineering-team-management/raw/main/assets/awesome-management-header.png" alt="Awesome Engineering Team Management">
   </a>
 </p>
 
