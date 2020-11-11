@@ -18,11 +18,14 @@
 
 A compilation of advices, anecdotes, knowledge tidbits, discussions, industry small-talks and rants. A bibliography of sort, gathered the last few years while [transitioning my career from a software engineer to an engineer's manager](https://devtomanager.com/interviews/kevin-deldycke/). And later from a manager to a manager's managers (you all love recursion right? ʘ‿ʘ).
 
-You wonder what it looks like to be a manager from the inside? You just started your first job as the leader of a team? You're stuck into the day-to-day operations of the job? You need to move up to the next level? This guide is written for you!
+* You're a developer and wonders what it feels like to be a manager?
+* You just started your first position as the leader of a team?
+* You're stuck into the day-to-day operations of the job?
+* How can I move up to the next level?
 
-This body of work stands out from generic leadership and management literature, by providing uncompromising insights and practical advices to bootstrap your journey into the management career track, from a technical background.
+You'll find answers in this guide! It stands out from generic leadership and management literature, by providing uncompromising insights and practical advices to bootstrap your journey into the management career track, from a technical background.
 
-This list provides a progression to help with the transition to management. From general to specifics. It starts with an overview of the role, then describes its requirements, its position relative to others. Then we delves into the day-to-day tools of the trade, both organizational and behavioral. At last we discuss about some of the dark sides of the job.
+This list provides a progression to help with the transition to management. From general to specifics. It starts with an overview of the role, then describes its requirements, and its position relative to others. Then we delves into the day-to-day tools of the trade, both organizational and behavioral. At last we discuss about some of the dark sides of the job.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
