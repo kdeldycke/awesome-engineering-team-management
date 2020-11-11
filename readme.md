@@ -187,7 +187,7 @@ In tech companies these roles are critical, and the frontier between the two is 
 
 ### Engineering Managers
 
-Managers came in all form and shape, and the title and daily activities varies a lot depending on companies. When developers directly reports to you, you find yourself at the first management level: you are a front-line engineering manager.
+Managers came in all form and shape, and the title and daily activities varies a lot depending on companies. When developers directly reports to you, you'll find yourself at the first management level: you are a front-line engineering manager.
 
 - [What are the signs that you have a great manager?](https://news.ycombinator.com/item?id=20230133) - “The irony is that you don't really notice a great manager.”
 
@@ -891,7 +891,7 @@ It's not only about the salary, but the whole package: equity, bonuses, perks, a
 
 ## Politics
 
-Here we are, at the intersection of power and influence lies the political game. If its nature and intensity is sourced from the company's core culture and history, you're unfortunately unlikely to avoid it past a certain hierarchical level. So be prepared.
+Here we are, at the intersection of power and influence lies the political game. If its nature and intensity is sourced from the company's core culture and history, you're unfortunately unlikely to avoid it past a certain hierarchical level. Be prepared.
 
 - “Politics is how a middle manager runs interference and creates distractions to make sure you can't see over, around, or through them, and that the people behind them closer to the money can't see you.” ([source](https://news.ycombinator.com/item?id=22808280)).
 
