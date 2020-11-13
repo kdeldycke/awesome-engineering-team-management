@@ -265,7 +265,7 @@ High-growth company will all need to industrialize the hiring process at one poi
 
 - [Why I Never Hire Brilliant Men](https://en.wikisource.org/wiki/Why_I_Never_Hire_Brilliant_Men) - 5 simple rules for hiring men, from 1924. Things haven't changed a lot in a century.
 
-- [A ​Good Tech Resume](https://thetechresume.com/A_Good_Tech_Resume.pdf) - A compilation of advices and example, but containing a good description of a typical hiring pipeline.
+- [A Good Tech Resume](https://thetechresume.com/A_Good_Tech_Resume.pdf) - A compilation of advices and example, but containing a good description of a typical hiring pipeline.
 
 - [Job Interviewing Guide](https://www.homerun.co/artofwork/guides/job-interviewing) - A detailed description of a hiring process, a great source of inspiration for when your company gets big enough to start to formalize things up.
 
@@ -514,6 +514,8 @@ Whatever the technical stack, we are building systems first, and have to manage 
 - [Tech Due Diligence Calculator](https://decodingvc.gitbooks.io/p9-startup-tech-due-diligence-calculator/content/) - A list of questions by topic to help understand how you are building your tech and engineering team, trying to highlight red flags.
 
 - [Technical Debt Is Like Tetris](https://medium.com/s/story/technical-debt-is-like-tetris-168f64d8b700) - Another way to explain technical debt: “Scenarios like these create technical debt within the product code. A buried gap in Tetris represents technical debt. (…) Paying down technical debt keeps you competitive. It keeps you in the game.”
+
+- [Technical debt as a lack of understanding](https://daverupert.com/2020/11/technical-debt-as-a-lack-of-understanding/) - “The problem lies in "never reorganizing [the code] to reflect your understanding." (…) Organizationally, you pay in velocity and turnover; talented people are going to leave after a few rounds of bullshit.”
 
 - [The Framing of the Developer](https://www.svese.de/impact-vs-backlog-frame-in-software-development) - Default framing is around the backlog, which leads to an asymmetry in which failure is blamed on lacks of developer performance, and success is celebrated as the full realization of the PM's vision. But “technology is the bank that gave credit”, and technical debt should be called product debt “because product took the credit to get a feature faster and must pay back by investing the time to clean up.” The alternative? “Companies today need a frame of impact. In this world-view success is defined by impact.”
 
