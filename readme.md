@@ -33,6 +33,8 @@ This list provides a progression to help with the transition to management. From
 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 - [Engineering to Management Transition](#engineering-to-management-transition)
 - [Building Teams](#building-teams)
 - [Roles](#roles)
