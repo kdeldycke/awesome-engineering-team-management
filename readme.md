@@ -918,6 +918,8 @@ Here we are, at the intersection of power and influence lies the political game.
 
 - [“Company I've worked for had manager who tried to ship features over the weekend with a ragtag team of developers who don't understand why that's a bad idea.”](https://news.ycombinator.com/item?id=22285123) - Tactics of hustling managers, and how the company reacting to that kind of manager makes or break a good place to work.
 
+- [Making Nice or Faking Nice? Exploring Supervisors' Two-Faced Response to their Past Abusive Behavior](https://onlinelibrary.wiley.com.sci-hub.st/doi/10.1111/peps.12424) - “It behooves organizations that want to develop highly authentic supervisors or organizational climates to seek to hire supervisors that are lower (or at least not higher) on symbolized moral identity.”
+
 - “The actual power wielded by a high level executive is usually inversely proportional to the size of the organization they manage.” (source: [comment](https://news.ycombinator.com/item?id=20260498) on [Why large companies are so difficult to rescue](https://news.ycombinator.com/item?id=20260114)).
 
 - “Cutting costs gets you a raise. Delivering a big project is a path to promotion.” ([source](https://news.ycombinator.com/item?id=21230771))
