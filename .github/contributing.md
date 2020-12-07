@@ -46,6 +46,8 @@ $ npx awesome-lint
 
 Additional rules not covered by `awesome-lint`, to keep the content clean and tidy.
 
+If one of these rule conflict with the linter, the linter's rule should takes precedence. Apply it.
+
 ### General content
 
 - Remove any trailing whitespaces.
@@ -65,6 +67,8 @@ Additional rules not covered by `awesome-lint`, to keep the content clean and ti
 - Section might feature one paragraph introduction and a figure (graph, drawing, photo).
 
 ### Item title
+
+- URL must use HTTPs protocol if available.
 
 - No `“` and `”` curved quotation marks. This is reserved for original content quotation in descriptions.
 
