@@ -207,6 +207,8 @@ Managers came in all form and shape, and the title and daily activities varies a
 
 - [Surprising Things About Working at Well-Known Tech Unicorns](https://blog.pragmaticengineer.com/surprising-things-about-working-at-tech-unicorns/) - Echoes my own experience on differences between expectations and reality in high growth and visible companies from the point of view of an engineering manager.
 
+- [100+ Lessons Learned for Project Managers](https://llis.nasa.gov/lesson/1956) - 122 aphorisms providind insights into NASA project management success. Covers design, decision-making, managing staff, working with superiors and contractors.
+
 - [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager) - Huge list, but need some curation.
 
 - [The Leadership Library for Engineers](https://leadership-library.dev) - A list of books to help engineering leaders level up.
