@@ -579,6 +579,8 @@ The Product Manager is supposed to be the *voice of the market*. Here are more l
 
 - [Things Many People Find Too Obvious To Have Told You Already](https://twitter.com/patio11/status/936615043126370306) - A set of heuristics on tech companies and the ecosystem they live in.
 
+- [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html) - Lots of wisdom about space program management.
+
 - [How to exit vim, the Product Manager way](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
 
 ### Hiring PMs
