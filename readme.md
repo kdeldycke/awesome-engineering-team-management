@@ -121,6 +121,8 @@ The first step. The hardest: how to requalify oneself from an Individual Contrib
 
 - [Advice to new managers](https://twitter.com/ValaAfshar/status/966125964861280256) - 9 fundamental principles of the behavior required to be a great manager.
 
+- [Mistakes I’ve Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/) - Mistakes: “1) Thinking people give feedback the way they want to receive it; 2) Trying to do everything yourself; 3) Communicating something one time is enough; 4) You have to have everything together all the time.”
+
 - [Why It's Easier to Manage 4 People Than It Is to Manage 1 Person](https://staysaasy.com/management/2020/07/24/Managing-One-Person.html) - “Avoid at all costs the combination of: new manager, 1 report, report is new-to-industry, manager is not a subject-matter expert.”
 
 - [Going from Developer to Manager. What should I know or learn?](https://news.ycombinator.com/item?id=18823616)
@@ -186,6 +188,8 @@ In tech companies these roles are critical, and the frontier between the two is 
 - [Want to Know the Difference Between a CTO and a VP Engineering?](https://bothsidesofthetable.com/want-to-know-the-difference-between-a-cto-and-a-vp-engineering-4fc3750c596b) - Another way to look at thing: placing these roles along the “Process Orientation” and “Technical Capability” quadrants.
 
 - [The different skills needed to be a successful CTO](https://madewithlove.be/one-job-many-roles-the-different-skills-needed-to-be-a-successful-cto/) - The premise is a little misleading, as what is detailed there is the journey, in a startup, of the technical founder growing with the company to become a CTO. At which point the position described in the article is not CTO, but VP of Engineering.
+
+- [Hiring a VP of Engineering? Use This Framework](https://review.firstround.com/hiring-a-vp-of-engineering-use-this-framework-from-shopify%27s-vpe-to-get-it-right) -“*How do I hire a VP of Engineering?* After more than 20 years, eight companies, and thousands of hires, I’m starting to suspect this may be the wrong question. A better one is, *What is a VP of Engineering?*”
 
 - [“That's usually about the time I nope right out of the interview”](https://news.ycombinator.com/item?id=19188246) - Bad signs of a CTO trying to recruit an engineering manager, or the perils of not believing in hierarchies.
 
@@ -323,6 +327,8 @@ A critical step to close up the hiring process.
 
 - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/) - “Your salary negotiation — which routinely takes less than 5 minutes to conclude — has an outsized influence on what your compensation is.”
 
+- [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) - “First part will be about conceptualizing the negotiating process, about how to begin the process and set yourself up for maximal success. The second part will be advice on the actual back-and-forth portion of negotiating and how to ask for what you want.”
+
 ## Onboarding
 
 How to get newcomers up to speed with the rest of the team you manage. And how to introduce yourself to teams you just joined or inherited.
@@ -392,6 +398,8 @@ Thinking frameworks and mental models to improve decision making, understand sys
 ### Collections
 
 Expansive lists of well-known models and concepts.
+
+- [Gigerenzer’s simple rules](https://www.foundingfuel.com/article/gigerenzers-simple-rules/) - The reason we often relies on these simple heuristics: “outside the lab, in real world, we cannot do well with just with logical rationality, we need ecological rationality - the kind of thinking that helps us get what we want in an environment that's uncertain and dynamic. This means exercising our instincts, using simple but robust rules of thumb.”
 
 - [The Best Way to Make Intelligent Decisions](https://fs.blog/mental-models/#military_and_war) - A collection of 109 models.
 
@@ -475,6 +483,8 @@ You shouldn't spend your time coding. Leave that to the engineers: your value li
 
 - [Do engineering managers need to be technical?](https://increment.com/teams/do-engineering-managers-need-to-be-technical/) - Yes. “Looking forward to the next 30 years of management trends, only a few things seem certain: Managers should be technical, and the definition of technical will continue to change.”
 
+- [If Your Boss Could Do Your Job, You’re More Likely to Be Happy at Work](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) - “Although we found that many factors can matter for happiness at work – type of occupation, level of education, tenure, and industry are also significant, for instance – they don’t even come close to mattering as much as the boss’s technical competence.”
+
 - “The best managers I met tended to be those that if the circumstance required it, could do the job of those two levels below.” ([source](https://news.ycombinator.com/item?id=23891984)) - Another way of putting it: managers needs domain knowledge and to know the work their reports do.
 
 - “Over the years we have developed the policy that it is important for the supervisor to thoroughly know and understand the work of his group.” ([source](https://news.ycombinator.com/item?id=20683609)) - This quote is [from David Packard](https://amzn.com/0060845791/?tag=kevideld-20) (HP co-founder), decades before current [management fad](https://en.wikipedia.org/wiki/Management_fad).
@@ -554,6 +564,8 @@ The most important meetings you'll have are frequent 1:1s with your direct repor
 - [1 on 1 Meeting Questions](https://github.com/VGraupera/1on1-questions) - A mega list in which most of them are great starters for conversation, some others are clearly bad ideas. A great source of inspiration nonetheless, but choose carefully.
 
 - [How to have great meetings, according to 200 scientific studies](https://qz.com/work/1713662/how-to-have-great-meetings-according-to-200-scientific-studies/) - A roadmap for getting meetings right.
+
+- [Wadge’s Law (of Meetings)](https://billwadge.wordpress.com/2019/03/24/laws-of-the-universe-and-teaching/) - “Before every formal meeting there’s a smaller, more exclusive, less formal meeting where all the important decisions are made.”
 
 ## Facilities
 
@@ -676,6 +688,8 @@ Time management and planning starts with estimates, but often degenerates into d
 - [Apple Aperture: Senior QA](https://techreflect.net/2019/12/10/aperture-senior-qa-2004-2005/) - How not to manage projects approaching deadlines: “cutting finished features, yelling at people, and working people to the point of nervous breakdowns. Then they came upon a brilliant idea: let's steal over a hundred engineers from other teams and then the project will magically get done on time.”
 
 - [Robert "Uncle Bob" Martin talk about professionalism in software development](https://youtu.be/LmRl0D-RkPU?t=3202) - The only honest estimate is "I don't know". But you can come up with some kind of propability assessment, that will inform about the shape of the risk. This is not unlike PERT, where an activity is bounded by [optimistic, pessimistic and most-likely time](https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique#Time). Now if managers don't take a range for an answer, don't fall in that trap. Tell them you're already trying as you possibly can. “And then the manager will have to do something very foreign: they'll have to manage. That's what management is: managing risk.”
+
+- [Why software projects take longer than you think: a statistical model](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html) - “Confirms the hunch that developers estimate the median well, but the mean ends up being much higher.”
 
 ### Tickets
 
