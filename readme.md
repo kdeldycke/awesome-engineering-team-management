@@ -255,7 +255,7 @@ Managers came in all form and shape, and the title and daily activities varies a
 
 - “The value that most orgs get from a consultant (…) is the political cover to make changes they knew they should make all along, but didn't have the social capital or the focus to make those changes” ([source](https://news.ycombinator.com/item?id=21714791)). And that's the reason bureaucracies and highly political organizations are fertile grounds for consultants.
 
-- [The Prosperous Software Consultant](https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd) - This article let you understand how an independant consultant operates.
+- [The Prosperous Software Consultant](https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd) - This article let you understand how an independent consultant operates.
 
 ## Recruitment
 
