@@ -121,7 +121,7 @@ The first step. The hardest: how to requalify oneself from an Individual Contrib
 
 - [Advice to new managers](https://twitter.com/ValaAfshar/status/966125964861280256) - 9 fundamental principles of the behavior required to be a great manager.
 
-- [Mistakes I’ve Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/) - Mistakes: “1) Thinking people give feedback the way they want to receive it; 2) Trying to do everything yourself; 3) Communicating something one time is enough; 4) You have to have everything together all the time.”
+- [Mistakes I've Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/) - Mistakes: “1) Thinking people give feedback the way they want to receive it; 2) Trying to do everything yourself; 3) Communicating something one time is enough; 4) You have to have everything together all the time.”
 
 - [Why It's Easier to Manage 4 People Than It Is to Manage 1 Person](https://staysaasy.com/management/2020/07/24/Managing-One-Person.html) - “Avoid at all costs the combination of: new manager, 1 report, report is new-to-industry, manager is not a subject-matter expert.”
 
@@ -189,7 +189,7 @@ In tech companies these roles are critical, and the frontier between the two is 
 
 - [The different skills needed to be a successful CTO](https://madewithlove.be/one-job-many-roles-the-different-skills-needed-to-be-a-successful-cto/) - The premise is a little misleading, as what is detailed there is the journey, in a startup, of the technical founder growing with the company to become a CTO. At which point the position described in the article is not CTO, but VP of Engineering.
 
-- [Hiring a VP of Engineering? Use This Framework](https://review.firstround.com/hiring-a-vp-of-engineering-use-this-framework-from-shopify%27s-vpe-to-get-it-right) -“*How do I hire a VP of Engineering?* After more than 20 years, eight companies, and thousands of hires, I’m starting to suspect this may be the wrong question. A better one is, *What is a VP of Engineering?*”
+- [Hiring a VP of Engineering? Use This Framework](https://review.firstround.com/hiring-a-vp-of-engineering-use-this-framework-from-shopify%27s-vpe-to-get-it-right) -“*How do I hire a VP of Engineering?* After more than 20 years, eight companies, and thousands of hires, I'm starting to suspect this may be the wrong question. A better one is, *What is a VP of Engineering?*”
 
 - [“That's usually about the time I nope right out of the interview”](https://news.ycombinator.com/item?id=19188246) - Bad signs of a CTO trying to recruit an engineering manager, or the perils of not believing in hierarchies.
 
@@ -405,7 +405,7 @@ Thinking frameworks and mental models to improve decision making, understand sys
 
 Expansive lists of well-known models and concepts.
 
-- [Gigerenzer’s simple rules](https://www.foundingfuel.com/article/gigerenzers-simple-rules/) - The reason we often relies on these simple heuristics: “outside the lab, in real world, we cannot do well with just with logical rationality, we need ecological rationality - the kind of thinking that helps us get what we want in an environment that's uncertain and dynamic. This means exercising our instincts, using simple but robust rules of thumb.”
+- [Gigerenzer's simple rules](https://www.foundingfuel.com/article/gigerenzers-simple-rules/) - The reason we often relies on these simple heuristics: “outside the lab, in real world, we cannot do well with just with logical rationality, we need ecological rationality - the kind of thinking that helps us get what we want in an environment that's uncertain and dynamic. This means exercising our instincts, using simple but robust rules of thumb.”
 
 - [The Best Way to Make Intelligent Decisions](https://fs.blog/mental-models/#military_and_war) - A collection of 109 models.
 
@@ -489,7 +489,7 @@ You shouldn't spend your time coding. Leave that to the engineers: your value li
 
 - [Do engineering managers need to be technical?](https://increment.com/teams/do-engineering-managers-need-to-be-technical/) - Yes. “Looking forward to the next 30 years of management trends, only a few things seem certain: Managers should be technical, and the definition of technical will continue to change.”
 
-- [If Your Boss Could Do Your Job, You’re More Likely to Be Happy at Work](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) - “Although we found that many factors can matter for happiness at work – type of occupation, level of education, tenure, and industry are also significant, for instance – they don’t even come close to mattering as much as the boss’s technical competence.”
+- [If Your Boss Could Do Your Job, You’re More Likely to Be Happy at Work](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) - “Although we found that many factors can matter for happiness at work – type of occupation, level of education, tenure, and industry are also significant, for instance – they don't even come close to mattering as much as the boss' technical competence.”
 
 - “The best managers I met tended to be those that if the circumstance required it, could do the job of those two levels below.” ([source](https://news.ycombinator.com/item?id=23891984)) - Another way of putting it: managers needs domain knowledge and to know the work their reports do.
 
@@ -571,7 +571,7 @@ The most important meetings you'll have are frequent 1:1s with your direct repor
 
 - [How to have great meetings, according to 200 scientific studies](https://qz.com/work/1713662/how-to-have-great-meetings-according-to-200-scientific-studies/) - A roadmap for getting meetings right.
 
-- [Wadge’s Law (of Meetings)](https://billwadge.wordpress.com/2019/03/24/laws-of-the-universe-and-teaching/) - “Before every formal meeting there’s a smaller, more exclusive, less formal meeting where all the important decisions are made.”
+- [Wadge's Law (of Meetings)](https://billwadge.wordpress.com/2019/03/24/laws-of-the-universe-and-teaching/) - “Before every formal meeting there's a smaller, more exclusive, less formal meeting where all the important decisions are made.”
 
 ## Facilities
 
@@ -975,7 +975,7 @@ Here we are, at the intersection of power and influence lies the political game.
 
 - “This is the managerialist dream. To replace employees' judgement and competence with a process and management methodology. (…) It never works.” ([source](https://news.ycombinator.com/item?id=20881308)). And why the retraining answer above is the best one.
 
-- [A high-resilience org chart](https://jessitron.com/2021/05/26/a-high-resilience-org-chart/) - “If you know what problem you’re solving and you know how to solve it, a bureaucratic organization will do. Stick with what you know. If you’re writing software, that’s a generative activity. You need a high-resilience org chart. Fewer boxes, more flexibility.”
+- [A high-resilience org chart](https://jessitron.com/2021/05/26/a-high-resilience-org-chart/) - “If you know what problem you're solving and you know how to solve it, a bureaucratic organization will do. Stick with what you know. If you're writing software, that's a generative activity. You need a high-resilience org chart. Fewer boxes, more flexibility.”
 
 - [An Alternative Approach to Re-Orgs At Your Company](https://caseyaccidental.com/alternative-approach-re-orgs/) - “Trying not to repeat re-org mistakes, we started working on a structure that would make the re-org act like a feedback-fueled progress driven by the teams instead of by people above them.” This is an attempt to extract from the ground up signals pointing to inadequate structure. My cautionary tale: this might only work up to a point depending on the company's culture.
 
