@@ -260,7 +260,7 @@ Managers came in all form and shape, and the title and daily activities varies a
 
 ## Recruitment
 
-You're in a competitive sector in which talents are in high demand. Be prepared as a manager to spend a lot of time recruiting people, either to expand your team or fill-in open positions. The dynamics now gets interesting too, now that you are on both sides of the hiring process: as a candidate to get a job, and as a recruiter to staff up your team.
+You're in a competitive sector in which talents are in high demand. Be prepared as a manager to spend a lot of time recruiting people, either to expand your team or fill-in open positions. The dynamics gets interesting too, as you are now on both sides of the hiring process: as a candidate to get a job, and as a recruiter to staff up your team.
 
 ### Job Boards
 
