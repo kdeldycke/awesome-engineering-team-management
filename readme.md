@@ -100,6 +100,9 @@ This list provides a progression to help with the transition to management. From
   - [Equity](#equity)
 - [Politics](#politics)
 - [Re-organizations](#re-organizations)
+  - [Team-level](#team-level)
+  - [Company-level](#company-level)
+  - [Acquisition](#acquisition)
 - [Health](#health)
   - [Holidays](#holidays)
   - [Stress](#stress)
@@ -144,8 +147,6 @@ You got the title and the pay grade. Congratulation\! This doesn't make you a ma
 - [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - “Google's data indicated that psychological safety, more than anything else, was critical to making a team work. (…) The behaviors that create psychological safety — conversational turn-taking and empathy — are part of the same unwritten rules we often turn to, as individuals, when we need to establish a bond.”
 
 - [Paper we love: Software Engineering Organizations](https://github.com/papers-we-love/papers-we-love/tree/master/software_engineering_orgs) - “The practice of software engineering, and its history is, itself, a complex study in humanity, coordination, and communication.”
-
-- [Teams are like bread](https://blog.jessitron.com/2019/06/15/teams-are-like-bread/) - “If you have one team where the magic is flourishing, don't kill it. Feed it, grow it, and let it be a source of further strong teams. No rushing.”
 
 - [Developer Tropes: "Google does it"](https://tomaytotomato.com/developer-tropes-2/) - It's [cargo-cultish](https://en.wikipedia.org/wiki/Cargo_cult) to imitate the big names in our industry as a path to success. Instead, the take home from this article “would be that managers and other leaders should be like ecologists; who measure, observe and nurture their ecosystems. Doing so will help build a unique workplace that will yield great results.”
 
@@ -969,11 +970,30 @@ Here we are, at the intersection of power and influence lies the political game.
 
 ## Re-organizations
 
-- “If you have dealt with large, completely incompetent organizations and wondered how the hell they actually keep going - theres your answer. If built correctly it's genuinely difficult to mess things up.” ([source](https://news.ycombinator.com/item?id=20533922)). I.e. the structure of the organization is quintessential to its longevity.
+As a manager, you have direct responsability of the structure of the team. Past a certain size (around 8 to 12 depending on sources), you no longer have time to work with direct ICs, so you need to re-organize the team.
+
+At a company level, re-orgs are mostly strategic and your influence on them depends on your political acumen.
+
+### Team-level
+
+- [Why it’s difficult to build teams in high growth organisations](https://jchyip.medium.com/why-its-difficult-to-build-teams-in-high-growth-organisations-e1aee8446337) - Describes 3 different approach a manager can take to accomodate new people in the team: 1. Sink or Swim; 2. Split and Absorb; 3. Absorb and Split.
+
+- [Teams are like bread](https://blog.jessitron.com/2019/06/15/teams-are-like-bread/) - Resonates with the *Absorb and Split* strategy discussed above: “if you have one team where the magic is flourishing, don't kill it. Feed it, grow it, and let it be a source of further strong teams. No rushing.”
+
+- [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html) - Story of a manager trying to distill the concepts of a data-driven company while growing a tiny team of 3 people.
+Each step covers the evolution of the technical pipeline and interactions with existing stakeholders.
 
 - [If I Close My Data Centers, What About the People/Jobs Lost?](https://news.ycombinator.com/item?id=17329028) - F50's data centers being migrated to commercial cloud provider. But what about the people currently doing legacy stuff? The answer: retrain.
 
 - “This is the managerialist dream. To replace employees' judgement and competence with a process and management methodology. (…) It never works.” ([source](https://news.ycombinator.com/item?id=20881308)). And why the retraining answer above is the best one.
+
+- [I've Built Multiple Growth Teams. Here's Why I Won't Do It Again.](https://conversionxl.com/blog/dont-build-growth-teams/) - “Few folks understand probability, and most executives don't care about the data, regardless of what it says.”
+
+### Company-level
+
+- [The SaaS Org Chart](https://sacks.substack.com/p/the-saas-org-chart) - Blueprints of an organization at each stage of its 50/125/400/1000-employees stages, with typical ratios and ARR.
+
+- “If you have dealt with large, completely incompetent organizations and wondered how the hell they actually keep going - theres your answer. If built correctly it's genuinely difficult to mess things up.” ([source](https://news.ycombinator.com/item?id=20533922)). I.e. the structure of the organization is quintessential to its longevity.
 
 - [A high-resilience org chart](https://jessitron.com/2021/05/26/a-high-resilience-org-chart/) - “If you know what problem you're solving and you know how to solve it, a bureaucratic organization will do. Stick with what you know. If you're writing software, that's a generative activity. You need a high-resilience org chart. Fewer boxes, more flexibility.”
 
@@ -981,9 +1001,11 @@ Here we are, at the intersection of power and influence lies the political game.
 
 - “When everything is great success, people behind that success shadow the people who could make success in the future. (…) Netflix is great example of how to do big transition right. Netflix was in renting DVDs by mail business. When the decision to move to streaming was made, Netflix CEO did not allow managers who responsible for DVD renting business into meetings where the future was planned.” ([source](https://news.ycombinator.com/item?id=21395557)).
 
-- [I've Built Multiple Growth Teams. Here's Why I Won't Do It Again.](https://conversionxl.com/blog/dont-build-growth-teams/) - “Few folks understand probability, and most executives don't care about the data, regardless of what it says.”
-
 - [Speaking Truth to Power: Reflections on My Career at Microsoft](https://onezero.medium.com/speaking-truth-to-power-reflections-on-a-career-at-microsoft-90f80a449e36) - After 3 decades in a deeply flawed company, the author comes to a humble conclusion: leaders should embodies the value of their employees. Not the other way around. “Changes at the top — not speeches, training or hashtags — make the most cultural impact. If you want real and lasting cultural change, sweep away the made-men who succeeded under the previous culture and promote the people who look, act, and think more like their employees than their managers.”
+
+### Acquisition
+
+A special case of re-org, that might take the form of inclusion, absorbtion or dissolution of the aquired company.
 
 - [How the Digg team was acquihired](https://lethain.com/digg-acquihire/) - Acqui-hire of a whole team can be seen as a type of reorg. In which managers will have to negotiate the new employment contracts in bulk in one or two days: “Because acquihires are “star” oriented, if you're a senior leaders who doesn't explicitly refuse to move forward, pressure will converge on you from all sides”.
 
