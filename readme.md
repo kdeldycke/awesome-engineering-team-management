@@ -510,6 +510,8 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 - [I try to optimize my code around reducing state, coupling, complexity and code, in that order](https://news.ycombinator.com/item?id=11042400) - An engineer's perspective on which priorities should be addressed first to increase robustness of systems.
 
+- [SpaceX’s 5-Step design and manufacturing process](https://twitter.com/TrungTPhan/status/1425476793327259651) - “1. Make requirement less dumb; 2. Try to delete parts; 3. Simplify or optimize; 4. Accelerate cycle time; 5. Automate”.
+
 ### Technology
 
 - [Choose Boring Technology](http://boringtechnology.club) - “Boring, in the sense that it's well understood.”
