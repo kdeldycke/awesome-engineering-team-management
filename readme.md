@@ -984,7 +984,7 @@ At a company level, re-orgs are mostly strategic and your influence on them depe
 
 ### Team-level
 
-- [Why it’s difficult to build teams in high growth organisations](https://jchyip.medium.com/why-its-difficult-to-build-teams-in-high-growth-organisations-e1aee8446337) - Describes 3 different approach a manager can take to accomodate new people in the team: 1. Sink or Swim; 2. Split and Absorb; 3. Absorb and Split.
+- [Why it’s difficult to build teams in high growth organisations](https://jchyip.medium.com/why-its-difficult-to-build-teams-in-high-growth-organisations-e1aee8446337) - Describes 3 different approach a manager can take to accommodate new people in the team: 1. Sink or Swim; 2. Split and Absorb; 3. Absorb and Split.
 
 - [Teams are like bread](https://blog.jessitron.com/2019/06/15/teams-are-like-bread/) - Resonates with the *Absorb and Split* strategy discussed above: “if you have one team where the magic is flourishing, don't kill it. Feed it, grow it, and let it be a source of further strong teams. No rushing.”
 
@@ -1012,7 +1012,7 @@ At a company level, re-orgs are mostly strategic and your influence on them depe
 
 ### Acquisition
 
-A special case of re-org, that might take the form of inclusion, absorbtion or dissolution of the aquired company.
+A special case of re-org, that might take the form of inclusion, absorbtion or dissolution of the acquired company.
 
 - [How the Digg team was acquihired](https://lethain.com/digg-acquihire/) - Acqui-hire of a whole team can be seen as a type of reorg. In which managers will have to negotiate the new employment contracts in bulk in one or two days: “Because acquihires are “star” oriented, if you're a senior leaders who doesn't explicitly refuse to move forward, pressure will converge on you from all sides”.
 
