@@ -354,7 +354,7 @@ How to get newcomers up to speed with the rest of the team you manage. And how t
 
 - Reflecting on the postulates above, [Bryan Cantrill defines that the role of management](https://twitter.com/bcantrill/status/1216491615264489473?s=20) “is in constructing that environment, not micromanaging it. If engineering performance is suffering, it's (likely) a management problem: wrong problem, wrong mission, or wrong team -- or all three.”
 
-- [What Silicon Valley "Gets" about Software Engineers that Traditional Companies Do Not](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/) - “1. Autonomy for software engineers; 2. Curious problem solvers, not mindless resources; 3. Internal data, code, and documentation transparency; 4. Exposure to the business and to business metrics; 5. Engineer-to-engineer comms over triangle-communication; 6. Investing in a less frustrating developer experience; 7. Higher leverage --> higher {autonomy, pay}”.
+- [What Silicon Valley "Gets" about Software Engineers that Traditional Companies Do Not](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/) - “1. Autonomy for software engineers; 2. Curious problem solvers, not mindless resources; 3. Internal data, code, and documentation transparency; 4. Exposure to the business and to business metrics; 5. Engineer-to-engineer comms over triangle-communication; 6. Investing in a less frustrating developer experience; 7. Higher leverage --\> higher {autonomy, pay}”.
 
 - [Some reasons why enterprise software is good and maybe even fun](https://news.ycombinator.com/item?id=21231455) - The majority of us will not build the next unicorn: we statically have a better chance to build enterprise software. The twist? It might even be more interesting than you expect.
 
@@ -988,8 +988,7 @@ At a company level, re-orgs are mostly strategic and your influence on them depe
 
 - [Teams are like bread](https://blog.jessitron.com/2019/06/15/teams-are-like-bread/) - Resonates with the *Absorb and Split* strategy discussed above: “if you have one team where the magic is flourishing, don't kill it. Feed it, grow it, and let it be a source of further strong teams. No rushing.”
 
-- [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html) - Story of a manager trying to distill the concepts of a data-driven company while growing a tiny team of 3 people.
-Each step covers the evolution of the technical pipeline and interactions with existing stakeholders.
+- [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html) - Story of a manager trying to distill the concepts of a data-driven company while growing a tiny team of 3 people. Each step covers the evolution of the technical pipeline and interactions with existing stakeholders.
 
 - [If I Close My Data Centers, What About the People/Jobs Lost?](https://news.ycombinator.com/item?id=17329028) - F50's data centers being migrated to commercial cloud provider. But what about the people currently doing legacy stuff? The answer: retrain.
 
