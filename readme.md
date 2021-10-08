@@ -298,6 +298,8 @@ List of questions that can be used when vetting potential candidates, and topics
 
 - [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A great source of inspiration.
 
+- [Engineering Leadership Interviews](https://github.com/kaushikb9/em-interviews) - An outline on how to recruit for engineering manager roles.
+
 - [Reverse interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview. Be prepared to answer them as a manager.
 
 - [Culture Queries](https://www.keyvalues.com/culture-queries) - A sample of question to ask in job interviews to try to understand the values of a company.
@@ -420,6 +422,8 @@ Expansive lists of well-known models and concepts.
 
 - [A Few Rules](https://www.collaborativefund.com/blog/a-few-rules/) - A formalized list of some wisdom you probably encountered elsewhere.
 
+-[Awesome Concepts](https://github.com/lukasz-madon/awesome-concepts) - Laws, principles, mental models and cognitive biases.
+
 ### Explaining
 
 - [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) - “Never attribute to malice that which is adequately explained by stupidity.” My favorite flavor of [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor), and a crucial mantra to defuse rampant paranoia in a highly political setting.
@@ -537,6 +541,8 @@ Whatever the technical stack, we are building systems first, and have to manage 
 - [Google Engineering Practices](https://google.github.io/eng-practices/) - Explains how to perform code reviews and how to submit them.
 
 - [Embedded Rules of Thumb](https://embeddedartistry.com/blog/2018/04/26/embedded-rules-of-thumb/) - Guidelines and heuristics to provide a reasonable approximation of the truth while developing embedded devices. Most also applies to software projects in general.
+
+- [How to Misuse Code Coverage](http://www.testingeducation.org/BBST/foundations/Marick_coverage.pdf) - “If a part of your test suite is weak in a way that coverage can detect, it's likely also weak in a way coverage can't detect.” I.e. the great benefit of a coverage report is that it tells you what you forgot to think about when you wrote the test suite itself ([source](https://news.ycombinator.com/item?id=28678098)).
 
 ### Technical Debt
 
