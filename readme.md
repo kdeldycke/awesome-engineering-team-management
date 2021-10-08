@@ -422,7 +422,7 @@ Expansive lists of well-known models and concepts.
 
 - [A Few Rules](https://www.collaborativefund.com/blog/a-few-rules/) - A formalized list of some wisdom you probably encountered elsewhere.
 
-\-[Awesome Concepts](https://github.com/lukasz-madon/awesome-concepts) - Laws, principles, mental models and cognitive biases.
+- [Awesome Concepts](https://github.com/lukasz-madon/awesome-concepts) - Laws, principles, mental models and cognitive biases.
 
 ### Explaining
 
