@@ -204,6 +204,8 @@ Managers came in all form and shape, and the title and daily activities varies a
 
 - [As a product manager, how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
 
+- [Good Boss, Bad Boss: A Peek Inside the Minds of the Best (and Worst)](https://www.youtube.com/watch?v=lmBSh1FGQyY) - A good boss: gets rid of rotten apples (no asshole rule) and protects people from idiocy from on high.
+
 - “One of your roles is to act as an information filter in both directions” ([source](https://news.ycombinator.com/item?id=19187593)) - Some tips on how to balance which kind of information needs to be shared or muted.
 
 - [Great PMs don't spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/) - Not on solutions, no. But on customer's problems.
