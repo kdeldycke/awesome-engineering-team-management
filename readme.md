@@ -900,7 +900,7 @@ Stepping stones advancing a career in a company takes the form of promotions. Th
 
 - [How to discipline overeager engineer](https://workplace.stackexchange.com/questions/145709/how-to-discipline-overeager-engineer) - Over-achieving talent is looking for a management promotion. Management does not recognize effort. Engineer become disgruntled and management is looking to discipline him. A case-study of a bad situation in which both side shows clumsiness.
 
-- “Most people realize by their 30s that prestige is a sucker's game” ([source](https://news.ycombinator.com/item?id=11833832)) - So not chase promotion for the title only.
+- “Most people realize by their 30s that prestige is a sucker's game” ([source](https://news.ycombinator.com/item?id=11833832)) - Do not chase promotion for the title only.
 
 - [For all you future CTOs, consider your incentive schemes carefully](https://news.ycombinator.com/item?id=24463676) - How a promotion scheme marked the end of Uber's engineering excellence and the start of what made the company turn into a bureaucratic mess.
 
