@@ -990,6 +990,8 @@ Here we are, at the intersection of power and influence lies the political game.
 
 - [4 Clues to Identify a Destructive Leader](https://articles.tilt365.com/identify-destructive-leadership-patterns/) - “1. I'm kind of a big deal\! 2. None of this is my fault\! 3. Just do what I say\! 4. Trust me; I'm never wrong.”
 
+- “The president of MIT told me that tenure was not about research, productivity, or merit. It was about office politics & being liked by your department.” ([source](https://threadreaderapp.com/thread/1494369809538195456.html)) - Contemplating to switch from the industry? The grass is not greener in academia. Given a significant size, any organization comes with its political game.
+
 ## Re-organizations
 
 As a manager, you have direct responsability of the structure of the team. Past a certain size (around 8 to 12 depending on sources), you no longer have time to work with direct ICs, so you need to re-organize the team.
