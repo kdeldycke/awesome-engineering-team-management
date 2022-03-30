@@ -962,7 +962,7 @@ Here we are, at the intersection of power and influence lies the political game.
 
 - [Circulation of elite](https://en.wikipedia.org/wiki/Circulation_of_elite) - “Changes of regime, revolutions, and so on occur not when rulers are overthrown from below, but when one elite replaces another.”
 
-- [The Rules for Rulers](https://www.youtube.com/watch?v=rStL7niR7gs) - “Smart key supporters will always watch the balance of power, ready to change allegience if the ruler look to be the loser in a shifting web of alliances. (...) Buy all the loyalty you can, because loyalty, in dictatorial organizations of all kinds, is everything.”
+- [The Rules for Rulers](https://www.youtube.com/watch?v=rStL7niR7gs) - “Smart key supporters will always watch the balance of power, ready to change allegience if the ruler look to be the loser in a shifting web of alliances. (…) Buy all the loyalty you can, because loyalty, in dictatorial organizations of all kinds, is everything.”
 
 - “Playing the game well is now front and center” ([source](https://news.ycombinator.com/item?id=21925738)), or why the [Key practices for achieving large professional goals](https://nodramadevops.com/2019/12/key-practices-for-achieving-large-professional-goals/) is missing the parts about office politics.
 
