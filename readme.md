@@ -23,13 +23,90 @@ A compilation of advices, anecdotes, knowledge tidbits, discussions, industry sm
 - You're stuck into the day-to-day operations of the job?
 - How can I move up to the next level?
 
-You'll find answers in this guide\! It stands out from generic leadership and management literature, by providing uncompromising insights and practical advices to bootstrap your journey into the management career track, from a technical background.
+You'll find answers in this guide! It stands out from generic leadership and management literature, by providing uncompromising insights and practical advices to bootstrap your journey into the management career track, from a technical background.
 
 This list provides a progression to help with the transition to management. From general to specifics. It starts with an overview of the role, then describes its requirements, and its position relative to others. Then we delves into the day-to-day tools of the trade, both organizational and behavioral. At last we discuss about some of the dark sides of the job.
 
 ## Contents
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=6 --minlevel=2 -->
+
+- [Engineering to Management Transition](#engineering-to-management-transition)
+- [Building Teams](#building-teams)
+- [Roles](#roles)
+  - [Executives](#executives)
+  - [CTO & VP of Engineering](#cto--vp-of-engineering)
+  - [Engineering Managers](#engineering-managers)
+  - [Engineers](#engineers)
+  - [Consultants](#consultants)
+- [Recruitment](#recruitment)
+  - [Job Boards](#job-boards)
+  - [Hiring Process](#hiring-process)
+  - [Interview](#interview)
+  - [Coding Challenge](#coding-challenge)
+  - [Negotiation](#negotiation)
+- [Onboarding](#onboarding)
+- [Motivation](#motivation)
+  - [Happiness](#happiness)
+  - [Procrastination](#procrastination)
+- [Culture](#culture)
+- [Cognitive Tools](#cognitive-tools)
+  - [Collections](#collections)
+  - [Explaining](#explaining)
+  - [Problem Solving](#problem-solving)
+  - [Systems](#systems)
+  - [Brainstorming](#brainstorming)
+  - [Behavioral](#behavioral)
+- [Team Dynamics](#team-dynamics)
+- [Engineering](#engineering)
+  - [The Technical Engineering Manager](#the-technical-engineering-manager)
+  - [Systems Complexity](#systems-complexity)
+  - [Technology](#technology)
+  - [Engineering Practices](#engineering-practices)
+  - [Technical Debt](#technical-debt)
+- [Remote Work](#remote-work)
+- [Meetings](#meetings)
+- [Facilities](#facilities)
+- [Product Management](#product-management)
+  - [Hiring PMs](#hiring-pms)
+  - [Product-Market Fit](#product-market-fit)
+  - [Product Strategy](#product-strategy)
+  - [User-Centered Design](#user-centered-design)
+  - [Product Marketing](#product-marketing)
+- [Project Management](#project-management)
+  - [Specifications](#specifications)
+  - [Estimations](#estimations)
+  - [Tickets](#tickets)
+- [Agile](#agile)
+- [Key Performance Indicator (KPI)](#key-performance-indicator-kpi)
+- [Objectives and Key Results (OKR)](#objectives-and-key-results-okr)
+- [Training](#training)
+- [Communication](#communication)
+  - [Knowledge](#knowledge)
+  - [Reading](#reading)
+  - [Documentation](#documentation)
+  - [Writing](#writing)
+  - [Style](#style)
+  - [Presentations](#presentations)
+- [Career](#career)
+  - [Promotion](#promotion)
+  - [Performance Reviews](#performance-reviews)
+- [Compensation](#compensation)
+  - [Salary](#salary)
+  - [Equity](#equity)
+- [Politics](#politics)
+- [Re-organizations](#re-organizations)
+  - [Team-level](#team-level)
+  - [Company-level](#company-level)
+  - [Acquisition](#acquisition)
+- [Health](#health)
+  - [Holidays](#holidays)
+  - [Stress](#stress)
+  - [Burnout](#burnout)
+- [Setbacks and Failures](#setbacks-and-failures)
+- [Exits](#exits)
+
+<!-- mdformat-toc end -->
 
 ## Engineering to Management Transition
 
@@ -59,7 +136,7 @@ The first step. The hardest: how to requalify oneself from an Individual Contrib
 
 ## Building Teams
 
-You got the title and the pay grade. Congratulation\! This doesn't make you a manager yet. Whether you inherit an already existing team or have to start from scratch, you'll need to practice the art of building (and consolidating) them.
+You got the title and the pay grade. Congratulation! This doesn't make you a manager yet. Whether you inherit an already existing team or have to start from scratch, you'll need to practice the art of building (and consolidating) them.
 
 - [Building and Motivating Engineering Teams](http://www.elidedbranches.com/2016/11/building-and-motivating-engineering.html) - What DO engineers want? Money, purpose and respect.
 
@@ -159,7 +236,7 @@ Managers came in all form and shape, and the title and daily activities varies a
 
 - [All the best engineering advice I stole from non-technical people](https://medium.com/@bellmar/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f) - “It's intriguing that the stuff that really seems to make a difference in the quality of software never seems to be about software.”
 
-- [What Makes A Great Software Engineer?](https://faculty.washington.edu/ajko/papers/Li2015GreatEngineers.pdf) - Doesn't conclude on a definitive answer to the question, but details a model based on 53 attributes (\!). Still a good source referencing other papers on the topic.
+- [What Makes A Great Software Engineer?](https://faculty.washington.edu/ajko/papers/Li2015GreatEngineers.pdf) - Doesn't conclude on a definitive answer to the question, but details a model based on 53 attributes (!). Still a good source referencing other papers on the topic.
 
 - [What makes a Senior Dev](https://news.ycombinator.com/item?id=11341567) - “Time, man. You gotta do your fucking time.”
 
@@ -277,7 +354,7 @@ How to get newcomers up to speed with the rest of the team you manage. And how t
 
 - Reflecting on the postulates above, [Bryan Cantrill defines that the role of management](https://twitter.com/bcantrill/status/1216491615264489473?s=20) “is in constructing that environment, not micromanaging it. If engineering performance is suffering, it's (likely) a management problem: wrong problem, wrong mission, or wrong team -- or all three.”
 
-- [What Silicon Valley "Gets" about Software Engineers that Traditional Companies Do Not](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/) - “1. Autonomy for software engineers; 2. Curious problem solvers, not mindless resources; 3. Internal data, code, and documentation transparency; 4. Exposure to the business and to business metrics; 5. Engineer-to-engineer comms over triangle-communication; 6. Investing in a less frustrating developer experience; 7. Higher leverage --\> higher {autonomy, pay}”.
+- [What Silicon Valley "Gets" about Software Engineers that Traditional Companies Do Not](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/) - “1. Autonomy for software engineers; 2. Curious problem solvers, not mindless resources; 3. Internal data, code, and documentation transparency; 4. Exposure to the business and to business metrics; 5. Engineer-to-engineer comms over triangle-communication; 6. Investing in a less frustrating developer experience; 7. Higher leverage --> higher {autonomy, pay}”.
 
 - [Some reasons why enterprise software is good and maybe even fun](https://news.ycombinator.com/item?id=21231455) - The majority of us will not build the next unicorn: we statically have a better chance to build enterprise software. The twist? It might even be more interesting than you expect.
 
@@ -475,7 +552,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 - [The Framing of the Developer](https://www.svese.de/impact-vs-backlog-frame-in-software-development) - Default framing is around the backlog, which leads to an asymmetry in which failure is blamed on lacks of developer performance, and success is celebrated as the full realization of the PM's vision. But “technology is the bank that gave credit”, and technical debt should be called product debt “because product took the credit to get a feature faster and must pay back by investing the time to clean up.” The alternative? “Companies today need a frame of impact. In this world-view success is defined by impact.”
 
-- [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/) - “My boss invited me for a one-on-one chat where they politely asked me to revert my change. I was aghast. The old code was a mess, and mine was clean\! (…) I see now that my 'refactoring' was a disaster in two ways: I didn't talk to the person who wrote it; My code traded the ability to change requirements for reduced duplication”.
+- [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/) - “My boss invited me for a one-on-one chat where they politely asked me to revert my change. I was aghast. The old code was a mess, and mine was clean! (…) I see now that my 'refactoring' was a disaster in two ways: I didn't talk to the person who wrote it; My code traded the ability to change requirements for reduced duplication”.
 
 ## Remote Work
 
@@ -547,7 +624,7 @@ On interviewing for a PM position. And how to conduct an interview to assess a P
 
 The first step to validate your product: is the market finding interest in your venture?
 
-- [I wasted $40k on a fantastic startup idea](https://tjcx.me/posts/i-wasted-40k-on-a-fantastic-startup-idea/) - A tale of building a product no user want to pay for. “You can't just create value for the user: that's a charity. You also can't just create value for your company: that's a scam. Your goal is to set up some kind of positive-sum exchange, where everyone benefits, including you. A business plan, according to this textbook, starts with this simple question: how will you create value for yourself and the company?”
+- [I wasted \$40k on a fantastic startup idea](https://tjcx.me/posts/i-wasted-40k-on-a-fantastic-startup-idea/) - A tale of building a product no user want to pay for. “You can't just create value for the user: that's a charity. You also can't just create value for your company: that's a scam. Your goal is to set up some kind of positive-sum exchange, where everyone benefits, including you. A business plan, according to this textbook, starts with this simple question: how will you create value for yourself and the company?”
 
 - [David Rusenko - How To Find Product Market Fit](https://www.youtube.com/watch?v=0LNQxT9LvM0) - “Details the story of how Weebly developed one of the most popular website creation and hosting sites on the web today.”
 
@@ -567,7 +644,7 @@ Where your product lies in the value chain and how to position it in the market.
 
 - Windows Vista as a prime example of a [sacrificial lamb product](https://twitter.com/SwiftOnSecurity/status/851861076429991937): a massive unpopular re-architecture required to pave the way for future innovative release. That's the cautionary tale of why you should be ready for intense criticism and adversity, if by chance or fate your wander down the path of monumental changes in a business software.
 
-- Talking about Vista, Microsoft found out following its unsuccessful launch that [the \#1 bug predictor is not technical, it's organizational complexity](https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/).
+- Talking about Vista, Microsoft found out following its unsuccessful launch that [the #1 bug predictor is not technical, it's organizational complexity](https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/).
 
 - [Osborne effect](https://en.wikipedia.org/wiki/Osborne_effect) - “A social phenomenon of customers canceling or deferring orders for the current soon-to-be-obsolete product as an unexpected drawback of a company's announcing a future product prematurely.” This is the price to pay for hasty marketing actions.
 
@@ -583,7 +660,7 @@ On how to focus on user's problem to have your product delivers value.
 
 - [The product roadmap is dead: welcome to the age of problem roadmaps](https://medium.com/product-managers-at-work/the-product-roadmap-is-dead-welcome-to-the-age-of-problem-roadmaps-7c7745ac8ae0) - “Fall in love with your problems and not with your solutions.”
 
-- [Kasparov's Law](https://curatedintelligence.com/2017/10/20/kasparovs-law/) - Weak human + Machine \> Machine \> Strong Human.
+- [Kasparov's Law](https://curatedintelligence.com/2017/10/20/kasparovs-law/) - Weak human + Machine > Machine > Strong Human.
 
 - [The Psychology of Design](https://growth.design/psychology/) - An extensive list of cognitive biases and design principles with examples and tips to fine-tune your product and UX.
 
@@ -657,7 +734,7 @@ Time management and planning starts with estimates, but often degenerates into d
 
 - “The fundamental problem that drives most agile failures isn't in the team's execution, it's in the business' expectations. One side is signed up for incremental delivery, and one side is set up for a fixed scope and deadline and the result is misery.” ([source](https://news.ycombinator.com/item?id=20326074))
 
-- [Failed \#SquadGoals - Spotify doesn't use "the Spotify model" and neither should you](https://www.jeremiahlee.com/posts/failed-squad-goals/) - “Why it didn't work? 1. Matrix management solved the wrong problem; 2. It fixated on team autonomy; 3. Collaboration was an assumed competency; 4. Mythology became difficult to change”.
+- [Failed #SquadGoals - Spotify doesn't use "the Spotify model" and neither should you](https://www.jeremiahlee.com/posts/failed-squad-goals/) - “Why it didn't work? 1. Matrix management solved the wrong problem; 2. It fixated on team autonomy; 3. Collaboration was an assumed competency; 4. Mythology became difficult to change”.
 
 ## Key Performance Indicator (KPI)
 
@@ -829,7 +906,7 @@ Stepping stones advancing a career in a company takes the form of promotions. Th
 
 Reviews and performance evaluations are the tool of the trade to unlock promotions. As a manager, your going to write and instrument them for your team members to get the raise they deserve. And getting through them as any other employee to advance your career.
 
-- [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) - There's this idea that, if you do great work at your job, people will (or should\!) automatically recognize that work and reward you for it with promotions / increased pay. In practice, it's often more complicated than that.
+- [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) - There's this idea that, if you do great work at your job, people will (or should!) automatically recognize that work and reward you for it with promotions / increased pay. In practice, it's often more complicated than that.
 
 - [Incentive Pay Considered Harmful](https://www.joelonsoftware.com/2000/04/03/incentive-pay-considered-harmful/) - “Incentives (or bribes) simply can't work in the workplace. (…) Most software managers have no choice but to go along with performance review systems that are already in place. If you're in this position, the only way to prevent teamicide is to simply give everyone on your team a gushing review”.
 
@@ -839,7 +916,7 @@ Reviews and performance evaluations are the tool of the trade to unlock promotio
 
 - “The system a software developer works in shapes their performance so much more than individual differences.” ([source](https://news.ycombinator.com/item?id=21972033)).
 
-- [Performance review generator](https://mschmitt.org/performance/) - Tired of writing reviews? Automate it\!
+- [Performance review generator](https://mschmitt.org/performance/) - Tired of writing reviews? Automate it!
 
 ## Compensation
 
@@ -851,7 +928,7 @@ It's not only about the salary, but the whole package: equity, bonuses, perks, a
 
 - [benefits.fyi](https://benefits.fyi) - Same as above, but trying to evaluate the values of benefits across companies.
 
-- [L8-L10 salaries at AWS](https://news.ycombinator.com/item?id=21823987) - A reference point to what $M+ compensation packages looks like.
+- [L8-L10 salaries at AWS](https://news.ycombinator.com/item?id=21823987) - A reference point to what \$M+ compensation packages looks like.
 
 - [Salaries never stay secrets forever. Hiding them only delays the inevitable.](https://news.ycombinator.com/item?id=2439478)
 
@@ -907,7 +984,7 @@ Here we are, at the intersection of power and influence lies the political game.
 
 - [US spy manual has tips for coping with toxic bosses](https://qz.com/work/1717297/how-to-cope-with-a-toxic-boss-according-to-a-us-spy-manual-from-wwii/) - Derived from WWII-era [Simple Sabotage Field Manual](https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/CleanedUOSSSimpleSabotage_sm.pdf), a classic read to spot harassing and demoralizing behaviors.
 
-- [4 Clues to Identify a Destructive Leader](https://articles.tilt365.com/identify-destructive-leadership-patterns/) - “1. I'm kind of a big deal\! 2. None of this is my fault\! 3. Just do what I say\! 4. Trust me; I'm never wrong.”
+- [4 Clues to Identify a Destructive Leader](https://articles.tilt365.com/identify-destructive-leadership-patterns/) - “1. I'm kind of a big deal! 2. None of this is my fault! 3. Just do what I say! 4. Trust me; I'm never wrong.”
 
 - “The president of MIT told me that tenure was not about research, productivity, or merit. It was about office politics & being liked by your department.” ([source](https://threadreaderapp.com/thread/1494369809538195456.html)) - Contemplating to switch from the industry? The grass is not greener in academia. Given a significant size, any organization comes with its political game.
 
@@ -1041,7 +1118,7 @@ Sometimes, you just have to call it quits.
 
 ## Contributing
 
-Your contributions are always welcome\! Please take a look at the [contribution guidelines](.github/contributing.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](.github/contributing.md) first.
 
 ## Footnotes
 
