@@ -2,45 +2,8 @@
 name: Lint
 "on":
   push:
-  pull_request:
-  schedule:
-    # Run linter every week to catch regressions from external dependencies.
-    - cron: 17 9 * * 1
 
 jobs:
 
-  lint-markdown:
-    name: Lint markdown
-    runs-on: ubuntu-20.04
-    steps:
-      - uses: actions/checkout@v2.4.0
-      - uses: avto-dev/markdown-lint@v1.5.0
-        with:
-          config: '.github/markdown-lint.yaml'
-          args: './**/*.md'
-
-  lint-awesome:
-    name: Lint Awesome list
-    runs-on: ubuntu-20.04
-    steps:
-      - uses: actions/checkout@v2.4.0
-        with:
-          # Fetch all history to please linter's age checks.
-          fetch-depth: 0
-      - run: |
-          npx awesome-lint --version
-          npx awesome-lint
-
-  lint-yaml:
-    name: Lint YAML files
-    runs-on: ubuntu-20.04
-    steps:
-      - uses: actions/checkout@v2.4.0
-      - uses: actions/setup-python@v2.3.1
-      - name: Install linter
-        run: |
-          python -m pip install --upgrade pip
-          python -m pip install yamllint
-      - name: Lint
-        run: |
-          yamllint .
+  lint:
+    uses: kdeldycke/workflows/.github/workflows/lint.yaml@v1.1.0

@@ -1,0 +1,11 @@
+---
+name: Labels
+"on":
+  push:
+    branches:
+      - main
+
+jobs:
+
+  labels:
+    uses: kdeldycke/workflows/.github/workflows/labels.yaml@v1.1.0

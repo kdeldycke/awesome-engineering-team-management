@@ -1,5 +1,5 @@
 ---
-name: Autofix
+name: Docs
 "on":
   push:
     # Only targets main branch to avoid amplification effects of auto-fixing
@@ -9,5 +9,5 @@ name: Autofix
 
 jobs:
 
-  autofix:
-    uses: kdeldycke/workflows/.github/workflows/autofix.yaml@v1.1.0
+  docs:
+    uses: kdeldycke/workflows/.github/workflows/docs.yaml@v1.1.0
