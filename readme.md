@@ -66,6 +66,8 @@ This list provides a progression to help with the transition to management. From
   - [Technical Debt](#technical-debt)
 - [Remote Work](#remote-work)
 - [Meetings](#meetings)
+  - [1 on 1](#1-on-1)
+  - [Standups](#standups)
 - [Facilities](#facilities)
 - [Product Management](#product-management)
   - [Hiring PMs](#hiring-pms)
