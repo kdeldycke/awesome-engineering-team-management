@@ -130,6 +130,8 @@ The first step. The hardest: how to requalify oneself from an Individual Contrib
 
 - [How to be a Manager – A step-by-step guide to leading a team](https://getweeklyupdate.com/manager-guide) - A full, detailed guide on modern management practices.
 
+- [On being an Engineering Manager](https://ruiper.es/f746f5b7fff042c0a2565b6e36d236a4) - Some of these points needs nuance, but others are a good taste of things to come for first-time managers.
+
 - [Responsibility vs. accountability](https://news.ycombinator.com/item?id=21892816) - The biggest difference between manager (accountable) and engineers (responsible): “'Bad things' happen for the person accountable, whereas the person responsible can move on to the next project.”
 
 - “It is a job where your goal is to try disappoint people most slowly.” ([source](https://news.ycombinator.com/item?id=18222488)).
