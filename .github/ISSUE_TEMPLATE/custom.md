@@ -8,9 +8,9 @@ assignees: kdeldycke
 
 #### Preliminary checks
 
-- [ ] I have [read the Code of Conduct](https://github.com/kdeldycke/awesome-management/blob/main/.github/code-of-conduct.md)
-- [ ] I applied all rules from the [Contributing guide](https://github.com/kdeldycke/awesome-management/blob/main/.github/contributing.md)
-- [ ] I have checked there is not other [Issues](https://github.com/kdeldycke/awesome-management/issues) or [Pull Requests](https://github.com/kdeldycke/awesome-management/pulls) covering the same topic to open
+- [ ] I have [read the Code of Conduct](https://github.com/kdeldycke/awesome-engineering-team-management/blob/main/.github/code-of-conduct.md)
+- [ ] I applied all rules from the [Contributing guide](https://github.com/kdeldycke/awesome-engineering-team-management/blob/main/.github/contributing.md)
+- [ ] I have checked there is not other [Issues](https://github.com/kdeldycke/awesome-engineering-team-management/issues) or [Pull Requests](https://github.com/kdeldycke/awesome-engineering-team-management/pulls) covering the same topic to open
 
 #### Summary
 

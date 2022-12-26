@@ -33,7 +33,7 @@ This repository has reached an equilibrium state. We are past its accumulation p
 
 Have your pull-request pass the [official Awesome List's linter](https://github.com/sindresorhus/awesome-lint).
 
-No extra work is required here as it is [already integrated by the way of GitHub actions](https://github.com/kdeldycke/awesome-management/tree/main/.github/workflows).
+No extra work is required here as it is [already integrated by the way of GitHub actions](https://github.com/kdeldycke/awesome-engineering-team-management/tree/main/.github/workflows).
 
 To run the linter locally, do:
 
@@ -78,7 +78,7 @@ If one of these rule conflict with the linter, the linter's rule should takes pr
 
 - Try to provide an actionable TL;DR as a description, quoting the original text if it stands by itself.
 
-- [Removes `TL;DR:` prefix in description](https://github.com/kdeldycke/awesome-management/commit/da298ec1c39fe62fd4553e1a6de0ad4494602c57). Every description is a short summary anyway.
+- [Removes `TL;DR:` prefix in description](https://github.com/kdeldycke/awesome-engineering-team-management/commit/da298ec1c39fe62fd4553e1a6de0ad4494602c57). Every description is a short summary anyway.
 
 - Quotes should be properly delimited with the `“` and `”` curved quotation marks.
 
