@@ -4,7 +4,7 @@ Your contributions are always welcome! Here are some guidelines.
 
 ## Editorial line
 
-The editorial line is [describe in the intro of the main list](https://github.com/kdeldycke/awesome-management#-awesome-engineering-team-management-).
+The editorial line is [describe in the intro of the main list](https://github.com/kdeldycke/awesome-engineering-team-management#readme).
 
 Items are roughly ordered like so:
 
