@@ -15,7 +15,7 @@
   <a href="https://github.com/sponsors/kdeldycke">
     <strong>Yᴏᴜʀ Mᴀɴᴀɢᴇᴍᴇɴᴛ & Tᴇᴀᴍ Pʀᴏᴅᴜᴄᴛ ʜᴇʀᴇ!</strong>
     <br/>
-    <sup>You can add a link to your company or project here: back me up via a GitHub sponsorship.</sup>
+    <sup>Add a link to your company or project here: back me up via a GitHub sponsorship.</sup>
   </a>
 </p>
 
