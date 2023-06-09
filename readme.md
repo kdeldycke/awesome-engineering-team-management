@@ -19,7 +19,7 @@
   </a>
 </p>
 
----
+______________________________________________________________________
 
 <p align="center">
   <i>The manager's function is not to make people work, but to make it possible for people to work.</i><br>
