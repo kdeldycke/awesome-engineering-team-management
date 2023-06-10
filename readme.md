@@ -7,11 +7,6 @@
 </p>
 
 <p align="center">
-  <strong>A curated list for software developers to transition to an engineering management role.</strong>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/sponsors/kdeldycke">
     <strong>Yᴏᴜʀ Mᴀɴᴀɢᴇᴍᴇɴᴛ & Tᴇᴀᴍ Pʀᴏᴅᴜᴄᴛ ʜᴇʀᴇ!</strong>
     <br/>
@@ -20,6 +15,10 @@
 </p>
 
 ______________________________________________________________________
+
+<p align="center">
+  <strong>A curated <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"/></a> list for software developers to transition to an engineering management role.</strong>
+</p>
 
 <p align="center">
   <i>The manager's function is not to make people work, but to make it possible for people to work.</i><br>
