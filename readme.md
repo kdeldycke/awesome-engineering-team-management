@@ -281,8 +281,6 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
 
-- [TechMeAbroad](https://techmeabroad.com) - List job posts from tech startups and tech companies who will recruit from abroad.
-
 ### Hiring Process
 
 High-growth company will all need to industrialize the hiring process at one point.
