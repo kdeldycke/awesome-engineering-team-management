@@ -227,8 +227,6 @@ Managers came in all form and shape, and the title and daily activities varies a
 
 - [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager) - Huge list, but need some curation.
 
-- [The Leadership Library for Engineers](https://leadership-library.dev/88198011b2434d6280a94cc6fc89c569) - A list of books to help engineering leaders level up.
-
 - [A vitally important part of the job: being a crap shield](https://news.ycombinator.com/item?id=24802483) - “A lot of the work of an EM is wading into the slurry pit with a shovel so your team are free to get the job done”.
 
 ### Engineers
