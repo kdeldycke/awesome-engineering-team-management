@@ -545,6 +545,8 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 - [LEGO blocks and organ transplants](https://www.johndcook.com/blog/2011/02/03/lego-blocks-and-organ-transplants/) - “People have been comparing software components to LEGO blocks for a couple decades. (…) Integrating two software systems is usually more like performing a heart transplant than snapping together LEGO blocks.”
 
+- “Software development is more akin to the product design and development phase of industrial production than to the manufacturing.” ([source](https://accu.org/bookreviews/1998/kloss_1668/)) - This quote is from a review of [*Superdistribution - Objects as Property on the Electronic Frontier*](https://www.amazon.com/dp/0201502089?&linkCode=ll1&tag=kevideld-20&linkId=dc65849a678d52afa9f3685159673d6e&language=en_US&ref_=as_li_ss_tl), in which the creator of Objective-C was advocating in the 90's for a new economic framework that rewards creation of components in proportion to their use. But software production is not like manufacturing of widgets in a factory. [A (software) object is not an (hardware) widget](https://twitter.com/kdeldycke/status/1697974273623675254).
+
 ### Engineering Practices
 
 - [Software Engineering's Greatest Hits](https://www.youtube.com/watch?v=HrVtA-ue-x0) - When scientific method meet the practice of software development. My takeaways: the best metric is less lines of code, there is no 10x developers, too much unused configuration options, pair programing is for transfer of domain-specific knowledge and hackathon don't produce long term projects.
