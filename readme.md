@@ -537,6 +537,8 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 - [Industry Data Models](http://www.databaseanswers.org/data_models/) - A huge list of database templates to represent any business process.
 
+- [DbSchemaLibrary](https://dbschemalibrary.com) - A curated list of database schemas that runs in production.
+
 - [I thought that using loops was cheating…](https://www.facebook.com/spliceofficial/photos/a.555206991212765/679408552125941/?type=1&theater) - How much is too much? Libraries, whether software or audio loops, are tools. A typical case of [NIH syndrome](https://en.wikipedia.org/wiki/Not_invented_here) transposed to music production.
 
 - “Lots of people make the mistake of thinking there's only two vectors you can go to improve performance, high or wide. High - throw hardware at the problem, on a single machine. Wide - add more machines. [There's a third direction you can go, I call it *going deep*.](https://news.ycombinator.com/item?id=8902739)”
