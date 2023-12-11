@@ -19,7 +19,7 @@ This repository has reached an equilibrium state. We are past its accumulation p
 
 ## Pull-requests and issues
 
-- Search past and current issues and pull-requests for previous suggestions before making a new one, as yours may be a duplicate or a work in progress.
+- Search past and current issues and pull-requests for previous suggestions before making a new one. Yours may be a duplicate or a work in progress.
 
 - Only one list item per commit.
 
@@ -27,7 +27,9 @@ This repository has reached an equilibrium state. We are past its accumulation p
 
 - Check your spelling and grammar.
 
-- Add the reason why the linked resource is awesome. And what it adds to existing content.
+- Add the reason why the linked resource is awesome. And what it adds to the existing corpus.
+
+- Keep the translated content up-to-date with your proposal. Propagate changes to all `readme.*.md` files. Rely on automatic translation tools. Bilingual contributors will refine the result later.
 
 ## Linting
 
@@ -58,17 +60,17 @@ If one of these rule conflict with the linter, the linter's rule should takes pr
 
 - Try to quote the original content as-is to summarize the point of the linked content.
 
-- If a straight quote doesn't cut it, feel free to paraphrase both the item's title and description. Remember, this is curation: we are increasing the value of the original content by aggregation and categorization, yes, but also by smart editorializing. As long as you respect the spirit of the original content it's OK.
+- If a straight quote doesn't cut it, feel free to paraphrase both the item's title and description. Remember, this is curation: we are increasing the value of the original content by aggregation and categorization. And also by smart editorializing. You just need to respect the spirit of the original content.
 
 ### Sections
 
-- Sections are not in the alphabetical order to provide a progression, in respect to the editorial line above.
+- Sections are not in the alphabetical order, to provide a progression, from general to specific topics.
 
 - Section might feature one paragraph introduction and a figure (graph, drawing, photo).
 
 ### Item title
 
-- URL must use HTTPs protocol if available.
+- URLs must use HTTPs protocol, if available.
 
 - No `“` and `”` curved quotation marks. This is reserved for original content quotation in descriptions.
 
@@ -88,9 +90,9 @@ If one of these rule conflict with the linter, the linter's rule should takes pr
 
 - To serialize a list into a description, use the following format:
 
-  > This is my own description. Here is a list quoted from the original content about **“a random subject: 1. Blah blah blah; 2. Blah blah blah? 3. Blah blah blah.”** This makes sense right?
+  > Text of a description summarizing the item. And here is a list coming from the original content about **“a random subject: 1. Blah blah blah; 2. Blah blah blah? 3. Blah blah blah.”** And a bit more text to conclude.
 
-  This provides visual anchor points that help readability and quick content scanning.
+  This format provides visual anchor points that help readability and quick content scanning.
 
   - You can skip some items from the original list and renumber it.
 
@@ -120,3 +122,5 @@ One-liners to fix-up some common formatting mistakes. Use with great caution and
   ```shell-session
   $ sed -i 's/`$/`\./g' ./readme.md
   ```
+
+[Other one-liners are available](https://kevin.deldycke.com/2006/12/text-date-document-processing-commands/) on my blog.
