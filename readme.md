@@ -28,9 +28,9 @@ A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sin
 - You're stuck into the day-to-day operations of the job?
 - How can I move up to the next level?
 
-You'll find answers in this guide! It stands out from generic leadership and management literature, by providing uncompromising insights and practical advices to bootstrap your journey into the management career track, from a technical background.
+You'll find answers in this guide! It stands out from generic leadership and management literature, by providing uncompromising insights and practical advices. It will bootstrap your journey into the management career track, from a technical background.
 
-This list provides a progression to help with the transition to management. From general to specifics. It starts with an overview of the role, then describes its requirements, and its position relative to others. Then we delves into the day-to-day tools of the trade, both organizational and behavioral. At last we discuss about some of the dark sides of the job.
+This list helps in the transition to management, with a progression from general to specifics. It starts with an overview of the role, then describes its requirements, and its position relative to others. Then we details the day-to-day tools of the trade, both organizational and behavioral. At last we discuss some of the dark sides of the job.
 
 ## Contents
 
@@ -117,7 +117,7 @@ This list provides a progression to help with the transition to management. From
 
 ## Engineering to Management Transition
 
-The first step. The hardest: how to requalify oneself from an Individual Contributor (IC) to a front-line manager.
+The first step. The hardest. How to requalify oneself from an Individual Contributor (IC) to a front-line manager.
 
 - You always been a developer. Being offered [a management position is not a promotion. It is a change in career](https://fractio.nl/2014/09/19/not-a-promotion-a-career-change/).
 
