@@ -537,7 +537,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 - [Choose Well-known Technology](https://news.ycombinator.com/item?id=23445535) - A rephrasing of the above advice. “Choose the technology: 1. You know in and out, and are immediately productive with; 2. Which is sure to be around in 5-7 years, preferably 10-15; 3. For which you are comfortable hiring the next 15 engineers.”
 
-- [Industry Data Models](http://www.databaseanswers.org/data_models/) - A huge list of database templates to represent any business process.
+- [Industry Data Models](https://web.archive.org/web/20220330034214/http://databaseanswers.org/data_models/) - A huge list of database templates collected over 25 years by Barry Williams to represent any business process.
 
 - [I thought that using loops was cheating…](https://www.facebook.com/spliceofficial/photos/a.555206991212765/679408552125941/?type=1&theater) - How much is too much? Libraries, whether software or audio loops, are tools. A typical case of [NIH syndrome](https://en.wikipedia.org/wiki/Not_invented_here) transposed to music production.
 
