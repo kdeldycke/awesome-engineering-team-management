@@ -23,4 +23,4 @@ jobs:
           source_repo_path: kdeldycke/awesome-template
           pr_title: "[sync] Template repository updates"
           pr_commit_msg: "[sync] Template repository updates"
-          pr_labels: "📚 documentation"
+          # pr_labels: "📚 documentation"
