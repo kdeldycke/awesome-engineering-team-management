@@ -16,6 +16,7 @@ jobs:
     name: Import changes from template repository
     runs-on: ubuntu-22.04
     permissions:
+      actions: write
       contents: write
       pull-requests: write
     steps:
