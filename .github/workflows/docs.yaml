@@ -15,6 +15,9 @@ jobs:
   repo-sync:
     name: Import changes from template repository
     runs-on: ubuntu-22.04
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
       - uses: actions/checkout@v4.1.1
       - uses: AndreasAugustin/actions-template-sync@v1.5.0
