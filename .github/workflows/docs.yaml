@@ -10,7 +10,7 @@ name: Docs
 jobs:
 
   docs:
-    uses: kdeldycke/workflows/.github/workflows/docs.yaml@v2.26.6
+    uses: kdeldycke/workflows/.github/workflows/docs.yaml@v3.1.0
 
   repo-sync:
     name: Import changes from template repository
