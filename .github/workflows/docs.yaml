@@ -10,18 +10,4 @@ name: Docs
 jobs:
 
   docs:
-    uses: kdeldycke/workflows/.github/workflows/docs.yaml@v2.26.6
-
-  repo-sync:
-    name: Import changes from template repository
-    runs-on: ubuntu-22.04
-    permissions: write-all
-    steps:
-      - uses: actions/checkout@v4.1.1
-      - uses: AndreasAugustin/actions-template-sync@v1.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          source_repo_path: kdeldycke/awesome-template
-          pr_title: "[sync] Template repository updates"
-          pr_commit_msg: "[sync] Template repository updates"
-          # pr_labels: "📚 documentation"
+    uses: kdeldycke/workflows/.github/workflows/docs.yaml@v3.2.0
