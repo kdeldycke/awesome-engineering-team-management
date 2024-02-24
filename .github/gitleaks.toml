@@ -1,6 +1,13 @@
 [allowlist]
 description = "False positives"
 commits = [
+    ### kdeldycke/awesome-billing
+    # Twitter status IDs.
+    "5b54ac1befb7a768a18b2abd4a7b091766ee7609",
+    "4607e5923f1889ce5136b1a6bdfbddd769cd7fc3",
+    "1cfd0513359a5ce20b538b6a637d40c4cc50a37f",
+
+    ### kdeldycke/awesome-engineering-team-management
     # Twitter status IDs.
     "044ccf813c180d1b52fa550549f1e3ffe7ad3176",
     "4ee04962090c60f9d2bd26e507584c95b2f039cb",
