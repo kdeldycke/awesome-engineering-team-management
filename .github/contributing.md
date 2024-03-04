@@ -35,7 +35,7 @@ This repository has reached an equilibrium state. We are past its accumulation p
 
 Have your pull-request pass the [official Awesome List's linter](https://github.com/sindresorhus/awesome-lint).
 
-No extra work is required here as it is [already integrated by the way of GitHub actions](https://github.com/kdeldycke/awesome-engineering-team-management/tree/main/.github/workflows).
+No extra work is required here as it is [already integrated by the way of GitHub actions](https://github.com/kdeldycke/awesome-template/tree/main/.github/workflows).
 
 To run the linter locally, do:
 
