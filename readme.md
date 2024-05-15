@@ -465,7 +465,7 @@ Expansive lists of well-known models and concepts.
 
 ### Behavioral
 
-- [Programmer Interrupted](http://blog.ninlabs.com/2013/01/programmer-interrupted/) - Don't interrupt your developers: “An interrupted task is estimated to take twice as long and contain twice as many errors as uninterrupted tasks. (…) A programmer takes between 10-15 minutes to start editing code after resuming work from an interruption.”
+- [Programmer Interrupted](http://blog.ninlabs.com/2013/01/programmer-interrupted/) - Research shows the devastating effect of interrupting developers: 1. 15 min is required to resume work; 2. A programmer get just one uninterrupted 2-hour session in a day; 3. Worst time to interrupt: during edits, searches & comprehension.
 
 - “People make bad choices if they're mad or scared or stressed.” - [Disney's Frozen](https://i.pinimg.com/originals/b5/17/97/b5179700050b96f91f63e086e053b5ee.jpg).
 
