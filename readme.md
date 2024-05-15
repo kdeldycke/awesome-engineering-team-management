@@ -465,6 +465,8 @@ Expansive lists of well-known models and concepts.
 
 ### Behavioral
 
+- [Programmer Interrupted](http://blog.ninlabs.com/2013/01/programmer-interrupted/) - Don't interrupt your developers: “An interrupted task is estimated to take twice as long and contain twice as many errors as uninterrupted tasks. (…) A programmer takes between 10-15 minutes to start editing code after resuming work from an interruption.”
+
 - “People make bad choices if they're mad or scared or stressed.” - [Disney's Frozen](https://i.pinimg.com/originals/b5/17/97/b5179700050b96f91f63e086e053b5ee.jpg).
 
 - [I coached CEOs, founders, VCs and other executive: These are the biggest takeaways](https://leowid.com/2019-2) - Excerpt: “We're all just big, complicated bags of emotion walking around; Power comes with the ability to receive a No; Learning to manage your focus, not your time.”
