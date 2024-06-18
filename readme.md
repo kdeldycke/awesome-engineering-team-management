@@ -259,6 +259,8 @@ Managers came in all form and shape, and the title and daily activities varies a
 
 - [10 Admirable Attributes of a Great Technical Lead](https://betterprogramming.pub/10-admirable-attributes-of-a-great-technical-lead-251d13a8843b) - “They are smart yet kind. Knowledgeable, yet humble. Busy, yet approachable.”
 
+- [The Essential Guide to Becoming a Software Developer](https://www.scaler.com/blog/how-to-become-a-software-developer/) - This career guide offers a complete roadmap with a step-by-step approach to starting your career in software development.
+
 ### Consultants
 
 - “A consultant is someone 4 pages ahead in the manual” ([source](https://news.ycombinator.com/item?id=20786286)).
