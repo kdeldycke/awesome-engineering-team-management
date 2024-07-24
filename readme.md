@@ -14,7 +14,7 @@
   </a>
 </p>
 
----
+______________________________________________________________________
 
 <p align="center">
   <i>The manager's function is not to make people work, but to make it possible for people to work.</i><br>
@@ -663,7 +663,7 @@ On interviewing for a PM position. And how to conduct an interview to assess a P
 
 The first step to validate your product: is the market finding interest in your venture?
 
-- [I wasted \$40k on a fantastic startup idea](https://tjcx.me/posts/i-wasted-40k-on-a-fantastic-startup-idea/) - A tale of building a product no user want to pay for. “You can't just create value for the user: that's a charity. You also can't just create value for your company: that's a scam. Your goal is to set up some kind of positive-sum exchange, where everyone benefits, including you. A business plan, according to this textbook, starts with this simple question: how will you create value for yourself and the company?”
+- [I wasted $40k on a fantastic startup idea](https://tjcx.me/posts/i-wasted-40k-on-a-fantastic-startup-idea/) - A tale of building a product no user want to pay for. “You can't just create value for the user: that's a charity. You also can't just create value for your company: that's a scam. Your goal is to set up some kind of positive-sum exchange, where everyone benefits, including you. A business plan, according to this textbook, starts with this simple question: how will you create value for yourself and the company?”
 
 - [David Rusenko - How To Find Product Market Fit](https://www.youtube.com/watch?v=0LNQxT9LvM0) - “Details the story of how Weebly developed one of the most popular website creation and hosting sites on the web today.”
 
@@ -971,7 +971,7 @@ It's not only about the salary, but the whole package: equity, bonuses, perks, a
 
 - [benefits.fyi](https://benefits.fyi) - Same as above, but trying to evaluate the values of benefits across companies.
 
-- [L8-L10 salaries at AWS](https://news.ycombinator.com/item?id=21823987) - A reference point to what \$M+ compensation packages looks like.
+- [L8-L10 salaries at AWS](https://news.ycombinator.com/item?id=21823987) - A reference point to what $M+ compensation packages looks like.
 
 - [Why new hires often get paid more than existing employees](https://bloomberry.com/why-new-hires-often-get-paid-more-than-existing-employees/) - “and why the best way to get a bigger pay is to move to a new job.”
 
@@ -1160,7 +1160,7 @@ Sometimes, you just have to call it quits.
 - “It was my experience that no single departure had any effect. Mass departures did, trends did, but one person never did, even when that person was a founder.” ([source](https://news.ycombinator.com/item?id=4324615)).
 
 - [As an Employee, You Are Disposable](https://nelson.cloud/as-an-employee-you-are-disposable/) - “It’s okay to like your job and employer. Just understand that, as an employee, you are disposable.” Also: “This is not news.
-If you are loyal to your employer and do not own a significant part of the organization, then you should take a good hard look at why you're loyal -- and whether or not your employer is loyal to you in return.” ([source](https://news.ycombinator.com/item?id=40943681)).
+  If you are loyal to your employer and do not own a significant part of the organization, then you should take a good hard look at why you're loyal -- and whether or not your employer is loyal to you in return.” ([source](https://news.ycombinator.com/item?id=40943681)).
 
 - [P.T.'s Hidden Meaning](https://www.youtube.com/watch?v=yr4RvdREwl8) - How Hideo Kojima creatively used a playable teaser as a way to bypass NDA and to tell he story about the turmoil at Konami leading to his leaving of the company. But that only works if you're an influential and popular game designer.
 
