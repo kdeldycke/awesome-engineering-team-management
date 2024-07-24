@@ -1159,7 +1159,7 @@ Sometimes, you just have to call it quits.
 
 - “It was my experience that no single departure had any effect. Mass departures did, trends did, but one person never did, even when that person was a founder.” ([source](https://news.ycombinator.com/item?id=4324615)).
 
-- [As an Employee, You Are Disposable](https://nelson.cloud/as-an-employee-you-are-disposable/) - “It’s okay to like your job and employer. Just understand that, as an employee, you are disposable.” Also: “This is not news.
+- [As an Employee, You Are Disposable](https://nelson.cloud/as-an-employee-you-are-disposable/) - “It's okay to like your job and employer. Just understand that, as an employee, you are disposable.” Also: “This is not news.
 If you are loyal to your employer and do not own a significant part of the organization, then you should take a good hard look at why you're loyal -- and whether or not your employer is loyal to you in return.” ([source](https://news.ycombinator.com/item?id=40943681)).
 
 - [P.T.'s Hidden Meaning](https://www.youtube.com/watch?v=yr4RvdREwl8) - How Hideo Kojima creatively used a playable teaser as a way to bypass NDA and to tell he story about the turmoil at Konami leading to his leaving of the company. But that only works if you're an influential and popular game designer.
