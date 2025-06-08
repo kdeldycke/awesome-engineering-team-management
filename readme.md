@@ -630,7 +630,7 @@ The Product Manager is supposed to be the *voice of the market*. Here are more l
 
 - [Open Product Management](https://github.com/tron1991/open-product-management) - Resources, interviews, case studies, sample products & projects, communities, open source tools, free & paid services on product management, for technical people to learn the field.
 
-- [Things Many People Find Too Obvious To Have Told You Already](https://x.com/patio11/status/936615043126370306) - A set of heuristics on tech companies and the ecosystem they live in.
+- [Things Many People Find Too Obvious To Have Told You Already](https://archive.ph/vH4D1) - A set of heuristics on tech companies and the ecosystem they live in.
 
 - [The Heilmeier Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism) - A simple set of question which helped DARPA evaluates research programs to generate big rewards by taking big risks.
 
@@ -756,7 +756,7 @@ Time management and planning starts with estimates, but often degenerates into d
 
 - [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech) - There's an interesting table in this article on the strereotypes of companies, their funding models, main engineering actors, and their central methodologies.
 
-- [Why do some developers at Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/David-Jeske) - Because the short-term focused Scrum processes “seem suited to particular types of development, most notably consulting or contract programming, where the customer is external to the organizations, runs the show because they are paying for development, and can change their mind at any time”. Still, google engineers already practice a culture close to what looks like the original 10-points Agile manifesto. But that's it.
+- [Why do some developers at Google consider Agile development to be nonsense?](https://archive.ph/pSUhM) - Because the short-term focused Scrum processes “seem suited to particular types of development, most notably consulting or contract programming, where the customer is external to the organizations, runs the show because they are paying for development, and can change their mind at any time”. Still, google engineers already practice a culture close to what looks like the original 10-points Agile manifesto. But that's it.
 
 - [Story Points Revisited](https://web.archive.org/web/20250604004212/https://ronjeffries.com/articles/019-01ff/story-points/Index.html) - The alleged inventor of story points says they are probably a mistake.
 
@@ -788,7 +788,7 @@ OKRs are a framework. Extending KPIs, they applies individually to each members 
 
 - “One way in which I've seen OKRs used effectively is as a defense against the type of middle or upper manager who is constantly coming up with new ideas or tasks.” ([source](https://news.ycombinator.com/item?id=19550614)) - Or how OKRs can be weaponized to prevent top managers to mess with the (already established) schedule.
 
-- [Why individual OKRs don't work for us](https://hrblog.spotify.com/2016/08/15/our-beliefs/) - Spotify decision to stop using OKRs for individuals.
+- [Why individual OKRs don't work for us](https://web.archive.org/web/20250218070530/https://hrblog.spotify.com/2016/08/15/our-beliefs) - Spotify decision to stop using OKRs for individuals.
 
 - [Google's usage of OKRs](https://news.ycombinator.com/item?id=17492038) - OKR grades are public, but not used for promotion. It was never taken very seriously there.
 
@@ -846,7 +846,7 @@ General advice on how to convey meaning and clarity by mastering the style. If b
 
 - [Algorithm for writing a scientific manuscript](https://sci-hub.st/https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.20329) - A process to guide the preparation and refinement of manuscripts.
 
-- [The Baldwin Formula for scientific writing: writing papers and reviews](https://www.ice.mpg.de/ext/fileadmin/extranet/dept_itb/The_Baldwin_Formula_for_writing_a_scientific_paper_and_reviewing_papers.pdf) - “The most efficient way to write scientific papers is to write while you are still conducting experiments”.
+- [The Baldwin Formula for scientific writing: writing papers and reviews](https://people.clas.ufl.edu/jlichstein/files/Baldwin_Formula_for_writing_a_scientific_paper_and_reviewing_papers.pdf) - “The most efficient way to write scientific papers is to write while you are still conducting experiments”.
 
 - [Ten simple rules for structuring papers](https://www.biorxiv.org/content/10.1101/088278v5.full.pdf) - “Focusing on how readers consume information, we present a set of 10 simple rules to help you get across the main idea of your paper.”
 
@@ -858,8 +858,6 @@ General advice on how to convey meaning and clarity by mastering the style. If b
 
 - [Notes on Technical Writing](https://mkaz.blog/misc/notes-on-technical-writing/) - An effective list of do and don't when it comes to writing documentation.
 
-- [Writing for Business](https://docs.google.com/document/d/1PqbdAnYM79tLvO3yWCt2QH2T1HuQ58poNUsM7QzuE-c) - Some tips on how to write in a business context.
-
 ### Style
 
 Once you have the right structure and content thanks to advice above, you can now copy-edit and fine tune your style with the tools below.
@@ -869,8 +867,6 @@ Once you have the right structure and content thanks to advice above, you can no
 - [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/) - “BLUF is a military communications acronym—it stands for “bottom line up front”—that's designed to enforce speed and clarity in reports and emails.”
 
 - [LanguageTool](https://languagetool.org) - Proofreading for grammar, style and spell checking.
-
-- [English Lint](https://github.com/killercup/english-lint) - A Rust CLI to detect weasel words, passive voice and lexical illusions.
 
 - [`proselint`](https://github.com/amperser/proselint/) - Places the world's greatest writers and editors by your side, where they whisper suggestions on how to improve your prose.
 
@@ -1088,9 +1084,9 @@ A special case of re-org, that might take the form of inclusion, absorption or d
 
 - “Burnout is caused by resentment. (…) No. Burnout is caused when you repeatedly make large amounts of sacrifice and or effort into high-risk problems that fail. It's the result of a negative prediction error in the nucleus accumbens. You effectively condition your brain to associate work with failure.” ([source](https://news.ycombinator.com/item?id=5630618)).
 
-- [If You're So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week) - “Our tendency to overwork and burn out is framed by a complex combination of factors involving our profession, our organization, and ourselves. At the heart of it is insecurity.”
+- [If You're So Successful, Why Are You Still Working 70 Hours a Week?](https://archive.ph/78aEf) - “Our tendency to overwork and burn out is framed by a complex combination of factors involving our profession, our organization, and ourselves. At the heart of it is insecurity.”
 
-- [What Happens When Your Career Becomes Your Whole Identity](https://hbr.org/2019/12/what-happens-when-your-career-becomes-your-whole-identity) - “A particular confluence of high achievement, intense competitiveness, and culture of overwork has caught many in a perfect storm of career enmeshment and burnout.”
+- [What Happens When Your Career Becomes Your Whole Identity](https://archive.ph/yqPAD) - “A particular confluence of high achievement, intense competitiveness, and culture of overwork has caught many in a perfect storm of career enmeshment and burnout.”
 
 - “In my experience extreme workaholism can often be a way to avoid or defer major life decisions that someone doesn't want to make or even consciously recognize. (…) Eventually the debt comes due but sometimes not until many decades later.” ([source](https://news.ycombinator.com/item?id=21900054))
 
@@ -1112,7 +1108,7 @@ A special case of re-org, that might take the form of inclusion, absorption or d
 
 - [Huge success in business is largely based on luck](https://theconversation.com/huge-success-in-business-is-largely-based-on-luck-new-research-130843) - “Management research and education should focus on prescriptive theories that can help business practitioners move from 'incompetent to OK', rather than focusing on those that address how to move from 'good to great'.”
 
-- [How Complex Systems Fail](https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) - “Short treatise on the nature of failure; how failure is evaluated; how failure is attributed to proximate cause; and the resulting new understanding of patient safety”.
+- [How Complex Systems Fail](https://stuff.mit.edu/afs/athena/course/2/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) - “Short treatise on the nature of failure; how failure is evaluated; how failure is attributed to proximate cause; and the resulting new understanding of patient safety”.
 
 <!--lint disable double-link-->
 
@@ -1122,13 +1118,13 @@ A special case of re-org, that might take the form of inclusion, absorption or d
 
 - [Steve Jobs explains - Why companies fail?](https://www.youtube.com/watch?v=B-fAinNDbQU&t=6s) - On how sales and marketing takes over product focused companies.
 
-- [The failure of Scaling Etsy](https://x.com/mcfunley/status/1194713711337852928) - When a company lacks technical leadership: developers waste time in costly refactors, over-engineered systems, and ends up detached from the business and product.
+- [The failure of Scaling Etsy](https://archive.ph/h07CR) - When a company lacks technical leadership: developers waste time in costly refactors, over-engineered systems, and ends up detached from the business and product.
 
 ## Exits
 
 Sometimes, you just have to call it quits.
 
-- [Why I Rejected My Manager](https://medium.com/personal-growth/why-i-rejected-my-manager-b2273e354462) - “I understand now why the saying is: people leave managers, not companies.”
+- [Why I Rejected My Manager](https://archive.ph/NxLVP) - “I understand now why the saying is: people leave managers, not companies.”
 
 - [Colleague is leaving. How to investigate what went wrong?](https://news.ycombinator.com/item?id=20786755) - “Most of the time people leave bosses, not the job or the company.” And why you're unlikely to get any substantial insights from exit interviews. ([source](https://news.ycombinator.com/item?id=20787874))
 
@@ -1142,13 +1138,13 @@ Sometimes, you just have to call it quits.
 
 - “Next time your favorite manager and tech lead quit the company, ask them why.” ([source](https://news.ycombinator.com/item?id=21767843)).
 
-- “[Good business mafias form](https://marker.medium.com/where-do-business-mafias-come-from-34f47b33eecd) when there's a group of people who all have to quit their job for reasons that are exogenous to their performance. In the case of Paypal, it was an acquisition; at Tiger Management, a few years of underperformance; at Drexel Burnham Lambert, an indictment. In Reliance's case, the core group of early employees fled the port of Aden due to unrest and the withdrawal of the British.” ([source](https://archive.ph/WCxsu)) - And why mass exodus might be an opportunity for great new ventures.
+- “[Good business mafias form](https://archive.ph/9Osm2) when there's a group of people who all have to quit their job for reasons that are exogenous to their performance. In the case of Paypal, it was an acquisition; at Tiger Management, a few years of underperformance; at Drexel Burnham Lambert, an indictment. In Reliance's case, the core group of early employees fled the port of Aden due to unrest and the withdrawal of the British.” ([source](https://archive.ph/WCxsu)) - And why mass exodus might be an opportunity for great new ventures.
 
 - “It was my experience that no single departure had any effect. Mass departures did, trends did, but one person never did, even when that person was a founder.” ([source](https://news.ycombinator.com/item?id=4324615)).
 
 - [As an Employee, You Are Disposable](https://nelson.cloud/as-an-employee-you-are-disposable/) - “It's okay to like your job and employer. Just understand that, as an employee, you are disposable.” Also: “This is not news. If you are loyal to your employer and do not own a significant part of the organization, then you should take a good hard look at why you're loyal -- and whether or not your employer is loyal to you in return.” ([source](https://news.ycombinator.com/item?id=40943681)).
 
-- [P.T.'s Hidden Meaning](https://www.youtube.com/watch?v=yr4RvdREwl8) - How Hideo Kojima creatively used a playable teaser as a way to bypass NDA and to tell he story about the turmoil at Konami leading to his leaving of the company. But that only works if you're an influential and popular game designer.
+- [P.T.'s Hidden Meaning](https://www.youtube.com/watch?v=yr4RvdREwl8) - How Hideo Kojima creatively used a playable teaser as a way to bypass NDA and to tell the story about the turmoil at Konami leading to his leaving of the company. But that only works if you're an influential and popular game designer.
 
 - [Management Challenges for the 21st Century - Managing Oneself](https://www.thecompleteleader.org/sites/default/files/imce/Managing%20Oneself_Drucker_HBR.pdf) - “There is a great deal of talk today about the "mid-life crisis" of the executive. It is mostly boredom. At age forty-five most executives have reached the peak of their business career and know it.” In paragraph Ⅴ, you'll find why knowledge workers needs to manage themselves, and plan for the second half of their life.
 
