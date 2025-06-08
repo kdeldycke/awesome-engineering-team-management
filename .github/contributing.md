@@ -2,17 +2,6 @@
 
 Your contributions are always welcome! Here are some guidelines.
 
-## Editorial line
-
-The editorial line is [describe in the intro of the main list](https://github.com/kdeldycke/awesome-engineering-team-management#readme).
-
-Items are roughly ordered like so:
-
-1. At first we'll find content appealing to software developers or new managers. We're reaching for accessibility and targets the wider audience and provide a gentle introduction.
-1. Then we can have a couple of real use-cases or anecdotes, which makes the subject more hands-on and relatable.
-1. Third we might add a couple of reference material to generalize concepts, provide methodical solutions and expose broader thinking frameworks.
-1. At the end comes the most cynical or bleak content, which have some utility as cautionary tales, or as warning signals of deteriorating conditions.
-
 ## Status
 
 This repository has reached an equilibrium state. We are past its accumulation phase, and in the middle of the curation process. Meaning we're more into refining its concepts, smooth the progression and carefully evaluating the addition of new content.
@@ -33,20 +22,19 @@ This repository has reached an equilibrium state. We are past its accumulation p
 
 ## Linting
 
-Have your pull-request pass the [official Awesome List's linter](https://github.com/sindresorhus/awesome-lint).
+Your pull-request should pass the [official Awesome List's linter](https://github.com/sindresorhus/awesome-lint).
 
 No extra work is required here as it is [already integrated by the way of GitHub actions](https://github.com/kdeldycke/awesome-engineering-team-management/tree/main/.github/workflows).
 
-To run the linter locally, do:
+You can still anticipate issues by running the linter locally with:
 
 ```shell-session
-$ npm i npx
 $ npx awesome-lint
 ```
 
 ## Formatting
 
-Additional rules not covered by `awesome-lint`, to keep the content clean and tidy.
+Here are additional rules not covered by the `awesome-lint` CLI.
 
 If one of these rule conflict with the linter, the linter's rule should takes precedence. Apply it.
 
@@ -58,23 +46,37 @@ If one of these rule conflict with the linter, the linter's rule should takes pr
 
 - Apostrophes should be using the single ASCII mark: `'`.
 
-- Try to quote the original content as-is to summarize the point of the linked content.
+- For description, try to identify the single best quote form the original content.
 
-- If a straight quote doesn't cut it, feel free to paraphrase both the item's title and description. Remember, this is curation: we are increasing the value of the original content by aggregation and categorization. And also by smart editorializing. You just need to respect the spirit of the original content.
+- If a quote couldn't be found to serve as a summary, feel free to paraphrase both the item's title and description. Remember, this is curation: we are increasing the value of the original content by aggregation and categorization. And also by smart editorializing. You just need to respect the spirit of the original content.
 
 ### Sections
 
-- Sections are not in the alphabetical order, to provide a progression, from general to specific topics.
+- Sections **are not intentionally sorted in the alphabetical order**. That is to provide a progression, from general to specific topics.
+
+> [!IMPORTANT]
+> Exceptionally in `awesome-falsehood`, sections **are in alphabetical order**, as all topics are independent from each others.
 
 - Section might feature one paragraph introduction and a figure (graph, drawing, photo).
 
-### Item title
+### URL
 
-- URLs must use HTTPs protocol, if available.
+- Use HTTPs protocol, if available.
+
+- Must be reachable by CI/CD jobs. If the domain return `40x` errors for rate-limiting or content protection, replace it with a stable link:
+
+  - [`sci-hub.st`](https://sci-hub.st) for research papers
+  - [`archive.ph`](https://archive.ph) for news articles
+  - [`archive.org`](https://archive.org) for anything else
+
+### Item title
 
 - No `“` and `”` curved quotation marks. This is reserved for original content quotation in descriptions.
 
 - To quote, use either the single or double variations: `'` and `"`. Keep them properly balanced.
+
+> [!IMPORTANT]
+> In `awesome-falsehood`, link titles must be stripped out of the "*Programmers believe*" part to keep it compact.
 
 ### Item description
 
@@ -90,7 +92,7 @@ If one of these rule conflict with the linter, the linter's rule should takes pr
 
 - To serialize a list into a description, use the following format:
 
-  > Text of a description summarizing the item. And here is a list coming from the original content about **“a random subject: 1. Blah blah blah; 2. Blah blah blah? 3. Blah blah blah.”** And a bit more text to conclude.
+  > Text of a description summarizing the item. And here is a list coming from the original content about **“three important topics: 1. Blah blah blah; 2. Blah blah blah? 3. Blah blah blah.”** And a bit more text to conclude.
 
   This format provides visual anchor points that help readability and quick content scanning.
 
@@ -100,30 +102,64 @@ If one of these rule conflict with the linter, the linter's rule should takes pr
 
 - An additional link in the description is allowed. This must be limited to some rare cases. Like pointing to a bigger concept, an acronym definition, or reference material (book, biography, …).
 
-### CLI helpers
+## Editorial line
 
-One-liners to fix-up some common formatting mistakes. Use with great caution and always double-check and edit the results.
+The general editorial line for each list is [hinted in their introduction](https://github.com/kdeldycke/awesome-template#readme).
 
-- Replaces star list item markers by dashes:
+There's also some specific rules depending on the list:
 
-  ```shell-session
-  $ sed -i 's/^* /- /g' ./README.md
-  ```
+### [`awesome-engineering-team-management`](https://github.com/kdeldycke/awesome-engineering-team-management): items order
 
-- Replaces typographic quotes with ASCII ones:
+Items are roughly ordered like so:
 
-  ```shell-session
-  $ sed -i "s/‘/\'/g" ./readme.md
-  $ sed -i "s/’/\'/g" ./readme.md
-  ```
+1. At first we'll find content appealing to software developers or new managers. We're reaching for accessibility and targets the wider audience and provide a gentle introduction.
+1. Then we can have a couple of real use-cases or anecdotes, which makes the subject more hands-on and relatable.
+1. Third we might add a couple of reference material to generalize concepts, provide methodical solutions and expose broader thinking frameworks.
+1. At the end comes the most cynical or bleak content, which have some utility as cautionary tales, or as warning signals of deteriorating conditions.
 
-- Forces quotes to end with a dot:
+### [`awesome-falsehood`](https://github.com/kdeldycke/awesome-falsehood): candidates
 
-  ```shell-session
-  $ sed -i 's/`$/`\./g' ./readme.md
-  ```
+Before contributing, make sure the new link you'd like to add is a good
+candidate.
 
-[Other one-liners are available](https://kevin.deldycke.com/2006/12/text-date-document-processing-commands/) on my blog.
+Here is a non-restrictive list of items which are good candidates for inclusion
+in the `awesome-falsehood` list.
+
+#### Falsehood articles
+
+Articles following the *falsehood* schema are prime candidates for inclusion in
+this awesome list.
+
+These articles starts with the hypothesis that developers have a naive and
+simple view of a domain. Then proceed to list a set of candid assumptions that
+might be held by programmers. Each one is intentionally false, and in their
+best form are illustrated with a counter-example.
+
+A list of falsehood is crafted as a progression that is designed to refine
+concepts. Having read the whole list of falsehood, the reader should possess a
+better overview of a domain while dispelling its myths, point out common
+pitfalls and demonstrate its subtleties.
+
+*falsehood* articles are, in a sense, a suite of wordy unit-tests covering
+extensive edge-cases provided by real-world usage. The world is messy.
+Discovering a domain to be much more complex than anticipated will lead to
+frustrations. And cause flipping tables `(╯°□°)╯︵ ┻━┻`. This is the sign of a
+great candidate for that list!
+
+Articles featuring items that are applicable to one product (or a service) and
+one only can't be considered as generic enough and should be avoided.
+
+#### Libraries
+
+Programming libraries or modules are good candidates too, if they solve or
+reduce the complexities pointed to by *falsehood* articles above.
+
+That way we can put back tables in place. `┬─┬ ノ( ゜-゜ノ)`
+
+#### Data structures
+
+Data models and structures generic enough to cover and address most of the
+falsehoods are also welcome in this page.
 
 ## FAQ
 
@@ -206,7 +242,7 @@ Some reasons for rejection, which often overlaps, includes:
 
 If your contribution has been declined, there is a way to bypass the curation rules. You can [purchase a sponsorship](https://github.com/sponsors/kdeldycke) and have your product, logo and link at the top of this repository! 🤗 Like [Descope did for a year](https://twitter.com/kdeldycke/status/1676963147104784386) on the [awesome IAM list](https://twitter.com/kdeldycke/status/1676963147104784386).
 
-## FAQ (falsehoods)
+## FAQ for [`awesome-falsehood`](https://github.com/kdeldycke/awesome-falsehood)
 
 This questions are specifics to the [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) project.
 
