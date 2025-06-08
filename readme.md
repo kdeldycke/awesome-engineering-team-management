@@ -126,7 +126,7 @@ The first step. The hardest. How to requalify oneself from an Individual Contrib
 
 - [Advice to New Managers: Don't Joke About Firing People](https://staysaasy.com/engineering/2020/06/09/Don%27t-Joke.html) - “The second you became their manager you forfeited the right to joke around in any capacity about their employment at the company.”
 
-- [Advice to new managers](https://twitter.com/ValaAfshar/status/966125964861280256) - 9 fundamental principles of the behavior required to be a great manager.
+- [Advice to new managers](https://x.com/ValaAfshar/status/966125964861280256) - 9 fundamental principles of the behavior required to be a great manager.
 
 - [Mistakes I've Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/) - Mistakes: “1) Thinking people give feedback the way they want to receive it; 2) Trying to do everything yourself; 3) Communicating something one time is enough; 4) You have to have everything together all the time.”
 
@@ -140,7 +140,7 @@ The first step. The hardest. How to requalify oneself from an Individual Contrib
 
 - [Responsibility vs. accountability](https://news.ycombinator.com/item?id=21892816) - The biggest difference between manager (accountable) and engineers (responsible): “'Bad things' happen for the person accountable, whereas the person responsible can move on to the next project.”
 
-- “A computer can never be held accountable. Therefore a computer must never make a management decision.” - An [IBM slide from 1979](https://twitter.com/mit_csail/status/1604884273789603842).
+- “A computer can never be held accountable. Therefore a computer must never make a management decision.” - An [IBM slide from 1979](https://x.com/mit_csail/status/1604884273789603842).
 
 - “It is a job where your goal is to try disappoint people most slowly.” ([source](https://news.ycombinator.com/item?id=18222488)).
 
@@ -170,7 +170,7 @@ Executives are the senior/highest management layers of a company. They reports t
 
 - [What do executives do, anyway?](https://apenwarr.ca/log/20190926) - Paraphrasing [Andy Grove's book, High Output Management](https://www.amazon.com/dp/0394532341?&linkCode=ll1&tag=kevideld-20&linkId=f80a2e0610594cad92d301c587380f0a&language=en_US&ref_=as_li_ss_tl), “the job of an executive is: to define and enforce culture and values for their whole organization, and to ratify good decisions.” The article also details the failures modes of a CEO: forcing his own decisions downstream, or various ways of not resolving conflicts.
 
-- [Executives ratify decisions made on the spot](https://twitter.com/kdeldycke/status/1088001688722644992) - Refines the concept above adapting [Tolstoy's thesis to business](https://news.ycombinator.com/item?id=18089716).
+- [Executives ratify decisions made on the spot](https://x.com/kdeldycke/status/1088001688722644992) - Refines the concept above adapting [Tolstoy's thesis to business](https://news.ycombinator.com/item?id=18089716).
 
 - [Army Leadership and the Profession](https://fas.org/irp/doddir/army/adp6_22.pdf) - Establishes and describes what leaders should be and do.
 
@@ -186,7 +186,7 @@ Executives are the senior/highest management layers of a company. They reports t
 
 - [Narcissistic CEOs Weaken Collaboration and Integrity](https://www.gsb.stanford.edu/insights/narcissistic-ceos-weaken-collaboration-integrity) - “The prototypic visionary leader profile is so similar to that of a narcissist, if boards aren't careful, they're going to end up choosing people who are narcissistic as CEOs”.
 
-- “Hiring isn't the challenge. The challenge is finding people who can be effective while working for executives whose only qualifications and training are narcissistic levels of self confidence.” ([source](https://twitter.com/kellan/status/1205113384632500224)).
+- “Hiring isn't the challenge. The challenge is finding people who can be effective while working for executives whose only qualifications and training are narcissistic levels of self confidence.” ([source](https://x.com/kellan/status/1205113384632500224)).
 
 - “The CEO positions himself as a controlling, micromanaging individual at the center of everything. This makes it possible for the CEO to intercept financials and other crucial numbers en route to people who might catch on.” ([source](https://news.ycombinator.com/item?id=24519247)) - Or how fraud can endure at the top level. That's generally why you need a board of directors as an oversight.
 
@@ -212,7 +212,7 @@ Managers came in all form and shape, and the title and daily activities varies a
 
 - [Identify what makes a great manager](https://rework.withgoogle.com/en/guides/managers-identify-what-makes-a-great-manager#learn-about-googles-manager-research) - Google tried to prove managers don't matter. Instead, it discovered [10 Traits of the Very Best Ones](https://archive.ph/1USa4).
 
-- [As a product manager, how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
+- [As a product manager, how do you earn the respect and trust of your team?](https://x.com/johncutlefish/status/1124938723093766144)
 
 - [Good Boss, Bad Boss: A Peek Inside the Minds of the Best (and Worst)](https://www.youtube.com/watch?v=lmBSh1FGQyY) - A good boss: gets rid of rotten apples (no asshole rule) and protects people from idiocy from on high.
 
@@ -244,7 +244,7 @@ Managers came in all form and shape, and the title and daily activities varies a
 
 - [5 Things I've Learned in 20 Years of Programming](https://daedtech.com/5-things-ive-learned-in-20-years-of-programming/) - “A programmer with 5 years of experienced has more industry tenure than half of the entire industry.” Also see this follow-up comment of [10 things I've learned after 35 years](https://news.ycombinator.com/item?id=21612990).
 
-- [Devs I really enjoy pairing with](https://twitter.com/ScribblingOn/status/1002598672444448768) - “Don't act like know-it-all; Openly admit if they don't know something; Try to figure stuff out together”.
+- [Devs I really enjoy pairing with](https://x.com/ScribblingOn/status/1002598672444448768) - “Don't act like know-it-all; Openly admit if they don't know something; Try to figure stuff out together”.
 
 - [All the best engineering advice I stole from non-technical people](https://medium.com/@bellmar/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f) - “It's intriguing that the stuff that really seems to make a difference in the quality of software never seems to be about software.”
 
@@ -310,7 +310,7 @@ List of questions that can be used when vetting potential candidates, and topics
 
 - [Culture Queries](https://www.keyvalues.com/culture-queries) - A sample of question to ask in job interviews to try to understand the values of a company.
 
-- [Secret manager trick of hiring data scientists](https://twitter.com/kdeldycke/status/1008383946831417344) - Convince them that what they're doing is machine learning.
+- [Secret manager trick of hiring data scientists](https://x.com/kdeldycke/status/1008383946831417344) - Convince them that what they're doing is machine learning.
 
 - [Book Summary of "Who: The A Method for Hiring"](https://medium.com/mbreads/book-summary-who-c4a437d8ae3a) - The essential of [*Who*, a popular book](https://www.amazon.com/Who-Geoff-Smart/dp/0345504194?_encoding=UTF8&qid=1686402298&sr=1-1&linkCode=ll1&tag=kevideld-20&linkId=d4a63bc5d11e6d00d942c293a640e2c1&language=en_US&ref_=as_li_ss_tl) on recruiting executives.
 
@@ -364,7 +364,7 @@ How to get newcomers up to speed with the rest of the team you manage. And how t
 
 - [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc) - Daniel Pink summarizes it concisely: people are motivated by autonomy, mastery and purpose.
 
-- Reflecting on the postulates above, [Bryan Cantrill defines that the role of management](https://twitter.com/bcantrill/status/1216491615264489473?s=20) “is in constructing that environment, not micromanaging it. If engineering performance is suffering, it's (likely) a management problem: wrong problem, wrong mission, or wrong team -- or all three.”
+- Reflecting on the postulates above, [Bryan Cantrill defines that the role of management](https://x.com/bcantrill/status/1216491615264489473?s=20) “is in constructing that environment, not micromanaging it. If engineering performance is suffering, it's (likely) a management problem: wrong problem, wrong mission, or wrong team -- or all three.”
 
 - [What Silicon Valley "Gets" about Software Engineers that Traditional Companies Do Not](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/) - “1. Autonomy for software engineers; 2. Curious problem solvers, not mindless resources; 3. Internal data, code, and documentation transparency; 4. Exposure to the business and to business metrics; 5. Engineer-to-engineer comms over triangle-communication; 6. Investing in a less frustrating developer experience; 7. Higher leverage --> higher {autonomy, pay}”.
 
@@ -376,7 +376,7 @@ How to get newcomers up to speed with the rest of the team you manage. And how t
 
 - [What makes developers happy? Contributing to open source](https://www.techrepublic.com/article/what-makes-developers-happy-contributing-to-open-source/) - “59% of developers contribute to open source software today. Why do they contribute? The top two reasons are: To improve coding skills and because they believe in open source. Want to keep those developers happy and employed with you? Let them contribute.”
 
-- “My team tracks life impact as a metric (pages outside business hours) and works to drive that down to zero.” ([source](https://twitter.com/dwc/status/962179099606200320)) - Maybe the best indicator of a happy team is how little it is disturbed outside office hours.
+- “My team tracks life impact as a metric (pages outside business hours) and works to drive that down to zero.” ([source](https://x.com/dwc/status/962179099606200320)) - Maybe the best indicator of a happy team is how little it is disturbed outside office hours.
 
 - [6 Signs You're a Micromanager (And What to Do Instead)](https://unito.io/blog/micromanagement-signs/) - “You're more involved with your employees than ever, yet they seem disgruntled, unhappy, and less productive than usual. Your check-ins seem to go unappreciated. And no one seems receptive to all of your great feedback on their work. What's going on? Well, we hate to break it to you, but you might be a micromanager.”
 
@@ -426,7 +426,7 @@ Expansive lists of well-known models and concepts.
 
 - [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.qb3gkdmtk) - Huge compiled list of mental models. Became the basis of book.
 
-- [40 powerful concepts for understanding the world](https://twitter.com/G_S_Bhogal/status/1225561131122597896) - Concepts are named and describe succinctly in the tweet thread.
+- [40 powerful concepts for understanding the world](https://x.com/G_S_Bhogal/status/1225561131122597896) - Concepts are named and describe succinctly in the tweet thread.
 
 - [Tools for better thinking](https://untools.co) - “Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.”
 
@@ -546,7 +546,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 - [LEGO blocks and organ transplants](https://www.johndcook.com/blog/2011/02/03/lego-blocks-and-organ-transplants/) - “People have been comparing software components to LEGO blocks for a couple decades. (…) Integrating two software systems is usually more like performing a heart transplant than snapping together LEGO blocks.”
 
-- “Software development is more akin to the product design and development phase of industrial production than to the manufacturing.” ([source](https://accu.org/bookreviews/1998/kloss_1668/)) - This quote is from a review of [*Superdistribution - Objects as Property on the Electronic Frontier*](https://www.amazon.com/dp/0201502089?&linkCode=ll1&tag=kevideld-20&linkId=dc65849a678d52afa9f3685159673d6e&language=en_US&ref_=as_li_ss_tl), in which the creator of Objective-C was advocating in the 90's for a new economic framework that rewards creation of components in proportion to their use. But software production is not like manufacturing of widgets in a factory. [A (software) object is not an (hardware) widget](https://twitter.com/kdeldycke/status/1697974273623675254).
+- “Software development is more akin to the product design and development phase of industrial production than to the manufacturing.” ([source](https://accu.org/bookreviews/1998/kloss_1668/)) - This quote is from a review of [*Superdistribution - Objects as Property on the Electronic Frontier*](https://www.amazon.com/dp/0201502089?&linkCode=ll1&tag=kevideld-20&linkId=dc65849a678d52afa9f3685159673d6e&language=en_US&ref_=as_li_ss_tl), in which the creator of Objective-C was advocating in the 90's for a new economic framework that rewards creation of components in proportion to their use. But software production is not like manufacturing of widgets in a factory. [A (software) object is not an (hardware) widget](https://x.com/kdeldycke/status/1697974273623675254).
 
 ### Engineering Practices
 
@@ -638,7 +638,7 @@ The Product Manager is supposed to be the *voice of the market*. Here are more l
 
 - [Open Product Management](https://github.com/tron1991/open-product-management) - Resources, interviews, case studies, sample products & projects, communities, open source tools, free & paid services on product management, for technical people to learn the field.
 
-- [Things Many People Find Too Obvious To Have Told You Already](https://twitter.com/patio11/status/936615043126370306) - A set of heuristics on tech companies and the ecosystem they live in.
+- [Things Many People Find Too Obvious To Have Told You Already](https://x.com/patio11/status/936615043126370306) - A set of heuristics on tech companies and the ecosystem they live in.
 
 - [The Heilmeier Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism) - A simple set of question which helped DARPA evaluates research programs to generate big rewards by taking big risks.
 
@@ -672,11 +672,11 @@ Where your product lies in the value chain and how to position it in the market.
 
 - [Coglode: bite-size behavioral research analysis](https://www.coglode.com) - Mostly applied behaviour insights to help you build up strategies and tactics on product, design and planning.
 
-- [“Why does the tire company rate restaurants”](https://mobile.twitter.com/trevmckendrick/status/1218748974321954816) - A great example on why you should investigate complementary businesses.
+- [“Why does the tire company rate restaurants”](https://mobile.x.com/trevmckendrick/status/1218748974321954816) - A great example on why you should investigate complementary businesses.
 
 - [Laws of Tech: Commoditize Your Complement](https://www.gwern.net/Complement) - A step further from the previous advice, in which is detailed an aggressive strategy to consolidate monopolies.
 
-- Windows Vista as a prime example of a [sacrificial lamb product](https://twitter.com/SwiftOnSecurity/status/851861076429991937): a massive unpopular re-architecture required to pave the way for future innovative release. That's the cautionary tale of why you should be ready for intense criticism and adversity, if by chance or fate your wander down the path of monumental changes in a business software.
+- Windows Vista as a prime example of a [sacrificial lamb product](https://x.com/SwiftOnSecurity/status/851861076429991937): a massive unpopular re-architecture required to pave the way for future innovative release. That's the cautionary tale of why you should be ready for intense criticism and adversity, if by chance or fate your wander down the path of monumental changes in a business software.
 
 - Talking about Vista, Microsoft found out following its unsuccessful launch that [the #1 bug predictor is not technical, it's organizational complexity](https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/).
 
@@ -684,9 +684,9 @@ Where your product lies in the value chain and how to position it in the market.
 
 - [Reverse Engineering A Successful Lifestyle Business](https://web.archive.org/web/20230129184848/http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/) - Targets lifestyle entrepreneur, but still full of fantastic quotes from reference books on customer relation, pricing and marketing a product.
 
-- [The Atlassian Syndrome](https://twitter.com/maikzumstrull/status/1309497246946406400) - Your organization will end up with Atlassian products because “their business model is: 1. Collect requirement lists from customers and prospective customers; 2. Make sure their product checks every damn box, no matter how stupid.”
+- [The Atlassian Syndrome](https://x.com/maikzumstrull/status/1309497246946406400) - Your organization will end up with Atlassian products because “their business model is: 1. Collect requirement lists from customers and prospective customers; 2. Make sure their product checks every damn box, no matter how stupid.”
 
-- “Linear roadmaps are misleading” ([source](https://twitter.com/PavelASamsonov/status/1296818042928861184)).
+- “Linear roadmaps are misleading” ([source](https://x.com/PavelASamsonov/status/1296818042928861184)).
 
 ### User-Centered Design
 
@@ -918,7 +918,7 @@ Now that you've proven your worth as a front-line manager, what's the next step?
 
 - [Founder to CEO](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/) - You can build you own career engine, starting as a technical founder of a startup, building a great team, then grow with the company to learn and become a full-fledge CEO.
 
-- [How title, money and scope affect your fulfillment](https://twitter.com/shreyas/status/1268372416427786240) - “For talented mid-career folks, when making job changes, how do you rank: 1. Title 2. Money 3. Scope”.
+- [How title, money and scope affect your fulfillment](https://x.com/shreyas/status/1268372416427786240) - “For talented mid-career folks, when making job changes, how do you rank: 1. Title 2. Money 3. Scope”.
 
 - [Amazon Wants to 'Win at Games.' So Why Hasn't It?](https://www.wired.com/story/amazon-wants-to-win-at-games-so-why-hasnt-it/) - “Any product manager can go between any business—from groceries to film to games to Kindle. The skillset is interchangeable. They just have to learn the particular market.”
 
@@ -1130,7 +1130,7 @@ A special case of re-org, that might take the form of inclusion, absorption or d
 
 - [Steve Jobs explains - Why companies fail?](https://www.youtube.com/watch?v=B-fAinNDbQU&t=6s) - On how sales and marketing takes over product focused companies.
 
-- [The failure of Scaling Etsy](https://twitter.com/mcfunley/status/1194713711337852928) - When a company lacks technical leadership: developers waste time in costly refactors, over-engineered systems, and ends up detached from the business and product.
+- [The failure of Scaling Etsy](https://x.com/mcfunley/status/1194713711337852928) - When a company lacks technical leadership: developers waste time in costly refactors, over-engineered systems, and ends up detached from the business and product.
 
 ## Exits
 
