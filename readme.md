@@ -210,7 +210,7 @@ Managers came in all form and shape, and the title and daily activities varies a
 
 - [What are the signs that you have a great manager?](https://news.ycombinator.com/item?id=20230133) - “The irony is that you don't really notice a great manager.”
 
-- [Identify what makes a great manager](https://rework.withgoogle.com/en/guides/managers-identify-what-makes-a-great-manager#learn-about-googles-manager-research) - Google tried to prove managers don't matter. Instead, it discovered [10 Traits of the Very Best Ones](https://web.archive.org/web/20200811104655/https://www.inc.com/scott-mautz/google-tried-to-prove-managers-dont-matter-instead-they-discovered-10-traits-of-very-best-ones.html).
+- [Identify what makes a great manager](https://rework.withgoogle.com/en/guides/managers-identify-what-makes-a-great-manager#learn-about-googles-manager-research) - Google tried to prove managers don't matter. Instead, it discovered [10 Traits of the Very Best Ones](https://archive.ph/1USa4).
 
 - [As a product manager, how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
 
@@ -738,7 +738,7 @@ Time management and planning starts with estimates, but often degenerates into d
 
 - [Escalation of commitment](https://en.wikipedia.org/wiki/Escalation_of_commitment) - A.k.a. sunk-cost fallacy, or the rational explanation of why the hell do we still irrationally keep investing in a bad project.
 
-- [Who are you trying to impress with your deadlines?](https://web.archive.org/web/20200102054540/http://jatins.gitlab.io/me/why-deadline/) - “There are companies where those deadlines are set in stone, and a missed deadline is next to fire. That's when the problem starts.”
+- [Who are you trying to impress with your deadlines?](https://archive.ph/9Hq7N) - “There are companies where those deadlines are set in stone, and a missed deadline is next to fire. That's when the problem starts.”
 
 - [Apple Aperture: Senior QA](https://techreflect.net/2019/12/10/aperture-senior-qa-2004-2005/) - How not to manage projects approaching deadlines: “cutting finished features, yelling at people, and working people to the point of nervous breakdowns. Then they came upon a brilliant idea: let's steal over a hundred engineers from other teams and then the project will magically get done on time.”
 
@@ -766,7 +766,7 @@ Time management and planning starts with estimates, but often degenerates into d
 
 - [Why do some developers at Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/David-Jeske) - Because the short-term focused Scrum processes “seem suited to particular types of development, most notably consulting or contract programming, where the customer is external to the organizations, runs the show because they are paying for development, and can change their mind at any time”. Still, google engineers already practice a culture close to what looks like the original 10-points Agile manifesto. But that's it.
 
-- [Story Points Revisited](https://ronjeffries.com/articles/019-01ff/story-points/Index.html) - The alleged inventor of story points says they are probably a mistake.
+- [Story Points Revisited](https://web.archive.org/web/20250604004212/https://ronjeffries.com/articles/019-01ff/story-points/Index.html) - The alleged inventor of story points says they are probably a mistake.
 
 - [Detecting Agile Bullshit](https://web.archive.org/web/20250601171312/https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF) - US Department of Defense guide to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing (“agile-scrum-fall”).
 
@@ -790,7 +790,7 @@ KPIs are a set of quantitative measurements at the team or organizational level,
 
 OKRs are a framework. Extending KPIs, they applies individually to each members of an organization, down to the IC level. In theory, everyone is supposed to have its own set of OKRs.
 
-- [OKRs from a development team's perspective](https://web.archive.org/web/20240124005614/https://zafulabs.com/2019/05/24/okrs-from-a-development-teams-perspective/) - On how OKRs articulates with a backlog.
+- [OKRs from a development team's perspective](https://archive.ph/dmASK) - On how OKRs articulates with a backlog.
 
 - [Team Objectives – Overview](https://svpg.com/team-objectives-overview/) - Why OKRs might not work at your company: 1. You're still using feature teams instead of product teams; 2. Mixed-up manager and individual objectives; 3. Leadership opting-out of active management.
 
@@ -1054,7 +1054,7 @@ At a company level, re-orgs are mostly strategic and your influence on them depe
 
 ### Company-level
 
-- [The SaaS Org Chart](https://sacks.substack.com/p/the-saas-org-chart) - Blueprints of an organization at each stage of its 50/125/400/1000-employees stages, with typical ratios and ARR.
+- [The SaaS Org Chart](https://archive.ph/vOuLQ) - Blueprints of an organization at each stage of its 50/125/400/1000-employees stages, with typical ratios and ARR.
 
 - “If you have dealt with large, completely incompetent organizations and wondered how the hell they actually keep going - theres your answer. If built correctly it's genuinely difficult to mess things up.” ([source](https://news.ycombinator.com/item?id=20533922)). I.e. the structure of the organization is quintessential to its longevity.
 
