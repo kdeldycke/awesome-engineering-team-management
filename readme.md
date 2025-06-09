@@ -854,8 +854,6 @@ General advice on how to convey meaning and clarity by mastering the style. If b
 
 - [Write an Excellent Programming Blog](https://speakerdeck.com/pycon2016/a-jesse-jiryu-davis-write-an-excellent-programming-blog) - Tips on structure and style to produce great blog posts.
 
-- [Ten simple rules for getting started on Twitter as a scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007513) - Twitter “can be used in a much more active, collaborative way: to ask for advice, to form new bonds and scientific collaborations, to announce jobs and find employees, to find new mentors and jobs.”
-
 - [Notes on Technical Writing](https://mkaz.blog/misc/notes-on-technical-writing/) - An effective list of do and don't when it comes to writing documentation.
 
 ### Style
@@ -866,17 +864,7 @@ Once you have the right structure and content thanks to advice above, you can no
 
 - [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/) - “BLUF is a military communications acronym—it stands for “bottom line up front”—that's designed to enforce speed and clarity in reports and emails.”
 
-- [LanguageTool](https://languagetool.org) - Proofreading for grammar, style and spell checking.
-
 - [`proselint`](https://github.com/amperser/proselint/) - Places the world's greatest writers and editors by your side, where they whisper suggestions on how to improve your prose.
-
-- [Bias-free communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication) - Microsoft's guide on how to improve writing to be more inclusive and diverse.
-
-- [alex](https://github.com/get-alex/alex) - Whether your own or someone else's writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
-
-- [BlaBlaMeter - Bullshit detection tool](http://www.blablameter.com/) - Produce a normalized metric of the bullshit content of a text.
-
-- [Marketing BS Detector](http://marketingbs.whiterhino.com) - Same as above, but with some tips given.
 
 - [The Punctuation Guide](https://www.thepunctuationguide.com) - Simple reference on how (and why) to use these special characters.
 
@@ -943,8 +931,6 @@ Reviews and performance evaluations are the tool of the trade to unlock promotio
 - “This is what I loved about working at Netflix. We didn't have performance reviews. It was assumed that your performance was good to excellent, otherwise you wouldn't be working there anymore. You had a constant feedback loop with your manager on performance, but nothing was ever formal.” ([source](https://news.ycombinator.com/item?id=23861960)).
 
 - “The system a software developer works in shapes their performance so much more than individual differences.” ([source](https://news.ycombinator.com/item?id=21972033)).
-
-- [Performance review generator](https://mschmitt.org/performance/) - Tired of writing reviews? Automate it!
 
 ## Compensation
 
