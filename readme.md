@@ -864,11 +864,7 @@ Once you have the right structure and content thanks to advice above, you can no
 
 - [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/) - “BLUF is a military communications acronym—it stands for “bottom line up front”—that's designed to enforce speed and clarity in reports and emails.”
 
-- [`proselint`](https://github.com/amperser/proselint/) - Places the world's greatest writers and editors by your side, where they whisper suggestions on how to improve your prose.
-
 - [The Punctuation Guide](https://www.thepunctuationguide.com) - Simple reference on how (and why) to use these special characters.
-
-- [Improve Your Writing With The GNU Style Checkers](https://www.linux.com/news/improve-your-writing-gnu-style-checkers/) - How to use `style` and `diction`, two venerable GNU utilities.
 
 ### Presentations
 
