@@ -870,8 +870,6 @@ Once you have the right structure and content thanks to advice above, you can no
 
 - [Improve Your Writing With The GNU Style Checkers](https://www.linux.com/news/improve-your-writing-gnu-style-checkers/) - How to use `style` and `diction`, two venerable GNU utilities.
 
-- [JStylo & Anonymouth](https://github.com/spencermwoo/anonymouth) - Authorship attribution analysis tool and evasion (anonymization) framework.
-
 ### Presentations
 
 - [It's time to start writing](https://alexnixon.github.io/2019/12/10/writing.html) - On “Jeff Bezos's dotcom-era policy of banning PowerPoint within Amazon”, and how “this is neither about powerpoint nor about reading - it's about thinking.”
