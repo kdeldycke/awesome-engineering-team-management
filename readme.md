@@ -776,6 +776,8 @@ KPIs are a set of quantitative measurements at the team or organizational level,
 
 - [SRE fundamentals: SLIs, SLAs and SLOs](https://cloudplatform.googleblog.com/2018/07/sre-fundamentals-slis-slas-and-slos.html) - If you are in the business of cloud services, these metrics are certainly great KPIs.
 
+- [Delivery Drag Index (DDI)](https://github.com/aizetech/delivery-drag-index) - Open benchmark methodology for diagnosing delivery friction across decision, review, infrastructure, release, and debt drag. Complements DORA by surfacing bottlenecks early.
+
 - [The 4 Worst Software Metrics Agitating Developers in 2019](https://www.gitclear.com/blog/the_4_worst_software_metrics_agitating_developers_in_2019) - The worst KPIs to track a software team output: Lines of Code, Commit Count, Issues Resolved (aka “Shipping Velocity”) and Code Churn (aka "Efficiency").
 
 ## Objectives and Key Results (OKR)
