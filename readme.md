@@ -280,6 +280,8 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
 
+- [AI Dev Jobs](https://aidevboard.com) - Job board specialized in AI and machine learning engineering roles, with 7,400+ listings from 400+ companies and salary data. Useful for managers hiring AI talent.
+
 ### Hiring Process
 
 High-growth company will all need to industrialize the hiring process at one point.
