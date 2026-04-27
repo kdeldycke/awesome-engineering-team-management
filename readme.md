@@ -528,7 +528,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 - [Choose Well-known Technology](https://news.ycombinator.com/item?id=23445535) - A rephrasing of the above advice. “Choose the technology: 1. You know in and out, and are immediately productive with; 2. Which is sure to be around in 5-7 years, preferably 10-15; 3. For which you are comfortable hiring the next 15 engineers.”
 
-- [Industry Data Models](https://web.archive.org/web/20220330034214/http://databaseanswers.org/data_models/) - 🆓 A huge list of database templates collected over 25 years by Barry Williams to represent any business process.
+- [Industry Data Models](https://web.archive.org/web/20220330034214/http://databaseanswers.org/data_models/) - A huge list of database templates collected over 25 years by Barry Williams to represent any business process.
 
 - “Lots of people make the mistake of thinking there's only two vectors you can go to improve performance, high or wide. High - throw hardware at the problem, on a single machine. Wide - add more machines. [There's a third direction you can go, I call it *going deep*.](https://news.ycombinator.com/item?id=8902739)”
 
