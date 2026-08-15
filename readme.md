@@ -288,6 +288,8 @@ High-growth company will all need to industrialize the hiring process at one poi
 
 - [A Good Tech Resume](https://thetechresume.com/A_Good_Tech_Resume.pdf) - A compilation of advice and example, but containing a good description of a typical hiring pipeline.
 
+- [Resume Roaster](https://resume.roastlabai.com/) - AI-powered resume critique and ATS keyword gap analysis. Upload your resume, paste a job description, and get specific feedback on what to fix before applying.
+
 - [Job Interviewing Guide](https://www.homerun.co/artofwork/guides/job-interviewing) - A detailed description of a hiring process, a great source of inspiration for when your company gets big enough to start to formalize things up.
 
 - [Open Sourced Interview Process](https://github.com/cockroachlabs/open-sourced-interview-process) - Cockroach Labs published their process “to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions.”
