@@ -598,6 +598,8 @@ The most important meetings you'll have are frequent 1:1s with your direct repor
 
 - [1 on 1 Meeting Questions](https://github.com/VGraupera/1on1-questions) - A mega list in which most of them are great starters for conversation, some others are clearly bad ideas. A great source of inspiration nonetheless, but choose carefully.
 
+- [Artful 1:1](https://artful-one-on-ones.pages.dev/try/) - Three free picture-and-question pairs for an optional 5–10 minute opening, with plain-question alternatives and a direct route to the usual agenda. No account required.
+
 ### Standups
 
 A staple of agile decorum, too often misused.
