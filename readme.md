@@ -868,6 +868,8 @@ Once you have the right structure and content thanks to advice above, you can no
 
 - [Presentation Rules](https://web.archive.org/web/20220720230551/http://www.jilles.net/perma/2020/06/05/presentation-rules.html) - A set of 16 rules to avoid boring and ineffective presentations, and have your message reach your audience.
 
+- [Check pointer visibility in Zoom and Teams](https://light-tracer.com/laser-pointer-screen-share-zoom-teams/) - A five-step rehearsal checklist for checking what remote attendees see when a presenter points at shared slides or a window.
+
 - [The Greatest Sales Deck I've Ever Seen](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0) - “1. Name a big change in the world; 2. Show there'll be winners and losers; 3. Tease the promised land; 4. Introduce features as "Magic Gifts"; 5. Present evidence that you can make the story come true.”
 
 - [Some tips on public speaking](https://news.ycombinator.com/item?id=6199544) - “If you ever find yourself buffering on output, rather than making hesitation noises, just pause. People will read that as considered deliberation and intelligence.”
