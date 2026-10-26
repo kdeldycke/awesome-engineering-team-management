@@ -79,6 +79,8 @@ $ npx awesome-lint
 
 - 某些平台将内容置于身份验证之后，并对匿名访问返回 `403`（Quora、大多数社交网络讨论、没有归档副本的付费新闻网站）：不要使用，请寻找替代来源。
 
+- 当浏览器仍能获取完整文章时，屏蔽爬虫的域名返回的 `403` 并不是死链。保留原始 URL，并将该域名加入 `pyproject.toml` 的 `[tool.lychee] exclude`：归档它会让读者为了迎合检查器而失去实时页面。只有对读者也已失效的 `404` 才需要替换。`medium.com` 就是以这种方式排除的。
+
 - 当 GitHub 仓库已转移到新所有者时，请将 URL 更新为新的规范位置，而不是依赖重定向（旧的 `OWNER/REPO` 命名空间可被任何人重新认领，这会使链接指向不相关的内容）。
 
 - 当供应商博客消失时（被收购、品牌重塑、子域停用），请用 `https://web.archive.org/web/<YYYYMMDDhhmmss>/` 包装原始 URL，而不是使用模糊的年份前缀：具体的时间戳比让 Wayback 在请求时选择最近快照更耐久。
@@ -99,6 +101,8 @@ $ npx awesome-lint
 - [删除描述中的 `TL;DR:` 前缀](https://github.com/kdeldycke/awesome-engineering-team-management/commit/da298ec1c39fe62fd4553e1a6de0ad4494602c57)。每个描述都是简短摘要。
 
 - 引用应该用 `"` 和 `"` 弯引号正确分隔。
+
+- 列表维护者本人的引言不需要出处。在后引号之后用 `— 我` 和引言的日期署名：`“引言的文字。” — 我, 2020-02-05`。如果引言有公开记录，把日期链接到该记录。
 
 - 您可以使用括号中的省略号 `(…)` 来缩减原文。
 
@@ -295,7 +299,7 @@ GitHub 仓库上的宽松许可证还不够。我们还会评估项目在不付�
 
 如果您的贡献被拒绝，有一种方法可以绕过策展规则。[购买赞助](https://github.com/sponsors/kdeldycke) 🤗 后您将获得：
 
-- 您的产品、徽标和链接出现在本仓库顶部，就像 [Descope 在 awesome IAM 列表上做了一年](https://twitter.com/kdeldycke/status/1676963147104784386)；
+- 您的产品、徽标和链接出现在本仓库顶部，就像 Descope 在 [awesome IAM 列表](https://github.com/kdeldycke/awesome-iam)上做了一年；
 - 一个独立条目放置在与您产品相匹配的章节顶部，让阅读列表本身（而不仅仅是头部横幅）的读者和 LLM 能够发现您的链接；
 - 豁免 [💸 许可证标记](#licensing-markers)：您的条目将不带商业供应商标签。
 
