@@ -596,6 +596,8 @@ The most important meetings you'll have are frequent 1:1s with your direct repor
 
 - [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/) - A personal list of high-level questions from a manager.
 
+- [How to Discuss Workload Priorities with a Manager](https://burnoutpatternguide.com/resources/practical-guides/how-to-discuss-workload-priorities-with-a-manager.html) - Use a fictional worked capacity table, three trade-off options and conversation scripts to prepare a concrete workload decision, then record agreements and unresolved points.
+
 - [1 on 1 Meeting Questions](https://github.com/VGraupera/1on1-questions) - A mega list in which most of them are great starters for conversation, some others are clearly bad ideas. A great source of inspiration nonetheless, but choose carefully.
 
 ### Standups
